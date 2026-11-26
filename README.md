@@ -46,3 +46,6 @@ Po rundzie 30: [dziennik badań](research-log/2026-11-26-round-30.md) kontroluje
 
 
 Po rundzie 31: [dziennik badań](research-log/2026-11-26-round-31.md) aktualizuje sprawę marsjańskiej próbki Sapphire Canyon: potwierdzone organiczne związki i potencjalna biosygnatura, bez rozstrzygnięcia pochodzenia biologicznego i bez potwierdzonego odkrycia życia.
+
+
+Po rundzie 32: [dziennik badań](research-log/2026-11-26-round-32.md) dokumentuje nowe granice badań SETI: pilotaż ATA w Antysolarnym Punkcie, pierwszy przegląd ALMA przy 90 GHz oraz propozycję szukania szerokopasmowego wycieku technologicznego. Żaden nie wykrył technosygnatury; każdy testuje wąski zakres.
