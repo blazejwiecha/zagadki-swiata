@@ -309,3 +309,10 @@ Szczegóły i audyt źródeł: [dziennik rundy 43](research-log/2026-11-26-round
 Eksperyment Labeled Release mierzył powtarzalne uwalnianie gazu zawierającego ¹⁴C po dodaniu pożywki; część odpowiedzi słabła po ogrzewaniu. To wynik biologicznie interesujący, ale nieswoisty dla życia. CAPyR mierzył niewielkie wiązanie węgla, którego zachowanie przy 90–175°C już pierwotny zespół uznał za mało prawdopodobnie biologiczne. Przegląd NASA nie znalazł jednoznacznego dowodu bioty, a późniejsze odkrycie perchloranu dostarczyło realnej alternatywy chemicznej. McKay et al. (2025) proponują, że perchloran i inne oksychlorany wyjaśniają znaczną część reakcji; Benner et al. oraz preprint Spaceka i współautorów z 2026 r. ponownie argumentują, że dane są zgodne z życiem i wymagają pełniejszej reanalizy. Preprint nie jest nowym pomiarem ani dowodem na organizmy. NASA PDS publikuje dane LR, choć ich transkrypcja ma udokumentowane braki i możliwe błędy. **Wniosek:** Viking zarejestrował prawdziwe, nadal sporne reakcje chemiczno-biologiczne; życie na Marsie nie zostało wykryte.
 
 Szczegóły i źródła: [dziennik rundy 44](research-log/2026-11-26-round-44.md).
+
+
+## Aktualizacja z rundy 45 — ultradźwięki w Komorze Króla
+
+Badanie ScanPyramids opublikowane w 2026 r. tworzy lokalny model 3D dolnych dwóch rzędów granitowych bloków na czterech ścianach Komory Króla. W bloku NW9 wykryto reflektor około 2 m w głąb; autorzy wiążą go z prawdopodobną nieregularną granicą wewnętrzną lub tylną ścianą bloku, ale nie wykluczają efektów wielokrotnych odbić i rozpraszania. Artykuł nie rozpoznaje pustej komory, nie bada całej piramidy i nie dotyczy Wielkiej Pustki ani Korytarza Północnej Ściany. **Wniosek:** nowa praca poprawia lokalne obrazowanie granitu; nie ogłasza nowego ukrytego pomieszczenia.
+
+Szczegóły: [dziennik rundy 45](research-log/2026-11-26-round-45.md).
