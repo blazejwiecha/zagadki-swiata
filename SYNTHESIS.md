@@ -281,3 +281,10 @@ Szczegóły: [dziennik rundy 39](research-log/2026-11-26-round-39.md).
 Odtajniony meldunek IIR opisuje relację załogi z ćwiczenia z 8.09.2021: około 25 epizodów kontaktów w obrazie IR, w tym dwa nad zrzucaną wodną flarą; zawiera też szacunki prędkości 250–1300 mph. Sam meldunek klasyfikuje opis/estymację jako subiektywne, a dostępny pakiet nie zawiera natywnego zapisu sensora do niezależnej rekonstrukcji. PR117–PR122 to wtórne nagrania ekranów telefonem; PR121 i PR122 istotnie się pokrywają. To jeden zgłoszony lot z wieloma klipami, nie sześć odrębnych przypadków. Wniosek: zgłoszona obserwacja pozostaje niezidentyfikowana w publicznych materiałach; nie wykazano niezwykłej prędkości ani pochodzenia pozaziemskiego.
 
 Szczegóły: [dziennik rundy 40](research-log/2026-11-26-round-40.md).
+
+
+## Aktualizacja z rundy 41 — Enceladus i granica między habitability a biosygnaturą
+
+Cassini wykryła składniki i chemiczne gradienty, które mogą wspierać znaną biologię, w tym sygnatury fosforanów sodu. Nowa reanaliza INMS proponuje HCN i kilka małych węglowodorów, przy znanych trudnościach dopasowania widm. Eksperyment z 2026 r. wykazał, że ziemski archeon może rosnąć w laboratoryjnym symulancie wybranych warunków oceanu Enceladusa, a inne symulacje uzyskały proste aminokwasy abiotycznie. To wzmacnia argument za potencjalną zamieszkiwalnością, a zarazem pokazuje, że część związków organicznych może powstawać bez życia. Żadna z tych prac nie pobrała komórek ani nie wykryła metabolizmu na Enceladusie. Najściślejszy wniosek: **potencjalnie zamieszkiwalny ocean, brak wykrytego życia**.
+
+Szczegóły i ograniczenia: [dziennik rundy 41](research-log/2026-11-26-round-41.md).
