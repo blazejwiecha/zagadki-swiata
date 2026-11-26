@@ -242,3 +242,10 @@ Szczegóły: [dziennik rundy 34](research-log/2026-11-26-round-34.md).
 Edycja papirusów z Wadi al-Jarf dokumentuje rejsy z wapieniem z Tury do Akhet-Chufu oraz egipskie załogi i punkty przeładunkowe. Edytor podkreśla, że tekst nie opisuje techniki budowy. Papirus jest mocnym dowodem logistyki transportowej, ale nie rozstrzyga rampy ani sposobu unoszenia bloków.
 
 Szczegóły: [dziennik rundy 35](research-log/2026-11-26-round-35.md).
+
+
+## Aktualizacja z rundy 36 — zakres testu siatki sześciennej
+
+Analiza publicznych 10% danych Auger nie wykryła postulowanego wzoru sześciennego. Autor podaje, że moc testu jest niska dla słabych wzorów, szczególnie przy wysokich energiach; praca nie modeluje pól magnetycznych i nie jest recenzowanym artykułem. Wynik ogranicza wyłącznie silne wersje jednej predykcji regularnej siatki, nie „Matrix” jako całość.
+
+Szczegóły: [dziennik rundy 36](research-log/2026-11-26-round-36.md).
