@@ -81,3 +81,6 @@ Po rundzie 40: [dziennik badań](research-log/2026-11-26-round-40.md) audytuje m
 
 
 Po rundzie 41: [dziennik badań](research-log/2026-11-26-round-41.md) sprawdza ocean Enceladusa: fosforany, związki organiczne i metanogenezę w ziemskim symulancie laboratoryjnym. Wniosek rozdziela warunki potencjalnie zamieszkiwalne od detekcji organizmów: życia na Enceladusie nie wykryto.
+
+
+Po rundzie 42: [dziennik badań](research-log/2026-11-26-round-42.md) porównuje energetyczny argument Vazzego z krytyką jego zakresu przez Edge’a i Browna oraz stanowiskiem Bostroma. Wniosek: ograniczono konkretne pełne implementacje Matrixa; nie obalono ani nie potwierdzono wszystkich wersji hipotezy.
