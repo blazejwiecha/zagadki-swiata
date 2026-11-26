@@ -27,6 +27,12 @@
 - Przykład materialnej pamiątki religijnej: trzy laboratoria datowały próbkę Całunu Turyńskiego metodą AMS na lata 1260–1390 n.e. (przedział 95% ufności; publikacja w *Nature* z 1989 r.). W 2026 r. autorzy zbadali mikroskopowo dwa zachowane fragmenty związane z próbką laboratorium w Arizonie; uznali je za zgodne z głównym płótnem i nie znaleźli oznak naprawy ani zanieczyszczenia w analizowanych fragmentach. To wzmacnia reprezentatywność badanej próbki, ale nie jest nowym datowaniem całego płótna ani dowodem, kto był przedstawiony na wizerunku.
 - Istnieje krytyka statystyczna rozrzutu dwunastu pomiarów z 1988 r.; jej autorzy argumentowali, że wyniki są niejednorodne i zasługują na ponowną ocenę. Sama statystyczna niejednorodność nie ustanawia jednak alternatywnej daty ani nie dowodzi pochodzenia z I wieku. Do jednoznacznego rozstrzygnięcia wieku potrzebne byłyby niezależne, odpowiednio pobrane i opublikowane pomiary materiału z kilku miejsc płótna.
 
+### Doprecyzowanie świadectwa o YHWH: stela Meszy
+
+Stela Meszy z IX w. p.n.e. jest wczesnym, bezpośrednim pozabiblijnym świadectwem kultu YHWH: w linii 18 król Moabu opisuje przejęcie przedmiotów kultowych YHWH z Nebo. Egipski zapis Yhwꜣ z XIV–XIII w. p.n.e. jest wcześniejszym, lecz niepewnym tropem, bo może oznaczać miejsce lub lud, a nie imię boga. Spór o odczytanie linii 31 jako „Dom Dawida” jest odrębny i nie podważa świadectwa linii 18 o YHWH. Stela poświadcza wierzenia i praktykę kultową, nie rozstrzyga metafizycznego istnienia bóstwa.
+
+Źródła: [Luwr, karta Steli Meszy](https://collections.louvre.fr/ark:/53355/cl010120339); [Fleming, *Yahweh Before Israel*](https://www.cambridge.org/core/books/yahweh-before-israel/9FE491AC13605A4550C2A60F64E953C8).
+
 ## Granica naukowego werdyktu
 
 Nauki empiryczne wymagają obserwacji, przewidywań i możliwości, by dane przemawiały przeciw hipotezie. Jeśli twierdzenie o bogu nie wskazuje żadnego możliwego obserwacyjnego wyniku, nauka nie potrafi wydać rozstrzygnięcia „tak” ani „nie”. To nie jest dowód, że wszystkie odpowiedzi są równie dobre: konkretne twierdzenia historyczne i przyrodnicze mogą być wspierane, osłabiane lub obalane dowodami. Filozofia może analizować argumenty metafizyczne, ale ich ocena nie jest tym samym co empiryczna demonstracja.
