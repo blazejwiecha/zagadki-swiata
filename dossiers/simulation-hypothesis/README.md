@@ -21,13 +21,13 @@ Harris (2024) kwestionuje prawdopodobieństwo wniosku z argumentu: wskazuje powo
 
 Beane, Davoudi i Savage (2014) analizują konkretny model numeryczny, w którym przestrzeń-czas ma regularną sześcienną siatkę. W takim modelu można szukać naruszeń symetrii obrotowej lub ograniczeń widma wysokoenergetycznych promieni kosmicznych. Praca opisuje sposób testowania modelu; nie zgłasza wykrycia siatki i nie obejmuje wszystkich możliwych symulacji.
 
-Vazza (2025) oszacował koszty obliczeniowe dla symulowania całego wszechświata albo planety o dokładności wystarczającej do odtwarzania eksperymentów. Wniosek o nieosiągalnych zasobach jest związany z założeniem, że symulator podlega fizyce podobnej do znanej nam. Artykuł silnie ogranicza pełny, wysokiej wierności model fizyczny w tych założeniach, ale nie logicznie wszystkie scenariusze nazywane „Matrixem”.
+Vazza (2025) oszacował koszty obliczeniowe symulowania całego wszechświata, Ziemi oraz niskorozdzielczej Ziemi zgodnej z obserwacjami wysokoenergetycznych neutrin. Wniosek o nieosiągalnych zasobach jest związany z założeniem, że symulator podlega fizyce podobnej do znanej nam. Artykuł silnie ogranicza pełny, wysoko wierny model fizyczny w tych założeniach, ale nie logicznie wszystkie scenariusze nazywane „Matrixem”. Sam Vazza zaznacza, że model symulujący tylko mózg czytelnika, a resztę jako szczegółową halucynację, może uniknąć części tych ograniczeń.
 
-Komentarz Edge’a i Browna (2026) zwraca uwagę, że argument o koszcie kompletnej symulacji świata nie obejmuje wprost minimalnego scenariusza, w którym odtwarza się jedynie doświadczenie obserwatora i nie przewiduje dostępnych anomalii. To komentarz o zakresie argumentu, a nie dowód, że taki scenariusz zachodzi.
+Komentarz Edge’a i Browna (2026) podkreśla, że argument o koszcie kompletnej symulacji świata nie obejmuje wprost minimalnej wersji Bostroma: nie musi być stale obliczany cały łańcuch mikroprocesów ani odległe struktury, jeśli odtwarzane są subiektywne doświadczenia bez wykrywalnych anomalii. To recenzowany komentarz o zakresie argumentu, a nie dowód, że taki scenariusz zachodzi; autorzy nie oceniają prawdopodobieństwa jego prawdziwości.
 
 ## Efekt Mandeli nie jest dowodem zmiany rzeczywistości
 
-Prasad i Bainbridge (2022) wykazali w eksperymentach wspólne, szczegółowe fałszywe wspomnienia dotyczące znanych ikon. Niezależna replikacja opisała odtworzenie wyników. Badania pokazują, że ludzie mogą popełniać podobne błędy pamięci wzrokowej; nie mierzą przeskoków między rzeczywistościami ani zmian przeszłości.
+Prasad i Bainbridge (2022) wykazali w eksperymentach wspólne, szczegółowe fałszywe wspomnienia dotyczące znanych ikon. Replikacja Transparent Replications (2024) objęła Study 1, a nie wszystkie cztery eksperymenty z artykułu; odtworzyła jego główne wyniki. Replikatorzy wskazali zarazem, że praca pierwotna nie była prerejestrowana i zawierała błędy analizy: po korekcie sześć z siedmiu pierwotnie wyróżnionych obrazów zachowało istotność w oryginalnych danych, a siódmy był istotny w danych replikacji. Badania pokazują wspólne błędy rozpoznawania; nie mierzą przeskoków między rzeczywistościami ani zmian przeszłości.
 
 ## Werdykt na dziś
 
@@ -49,4 +49,4 @@ Jednocześnie zdanie „żadna forma symulacji nie jest możliwa” wykraczałob
 - Vazza, F. (2025), “Astrophysical constraints on the simulation hypothesis for this Universe: why it is (nearly) impossible that we live in a simulation”, *Frontiers in Physics* 13. https://doi.org/10.3389/fphy.2025.1561873
 - Edge, E. & Brown, C. A. (2026), “Commentary: Astrophysical constraints on the simulation hypothesis…”, *Frontiers in Physics* 14. https://doi.org/10.3389/fphy.2026.1808725
 - Prasad, D. & Bainbridge, W. A. (2022), “The Visual Mandela Effect as Evidence for Shared and Specific False Memories Across People”, *Psychological Science* 33(12), 1971–1988. https://doi.org/10.1177/09567976221108944
-- Transparent Replications (2024), replikacja badań nad Visual Mandela Effect. https://replications.clearerthinking.org/
+- Handley-Miner & Metskas (2024), Transparent Replications, Report #8, replikacja Study 1: https://replications.clearerthinking.org/replication-2022psci33-12/
