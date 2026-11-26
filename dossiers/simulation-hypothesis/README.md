@@ -49,6 +49,12 @@ Autor nie podaje eksperymentalnego testu ani nowej obserwacyjnej predykcji. To p
 
 Źródło: Wolpert (2025), *What computer science has to say about the simulation hypothesis*: https://doi.org/10.1088/2632-072X/ae1e50; omówienie instytucji autora: https://www.santafe.edu/news-center/news/new-mathematical-framework-reshapes-debate-over-simulation-hypothesis
 
+### Runda 19: co dokładnie wnosi twierdzenie Wolperta
+
+Wolpert wykorzystuje twierdzenie o rekursji Kleene’a oraz twierdzenie Rice’a do analizy możliwości symulowania i samosymulowania systemów, przy założeniach powiązanych z tezą Churcha–Turinga. To wyniki o własnościach formalnych programów i modelowanych systemów. Ich konsekwencje zależą od przyjętego pojęcia symulacji i klasy obliczeń; nie wskazują, że obserwowane prawa fizyki są śladem zewnętrznego komputera.
+
+Artykuł nie zawiera obserwacyjnej detekcji ani empirycznego kryterium odróżnienia symulowanego świata od świata podlegającego tym samym prawom fizyki. To doprecyzowanie zakresu teorii, bez zmiany wyniku empirycznego.
+
 Jednocześnie zdanie „żadna forma symulacji nie jest możliwa” wykraczałoby poza dane. Klasyczny argument Bostroma nie rozstrzyga sprawy, a ograniczenie zasobów Vuzzy dotyczy zdefiniowanej klasy pełnych symulacji i założeń o fizyce symulatora. Modele bez odróżnialnych przewidywań są empirycznie nierozstrzygalne na podstawie obecnych obserwacji. To jest dokładny status wiedzy, nie sugestia za ani przeciw.
 
 ### Co zmieniłoby status dowodowy
