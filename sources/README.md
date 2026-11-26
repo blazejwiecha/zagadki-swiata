@@ -83,7 +83,7 @@ Rejestr startowy, stan na 2026-11-26. Daty publikacji należy odróżniać od da
 | M4 | Symulacja | Vazza (2025), *Astrophysical constraints on the simulation hypothesis for this Universe* — https://doi.org/10.3389/fphy.2025.1561873 | artykuł z oszacowaniem astrofizycznym | Ogranicza symulowanie pełnego, wysoko wiernego świata przy założeniach o kosztach i fizyce symulatora; nie obejmuje automatycznie wszystkich modeli. |
 | M5 | Symulacja | Edge & Brown (2026), *Commentary: Astrophysical constraints on the simulation hypothesis…* — https://doi.org/10.3389/fphy.2026.1808725 | komentarz naukowy | Zwraca uwagę na różnicę między pełną symulacją świata a minimalnym modelem doświadczeń; nie dowodzi, że symulacja istnieje. |
 | M6 | Symulacja / pamięć | Prasad & Bainbridge (2022), *The Visual Mandela Effect as Evidence for Shared and Specific False Memories Across People* — https://doi.org/10.1177/09567976221108944 | eksperymenty psychologiczne w recenzowanym czasopiśmie | Dokumentuje wspólne fałszywe wspomnienia ikon; nie bada ani nie wspiera zmian rzeczywistości. |
-| M7 | Symulacja / pamięć | Transparent Replications, Visual Mandela Effect (2024) — https://replications.clearerthinking.org/ | niezależna replikacja | Raportuje replikację wyników; dotyczy zjawiska pamięciowego, nie hipotezy alternatywnych osi czasu. |
+| M7 | Symulacja / pamięć | Handley-Miner & Metskas (2024), Transparent Replications, Report #8 — https://replications.clearerthinking.org/replication-2022psci33-12/ | niezależna replikacja Study 1 | Odtworzyła główne wyniki jednego z czterech eksperymentów; wskazała też brak prerejestracji i błędy analiz w oryginale. Replikacja dotyczy fałszywych wspomnień, nie zmiany rzeczywistości. |
 
 ## Kryteria oceny kolejnych źródeł
 
