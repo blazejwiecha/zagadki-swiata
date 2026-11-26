@@ -33,6 +33,12 @@
 - Najgłośniejsza ostatnio kandydatura biosygnatury, DMS/DMDS w atmosferze K2-18 b, nadal nie jest wykryciem życia. Część analiz wykazuje, że sygnał zależy od redukcji i modelu; jedna szeroka analiza z 2026 r. znajduje pewne wsparcie dla DMS w wybranych porównaniach, lecz niezależne prace uznają cechy MIRI za szum/systematykę i nie znajdują statystycznie istotnej biosygnatury. Brak zgodności i niezależnego potwierdzenia oznacza, że nie wolno przedstawiać K2-18 b jako odkrytego życia.
 - Przypadek viralowych „mumii z Nazca” wymaga rozdzielenia okazów. Peruwiańskie Ministerstwo Kultury i eksperci medycyny sądowej opisali analizę okazów skonfiskowanych na lotnisku w październiku 2023 r. jako składanych z kości zwierzęcych i nowoczesnych klejów; osobno wskazana trójpalczasta dłoń zbadana przez instytut w 2019 r. składała się z ludzkich kości, bawełny i kleju. Wniosek ten dotyczy tych konkretnych okazów. Nie należy rozszerzać go na każdy obiekt, którego pochodzenie nie zostało zbadane tą samą metodą; równocześnie materiały promocyjne innych okazów nie są same w sobie dowodem pozaziemskiego pochodzenia.
 
+### Nowy przypadek sprawdzony w rundzie 10: Aguadilla (2013)
+
+AARO w raporcie z 2025 r. ocenia z wysoką pewnością, że na nagraniu nie widać anomalii ani przejścia obiektów z powietrza do wody; z umiarkowaną pewnością identyfikuje dwa obiekty jako lampiony. Urząd wyjaśnia pozorny ruch i „wejście do wody” paralaksą/geometrią kamery, a przemieszczenie nad lądem prędkością zbliżoną do wiatru. SCU po publikacji poprosiło o dane potrzebne do sprawdzenia rekonstrukcji (m.in. trajektorię 3D, dane o chmurach i marginesy błędu), a jego niezależna ocena pozostała nieukończona. Najmocniejszy wniosek dotyczy braku wykazanej anomalii w analizie AARO; dokładne rozpoznanie lampionów jest mniej pewne.
+
+Źródła: [AARO, raport przypadku](https://www.aaro.mil/Portals/136/PDFs/UAP_Case_Resolution_Reports/AARO_Puerto_Rico_Object_Report.pdf); [SCU, pytania po raporcie AARO](https://www.explorescu.org/post/response-to-aaro-report-on-puerto-rico-uap-case).
+
 ## Dlaczego temat pozostaje otwarty
 
 - Wszechświat, widma, odległości, okresy obserwacji i możliwe sposoby emisji są olbrzymią przestrzenią poszukiwań. Dotychczasowe przeglądy obejmują tylko jej fragment.
