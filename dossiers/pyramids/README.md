@@ -24,6 +24,7 @@
 - Hipoteza hydraulicznego podnoszenia bloków w piramidzie Dżesera (PLOS ONE 2024) jest propozycją opartą na interpretacji układu wodnego i architektury; to nie ustalenie dla Gizy ani zaakceptowany opis budowy piramid w ogóle. Badanie spotkało się z krytyką specjalistów od archeologii/egiptologii.
 - W latach 2025–2026 ukazały się nowe propozycje użycia przeciwwag, ramp ślizgowych i wielopasmowej rampy zintegrowanej z krawędziami piramidy. Publikacja modelu obliczeniowego z 2026 r. sama wymienia brak bezpośrednich śladów archeologicznych, zależność od pomiarów tarcia, uproszczone założenia o odstępach transportu i wywnioskowane liczebności ekip. To ulepsza porównywanie wykonalności, lecz nie jest odkryciem potwierdzającym, że tę konkretną metodę historycznie zastosowano.
 - Artykuł z 2025 r. proponuje system przeciwwag i ramp ślizgowych, interpretując cechy korytarzy jako elementy takiego mechanizmu. To publikowana i sprawdzalna hipoteza, ale nie bezpośredni ślad zachowanego urządzenia. Ocena autorów opiera się na interpretacji architektury; sama publikacja przedstawia ją jako nowy model, a nie ustalony opis historyczny.
+- Nowszy model wielopasmowej rampy zintegrowanej z krawędziami piramidy (2026) krytykuje część założeń hipotezy przeciwwag, a zarazem proponuje własne przewidywania możliwe do sprawdzenia geofizycznie i śladami zużycia. To pokazuje, że konkurencja hipotez może generować konkretne testy; dopóki ich nie wykonano lub nie zreplikowano, spór pozostaje otwarty.
 
 ## Obcy i „niewytłumaczalna precyzja”
 
