@@ -295,3 +295,10 @@ Szczegóły i ograniczenia: [dziennik rundy 41](research-log/2026-11-26-round-41
 Vazza (2025) pokazuje, że trzy konkretne warianty pełnej lub wysokorozdzielczej symulacji — w tym Ziemia z rozdzielczością ograniczoną obserwacjami neutrin — wymagałyby nieosiągalnych zasobów, jeśli host-universe podlega fizyce podobnej do naszej. Recenzowany komentarz Edge’a i Browna (2026) nie podważa rachunków, lecz wskazuje, że dotyczą pełniejszego, globalnie spójnego świata niż minimalny wariant Bostroma. Bostrom w FAQ z 2025 r. opisuje możliwość podtrzymywania spójnych doświadczeń przez uproszczone lub generowane na żądanie szczegóły. To nie dowodzi wykonalności takiego rozwiązania ani nie jest dowodem na symulację. Najściślejszy wniosek: ograniczono kilka konkretnych implementacji Matrixa; ogólna hipoteza pozostaje bez bezpośredniej detekcji i trudno ją testować bez wskazania konkretnego mechanizmu.
 
 Szczegóły: [dziennik rundy 42](research-log/2026-11-26-round-42.md).
+
+
+## Aktualizacja z rundy 43 — fosfina na Wenus
+
+Pierwotna identyfikacja PH₃ opierała się na trudnym sygnale przy 266,94 GHz; nota redakcyjna wskazała błąd w przetwarzaniu ALMA, a niezależne reanalizy zakwestionowały wiarygodność linii. Zespół odkrywców odpowiedział, że po kalibracji nadal widzi słabszy sygnał. Obserwacje SOFIA wyznaczyły limit 0,8 ppb dla wysokości ok. 75–110 km, lecz pojedyncza epoka i profil wysokościowy nie rozstrzygają całej zmienności Wenus. Zespół JCMT-Venus raportuje nowe, wstępne widma i około 0,3 ppm przy ok. 55 km z eksperymentalną metodą odzyskiwania skrzydeł linii; materiały są konferencyjne i nie stanowią niezależnej replikacji. Przyjęte do MNRAS badanie Tang et al. z 2026 r. dotyczy H₂O/SO₂, nie rozstrzyga PH₃. Najściślejszy wniosek: obecność fosfiny pozostaje sporna; nawet jej potwierdzenie nie byłoby samo w sobie dowodem życia. Życia na Wenus nie wykryto.
+
+Szczegóły i audyt źródeł: [dziennik rundy 43](research-log/2026-11-26-round-43.md).
