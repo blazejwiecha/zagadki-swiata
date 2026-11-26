@@ -131,3 +131,11 @@ Podział wniosku: historyczny kult YHWH w IX w. p.n.e. — dobrze poświadczony;
 Na pitosach z Kuntillet Ajrud występują zarazem inskrypcje i rysunki, lecz sam fakt ich współwystępowania nie dowodzi, że ilustracja podpisuje tekst. Sugimoto (2012) argumentuje, że różne ręce i rozmieszczenie nie potwierdzają wizerunku YHWH z małżonką; Kang (2011) przedstawia recenzowany argument przeciwny, uznając taką interpretację za najbardziej prawdopodobną. Smoak i Schniedewind (2019) wskazują, że sam napis nie opisuje Aszery, a relacja napisu i rysunku nie rozstrzyga tożsamości. W tekstach ugaryckich Athirat jest małżonką El; to bezpośredni dowód statusu w religii Ugarit, ale nie związek z YHWH. Wniosek po porównaniu: hipoteza małżonki YHWH ma akademickich obrońców, lecz ani inskrypcja, ani pitosy, ani teksty ugaryckie nie dają podpisanego i jednoznacznego dowodu takiego małżeństwa.
 
 Szczegóły: [dziennik rundy 34](../../research-log/2026-11-26-round-34.md). Źródła A51–A53 w [rejestrze](../../sources/README.md).
+
+
+
+### Aktualizacja — runda 39: egipskie *yhwꜣ* z Soleb
+
+W egipskiej liście z Soleb, w świątyni Amenhotepa III, widnieje formuła odczytywana jako „ziemia Shasu z *yhwꜣ*”; podobny wpis zachował się później w Amara West. To możliwa wczesna paralela imienia YHWH, nie jawne wymienienie „boga Izraela”. Kennedy (2019) argumentuje za identyfikacją z Yahweh, ale zapis pozostaje geografczno-etniczną nazwą w egipskiej liście. Adrom i Müller (2017) wskazują, że nie wiadomo, czy człon oznaczał grupę, terytorium, osadę lub miejsce kultu, ani czy nazwa pochodziła od boga. Shalomi-Hen (2021) również nie uznaje zagadki za rozwiązaną; Fleming (2020) podkreśla, że materiał nie dowodzi samodzielnie południowego pochodzenia kultu. Napis nie wymienia Izraelitów, Exodusu ani nie opisuje praktyki kultowej. Wniosek: ważny, ale nierozstrzygający trop dotyczący historii nazwy.
+
+Szczegóły: [dziennik rundy 39](../../research-log/2026-11-26-round-39.md). Źródła A57–A60 w [rejestrze](../../sources/README.md).
