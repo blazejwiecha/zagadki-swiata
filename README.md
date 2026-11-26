@@ -74,3 +74,7 @@ Po rundzie 38: [dziennik badań](research-log/2026-11-26-round-38.md) sprawdza z
 
 
 Po rundzie 39: [dziennik badań](research-log/2026-11-26-round-39.md) analizuje formułę *yhwꜣ* z Soleb. To możliwy wczesny trop dla historii imienia YHWH, ale nie jednoznaczne wymienienie boga Izraela ani dowód Exodus/południowego pochodzenia kultu.
+
+
+
+Po rundzie 40: [dziennik badań](research-log/2026-11-26-round-40.md) audytuje meldunek AC-130 „cold orbs”. Pokazuje, że sześć wtórnych klipów to jedna sprawa, a szacunki 250–1300 mph nie są weryfikowalnym pomiarem z natywnych danych sensora.
