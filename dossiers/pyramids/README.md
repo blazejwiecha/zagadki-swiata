@@ -76,4 +76,12 @@ Nie dowodzi to, że starożytni projektanci świadomie obliczali odporność sej
 
 Źródło: ElGabry et al. (2026), *Architectural and geotechnical aspects affecting earthquake resilience for the antique Egyptian Khufu pyramid*: https://doi.org/10.1038/s41598-026-49962-6
 
+### Aktualizacja — runda 17: nowy model ramp w preprincie
+
+Choi i Dubray opublikowali w listopadzie 2026 r. wersję 2 preprintu z modelem 35 zewnętrznych, suchych tarasów i ramp biegnących zygzakiem po dwóch ścianach. Ich symulacja podaje 24,5 roku dla całej budowy przy wariancie, w którym wszystkie niezmierzone parametry przyjęto pesymistycznie; autorzy wyraźnie rozróżniają to od oczekiwanej „zdolności” konstrukcji 12 lat, która nie jest szacunkiem historycznego czasu budowy.
+
+To szczegółowy model inżynieryjny, nie znalezisko archeologiczne. Autorzy zakładają m.in., że kamień jest już zgromadzony u podnóża ramp; czas obracania ładunków, ich załadunku, ustawiania bloków, tarcie i siła uciągu nie są zmierzone dla takiego placu budowy. Sami przyznają też, że rampy przy ścianach utrudniają obserwację narożników. Zgodność modelu z dostępną chronologią pokazuje wykonalność przy przyjętych parametrach, nie dowodzi, że właśnie tak budowano.
+
+Źródło: Choi & Dubray (2026), preprint v2, *Understanding the Construction of the Great Pyramid: Mastabas, Back-and-Forth Ramps and Finishing from the Top*: https://doi.org/10.20944/preprints202610.0852.v2
+
 Wstępna ocena: egipscy ludzie zbudowali piramidy przy użyciu zorganizowanej logistyki i technik dostępnych w epoce. Konkretna konfiguracja metod podnoszenia dla Wielkiej Piramidy nie jest do dziś rozstrzygnięta. To lokalna luka w szczegółach technicznych, nie brak wiedzy o tym, kto zbudował piramidy ani dowód udziału obcych.
