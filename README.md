@@ -66,3 +66,7 @@ Po rundzie 36: [dziennik badań](research-log/2026-11-26-round-36.md) ocenia tes
 
 
 Po rundzie 37: [dziennik badań](research-log/2026-11-26-round-37.md) oddziela dowody na organizację osady i zaopatrzenia w Gizie od słabiej poświadczonego statusu prawnego pracowników. Cmentarz i badanie złamań nie są prostą próbą załogi Chufu; źródła nie dowodzą ani „wszystkich niewolników”, ani „wszystkich ochotników”.
+
+
+
+Po rundzie 38: [dziennik badań](research-log/2026-11-26-round-38.md) sprawdza znaki ekip w górnych komorach Chufu, późniejsze napisy na pokrywach drugiego dołu łodzi oraz zarzut fałszerstwa. Dowody mocno wspierają przypisanie piramidy Chufu; fałszerstwa nie wykazano.
