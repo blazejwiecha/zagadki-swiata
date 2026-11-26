@@ -68,4 +68,12 @@ Doniesienia o wielkich podziemnych strukturach pod piramidami z 2025 r. nie maj�
 
 ## Status
 
+### Aktualizacja — runda 16: pomiary sejsmiczne piramidy Chufu
+
+Badanie opublikowane w *Scientific Reports* 21 maja 2026 r. zebrało mikrodrgania w 37 punktach na dostępnych poziomach i w otoczeniu piramidy. Większość punktów konstrukcji wykazała częstotliwości własne około 2,0–2,6 Hz (średnio około 2,3 Hz), wobec około 0,6 Hz dla gruntu obok; względne wzmocnienie w najwyższych badanych komorach odprężających było mniejsze niż na podobnej wysokości konstrukcji. To pomiar dynamicznych właściwości i potencjalnego rezonansu.
+
+Nie dowodzi to, że starożytni projektanci świadomie obliczali odporność sejsmiczną. Sami autorzy piszą, że HVSR jest wskaźnikiem względnym, a nie bezpośrednią funkcją przenoszenia budowli. Indeks Kg = 8,2 dotyczy podatności gruntu, nie stanu konstrukcyjnego kamiennej piramidy; autorzy wprost zaznaczają, że wniosek o celowej optymalizacji sejsmicznej pozostaje spekulacyjny. Badanie nie rozstrzyga sposobu podnoszenia bloków.
+
+Źródło: ElGabry et al. (2026), *Architectural and geotechnical aspects affecting earthquake resilience for the antique Egyptian Khufu pyramid*: https://doi.org/10.1038/s41598-026-49962-6
+
 Wstępna ocena: egipscy ludzie zbudowali piramidy przy użyciu zorganizowanej logistyki i technik dostępnych w epoce. Konkretna konfiguracja metod podnoszenia dla Wielkiej Piramidy nie jest do dziś rozstrzygnięta. To lokalna luka w szczegółach technicznych, nie brak wiedzy o tym, kto zbudował piramidy ani dowód udziału obcych.
