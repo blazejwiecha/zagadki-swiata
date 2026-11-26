@@ -84,3 +84,6 @@ Po rundzie 41: [dziennik badań](research-log/2026-11-26-round-41.md) sprawdza o
 
 
 Po rundzie 42: [dziennik badań](research-log/2026-11-26-round-42.md) porównuje energetyczny argument Vazzego z krytyką jego zakresu przez Edge’a i Browna oraz stanowiskiem Bostroma. Wniosek: ograniczono konkretne pełne implementacje Matrixa; nie obalono ani nie potwierdzono wszystkich wersji hipotezy.
+
+
+Po rundzie 43: [dziennik badań](research-log/2026-11-26-round-43.md) sprawdza spór o fosfinę na Wenus: pierwotną detekcję, krytyczne reanalizy, wynik SOFIA i wstępne nowe wyniki JCMT-Venus. Fosfina nie jest rozstrzygnięta, a życia nie wykryto.
