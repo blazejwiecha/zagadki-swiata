@@ -273,3 +273,11 @@ Szczegóły: [dziennik rundy 38](research-log/2026-11-26-round-38.md).
 W Soleb, w egipskiej liście ziem i grup Shasu ze świątyni Amenhotepa III, występuje formuła odczytywana jako „ziemia Shasu z *yhwꜣ*”; podobny wpis zachował się później w Amara West. To możliwa wczesna paralela imienia YHWH, ale sama lista nie nazywa wprost boga Izraela ani nie mówi o Izraelitach, Exodusie czy kulcie. Kennedy argumentuje za identyfikacją z Yahweh; Adrom i Müller, Shalomi-Hen oraz Fleming wskazują ograniczenia referentu, geografii i transmisji list. Najściślejszy wniosek: starożytny zapis stanowi ważny trop językowy i geograficzny, nie rozstrzygający dowód pochodzenia jahwizmu.
 
 Szczegóły: [dziennik rundy 39](research-log/2026-11-26-round-39.md).
+
+
+
+## Aktualizacja z rundy 40 — AC-130 i „cold orbs” nad Zatoką Omańską
+
+Odtajniony meldunek IIR opisuje relację załogi z ćwiczenia z 8.09.2021: około 25 epizodów kontaktów w obrazie IR, w tym dwa nad zrzucaną wodną flarą; zawiera też szacunki prędkości 250–1300 mph. Sam meldunek klasyfikuje opis/estymację jako subiektywne, a dostępny pakiet nie zawiera natywnego zapisu sensora do niezależnej rekonstrukcji. PR117–PR122 to wtórne nagrania ekranów telefonem; PR121 i PR122 istotnie się pokrywają. To jeden zgłoszony lot z wieloma klipami, nie sześć odrębnych przypadków. Wniosek: zgłoszona obserwacja pozostaje niezidentyfikowana w publicznych materiałach; nie wykazano niezwykłej prędkości ani pochodzenia pozaziemskiego.
+
+Szczegóły: [dziennik rundy 40](research-log/2026-11-26-round-40.md).
