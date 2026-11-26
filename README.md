@@ -53,3 +53,6 @@ Po rundzie 32: [dziennik badań](research-log/2026-11-26-round-32.md) dokumentuj
 
 
 Po rundzie 33: [dziennik badań](research-log/2026-11-26-round-33.md) zestawia pozabiblijne świadectwo YHWH na steli Meszy z debatą o *ʾšrth* z Kuntillet Ajrud i Khirbet el-Qom. Ustala, co źródła mówią o praktyce religijnej; nie podaje spornego przekładu „Aszera, żona Jahwe” jako faktu.
+
+
+Po rundzie 34: [dziennik badań](research-log/2026-11-26-round-34.md) rozdziela sporne odczytanie pitosów Ajrud od tekstów ugaryckich. Ugarit poświadcza Athirat jako małżonkę El, ale nie YHWH; same rysunki z Ajrud nie identyfikują jednoznacznie bogów.
