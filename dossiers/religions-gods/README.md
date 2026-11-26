@@ -16,6 +16,8 @@
 - Religie nie mają jednego wspólnego założyciela ani jednego źródła. Konkretne tradycje zmieniały się w czasie; np. źródła starożytnego Izraela pokazują różne formy praktyki religijnej i stopniowe, nierównomierne przejście do wyłącznego kultu YHWH.
 - Konkretne studium przypadku: inskrypcje z Kuntillet ʿAjrud z epoki żelaza zawierają formuły błogosławieństwa „YHWH z Temanu/Szomeronu i jego/jej aszerą”. To świadectwo tego, jak część ludzi wówczas praktykowała religię; nie jest rozstrzygnięte, czy „asherah” oznacza tu boginię Aszerę, kultowy symbol/obiekt, czy inną instancję zależną od YHWH. Nie wolno z tego wyciągać wniosku, że wszyscy Izraelici wierzyli w boga mającego żonę.
 - W egipskich listach geograficznych z XIV–XIII w. p.n.e. występuje nazwa Shasu-land of Yhwꜣ. Część uczonych łączy ją z najstarszym śladem imienia YHWH; identyfikacja i jej znaczenie dla pochodzenia kultu są dyskutowane. To trop historyczny, nie rozstrzygnięcie o realności bytu.
+- Nowa synteza epigraficzna Cambridge o inskrypcjach hebrajskich opisuje dziesiątki poświadczonych zapisów imienia YHWH w inskrypcjach z VIII–VI w. p.n.e. To mocny dowód, że kult YHWH był historyczny i szeroko widoczny w praktykach Izraela/Judy tego okresu. Inskrypcje poświadczają wyznawców i nazewnictwo, nie nadprzyrodzone istnienie bóstwa ani jego dokładne początki.
+- Najwcześniejsze chrześcijańskie świadectwa o zmartwychwstaniu są tekstami wiary i relacji o doświadczeniach uczniów. 1 Kor 15:3–5 zawiera formułę, którą część badaczy uznaje za wcześniejszą niż sam list; szczegóły jej daty, sensu „zmartwychwstania” i zakresu świadectw są dyskutowane. Nawet ustalenie, że pierwsi chrześcijanie szczerze wierzyli i relacjonowali takie doświadczenia, nie jest samo w sobie niezależnym, empirycznym dowodem nadprzyrodzonej przyczyny.
 - Historyk może oceniać, czy tekst jest wczesny, czy wydarzenie jest poświadczone niezależnie, czy dany kult istniał i jak ewoluował. To nie jest automatycznie dowód cudu ani prawdziwości teologii.
 - Badania nad modlitwą lub cudami mogą sprawdzać konkretne, operacyjne skutki, gdy hipoteza przewiduje mierzalną różnicę. Wynik pojedynczego badania nie rozstrzyga wszystkich możliwych pojęć Boga.
 - Przykład testowalnego twierdzenia: wieloośrodkowe, randomizowane badanie STEP (1 802 pacjentów po pomostowaniu wieńcowym) nie wykazało poprawy w 30-dniowym przebiegu pooperacyjnym u osób objętych modlitwą w porównaniu z grupą bez modlitwy (52% wobec 51% z powikłaniami). To wynik dotyczący konkretnej interwencji i konkretnego wyniku medycznego; nie testuje istnienia Boga ani wszystkich rodzajów modlitwy.
@@ -50,6 +52,9 @@ Nauki empiryczne wymagają obserwacji, przewidywań i możliwości, by dane prze
 - Damon et al. (1989), *Radiocarbon dating of the Shroud of Turin*, Nature 337:611–615: https://doi.org/10.1038/337611a0
 - Freer-Waters & Jull (2026), *Analysis of textile fragments from the 1988 radiocarbon samples of the Turin Shroud*, npj Heritage Science 14:263: https://doi.org/10.1038/s40494-026-02530-7
 - Riani et al. (2019), *Radiocarbon Dating of the Turin Shroud: New Evidence from Raw Data*: https://doi.org/10.1111/arcm.12467
+- Richelle, *Ancient Hebrew Inscriptions* (Cambridge Elements, 2026): https://doi.org/10.1017/9781009560245
+- Ware (2014), *The Resurrection of Jesus in the Pre-Pauline Formula of 1 Cor 15.3–5*: https://doi.org/10.1017/S0028688514000150
+- Stanford Encyclopedia of Philosophy, *Miracles* (argumenty i granice wnioskowania z relacji): https://plato.stanford.edu/entries/miracles/
 
 ## Status
 
