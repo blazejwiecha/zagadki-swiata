@@ -121,3 +121,15 @@ Osobno, WAM zrelacjonowała 8.11.2025 wypowiedź Zahi Hawassa o nowym 30-metrowy
 Papirusy z Wadi al-Jarf, wydane przez Pierre’a Talleta (IFAO 2017), dokumentują załogę Merera, załadunek kamienia w Tura Północ/Południe, rejsy do Akhet-Chufu i postoje na trasie. Wpisy są częściowo uszkodzone; przekład oznacza luki. Wydawca wprost stwierdza, że dziennik nie wymienia technik budowy: dotyczy misji załogi i transportu wapienia, prawdopodobnie m.in. na okładzinę. To mocny bezpośredni zapis egipskiej logistyki przy budowie kompleksu Chufu; nie identyfikuje rampy ani sposobu podnoszenia bloków. Dopasowanie rampy do znanej trasy dostaw nie jest samo w sobie potwierdzeniem użycia tej rampy.
 
 Szczegóły: [dziennik rundy 35](../../research-log/2026-11-26-round-35.md). Źródła A54–A55 w [rejestrze](../../sources/README.md).
+
+
+
+## Kto pracował przy piramidach? Osada, kości i corvée (runda 37)
+
+AERA dokumentuje zorganizowaną osadę i zaplecze; główna znana faza Heit el-Ghurab przypada na Chefrena i Menkaure, a wcześniejsza faza z czasów Chufu pozostaje mniej pewna. Dlatego „cmentarz robotników” nie jest prostą listą załogi Wielkiej Piramidy. Badanie Zaki obejmuje 204 dorosłe szkielety z nekropolii Gizy (2 287 kości długich; 45 złamań, z których większość zrosła się z dobrym ustawieniem), lecz nie izoluje budowniczych Chufu. Wynik wspiera wniosek, że część złamań leczono lub goiła się korzystnie; sam nie dowodzi dostępu do określonej służby medycznej ani dobrych warunków całej siły roboczej.
+
+Corvée oznacza obowiązek/podatek pracy. Akademicki przegląd określa dowody dla Starego Państwa jako skąpe i głównie pośrednie. Materiały Gizy potwierdzają administrację, zespoły pracy i logistykę, lecz nie rozstrzygają prawnego statusu wszystkich osób ani dobrowolności ich służby. Twierdzenia zarówno „wszyscy byli niewolnikami”, jak i „wszyscy byli wolnymi ochotnikami” wykraczają poza zachowane dowody.
+
+Dodatkowo skontrolowano artykuł Joseph (2026), który ogłasza rozstrzygnięcie na rzecz sezonowego corvée. Jego źródła nie dokumentują sezonowego poboru całej załogi Chufu; PDF zawiera też chronologiczną niespójność dat recenzji (otrzymano po akceptacji i po dacie kontroli). To nie dowodzi nadużycia, ale wraz z nadmiernie kategoryczną interpretacją wyklucza użycie tej pracy jako samodzielnego rozstrzygnięcia.
+
+Pełny audyt: [dziennik rundy 37](../../research-log/2026-11-26-round-37.md). Nowe źródła P17–P20 w [rejestrze](../../sources/README.md).
