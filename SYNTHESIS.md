@@ -235,3 +235,10 @@ Szczegóły i źródła: [dziennik rundy 33](research-log/2026-11-26-round-33.md
 Pitosy z Kuntillet Ajrud nie są podpisanym portretem: artykuły różnie oceniają, czy postacie i motywy odnoszą się do tekstu o YHWH/*ʾšrth*. Teksty z Ugarit poświadczają Athirat jako małżonkę El w tamtejszej religii, lecz nie ustanawiają związku z YHWH. Te materiały poszerzają kontekst porównawczy, ale nie rozwiązują sporu o małżonkę YHWH.
 
 Szczegóły: [dziennik rundy 34](research-log/2026-11-26-round-34.md).
+
+
+## Aktualizacja z rundy 35 — dziennik Merera
+
+Edycja papirusów z Wadi al-Jarf dokumentuje rejsy z wapieniem z Tury do Akhet-Chufu oraz egipskie załogi i punkty przeładunkowe. Edytor podkreśla, że tekst nie opisuje techniki budowy. Papirus jest mocnym dowodem logistyki transportowej, ale nie rozstrzyga rampy ani sposobu unoszenia bloków.
+
+Szczegóły: [dziennik rundy 35](research-log/2026-11-26-round-35.md).
