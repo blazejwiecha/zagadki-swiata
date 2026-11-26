@@ -23,6 +23,6 @@ Publiczny notatnik badań Błażeja. Cel: zebrać twierdzenia, dane pierwotne, p
 
 ## Stan na 2026-11-26
 
-Wstępny przegląd nie daje jednego wspólnego „sekretnego rozwiązania”. Są cztery odrębne klasy pytań: czy istnieje życie poza Ziemią (empirycznie otwarte), jak dokładnie wykonano niektóre elementy budowy piramid (częściowo otwarte mimo mocnych danych o ludziach i logistyce), jak historia religii i kultów wygląda w źródłach oraz czy konkretne twierdzenia metafizyczne dają się testować, a także czy rzeczywistość jest symulacją. Dla ostatniego pytania istnieją argumenty filozoficzne i testowalne modele fizyczne, lecz dotąd brak empirycznego wykrycia, że żyjemy w symulacji. Dossiers będą aktualizowane przy kolejnych rundach badań.
+To cztery odrębne klasy pytań, bez jednego wspólnego „sekretnego rozwiązania”. Życie poza Ziemią empirycznie pozostaje otwarte; część szczegółów techniki budowy piramid nadal nie jest rozstrzygnięta mimo mocnych danych o ludzkiej pracy i logistyce; historię religii bada się źródłowo, ale inskrypcje nie rozstrzygają metafizyki; dla hipotezy symulacji brak empirycznego wykrycia. Runda 20 aktualizuje spór o DMS/DMDS w atmosferze K2-18 b: literatura pozostaje niezgodna, a żadna z przywołanych prac nie wykryła życia. Dossiers i synteza będą aktualizowane przy kolejnych rundach badań.
 
-Po rundzie 19: zob. [syntetyczny stan dowodów](SYNTHESIS.md) oraz dzienniki badań z 26 listopada 2026 r.
+Po rundzie 20: zob. [syntetyczny stan dowodów](SYNTHESIS.md) oraz [dziennik rundy 20](research-log/2026-11-26-round-20.md).
