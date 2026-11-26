@@ -108,3 +108,13 @@ Strona mówi, że paczki będą aktualizowane co najmniej trzy razy w roku, ale 
 Źródło: NARA, *Bulk Downloads for Records Related to UAPs*: https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download
 
 Wstępna ocena: nie ma jawnego dowodu potwierdzającego wizytę obcych na Ziemi. Istnienie życia poza Ziemią pozostaje pytaniem otwartym. Weryfikacja będzie kontynuowana poprzez badanie konkretnych nagrań, zeznań, dokumentacji i granic czułości poszukiwań.
+
+
+
+## Zatoka Omańska — „cold orbs” z AC-130 (runda 40)
+
+DOW-UAP-D101 to meldunek IIR z relacją załogi z nocnego ćwiczenia 8.09.2021, nie ukończona ocena techniczna. Załoga zgłosiła około 25 epizodów kontaktów EO/IR; meldunek zawiera też szacunki prędkości pozornej 250–1300 mph, ale publiczny pakiet nie udostępnia natywnego zapisu sensora i metadanych pozwalających zweryfikować te liczby. Własny język raportu określa opisy/estymacje jako subiektywne.
+
+PR117–PR122 to nagrania telefonem obrazu wyświetlacza IR, nie natywne strumienie EO/IR. AARO ostrzega, że wtórne nagranie obniża jakość i że opis klipów nie jest wnioskiem analitycznym. PR121 i PR122 znacznie pokrywają się treścią; nie należy liczyć sześciu plików jako sześciu niezależnych przypadków. Wniosek pozostaje: obserwacja zgłoszona, identyfikacja i parametry ruchu niezweryfikowane z publicznych danych; brak potwierdzenia pochodzenia pozaziemskiego.
+
+Szczegóły: [dziennik rundy 40](../../research-log/2026-11-26-round-40.md). Źródła A61–A63 w [rejestrze](../../sources/README.md).
