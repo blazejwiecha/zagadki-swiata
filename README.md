@@ -1,6 +1,6 @@
-# Notatnik badań: trzy trudne tematy
+# Notatnik badań: trudne tematy bez skrótów
 
-Publiczny notatnik badań Błażeja. Cel: zebrać twierdzenia, dane pierwotne, publikacje, kontrargumenty i otwarte pytania dotyczące (1) życia pozaziemskiego/UAP, (2) budowy piramid, (3) religii i bogów.
+Publiczny notatnik badań Błażeja. Cel: zebrać twierdzenia, dane pierwotne, publikacje, kontrargumenty i otwarte pytania dotyczące (1) życia pozaziemskiego/UAP, (2) budowy piramid, (3) religii i bogów oraz (4) hipotezy symulacji rzeczywistości („Matrixa”).
 
 ## Zasady pracy
 
@@ -16,12 +16,13 @@ Publiczny notatnik badań Błażeja. Cel: zebrać twierdzenia, dane pierwotne, p
 - [Życie pozaziemskie i UAP](aliens-uap/README.md)
 - [Piramidy](pyramids/README.md)
 - [Religie i bogowie](religions-gods/README.md)
+- [Hipoteza symulacji („Matrix”)](simulation-hypothesis/README.md)
 - [Rejestr źródeł](sources/README.md)
 - [Dziennik poszukiwań](research-log/)
 - [Syntetyczny stan dowodów i otwartych pytań](SYNTHESIS.md)
 
 ## Stan na 2026-11-26
 
-Wstępny przegląd nie daje jednego wspólnego „sekretnego rozwiązania”. Są trzy odrębne klasy pytań: czy istnieje życie poza Ziemią (empirycznie otwarte), jak dokładnie wykonano niektóre elementy budowy piramid (częściowo otwarte mimo mocnych danych o ludziach i logistyce), oraz czy byty nadnaturalne istnieją (dla ogólnych, nietestowalnych definicji nie jest to pytanie rozstrzygalne metodą nauk empirycznych). Dossiers będą aktualizowane przy kolejnych rundach badań.
+Wstępny przegląd nie daje jednego wspólnego „sekretnego rozwiązania”. Są cztery odrębne klasy pytań: czy istnieje życie poza Ziemią (empirycznie otwarte), jak dokładnie wykonano niektóre elementy budowy piramid (częściowo otwarte mimo mocnych danych o ludziach i logistyce), jak historia religii i kultów wygląda w źródłach oraz czy konkretne twierdzenia metafizyczne dają się testować, a także czy rzeczywistość jest symulacją. Dla ostatniego pytania istnieją argumenty filozoficzne i testowalne modele fizyczne, lecz dotąd brak empirycznego wykrycia, że żyjemy w symulacji. Dossiers będą aktualizowane przy kolejnych rundach badań.
 
-Po rundzie 14: zob. [syntetyczny stan dowodów](SYNTHESIS.md) oraz dzienniki badań z 26 listopada 2026 r.
+Po rundzie 15: zob. [syntetyczny stan dowodów](SYNTHESIS.md) oraz dzienniki badań z 26 listopada 2026 r.
