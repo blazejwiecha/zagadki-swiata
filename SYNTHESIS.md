@@ -1,6 +1,6 @@
 # Syntetyczny stan dowodów
 
-**Stan na:** 2026-11-26, po rundzie 19.
+**Stan na:** 2026-11-26, po rundzie 20.
 **Zakres:** życie pozaziemskie/UAP, budowa piramid, religie i bogowie, hipoteza symulacji („Matrix”).  
 **Zasada:** poniżej rozdzielam brak potwierdzenia, potwierdzoną historię i pytania niedostępne dla obecnego testu. To nie jest dowód, że „przeszukano cały internet”.
 
@@ -121,3 +121,12 @@ Wniosek z tej rundy: w nowych materiałach nie znaleziono potwierdzenia wizyty k
 - Dla UAP: oryginalne, skalibrowane, wielosensorowe nagrania z metadanymi, geometrią i niezależną replikacją analizy.
 - Dla piramidy: nowy bezpośredni ślad archeologiczny, którego położenie i zużycie rozróżnią konkurujące modele konstrukcyjne.
 - Dla konkretnego twierdzenia religijnego: jasno określona, powtarzalna prognoza empiryczna lub niezależnie potwierdzone dane o konkretnym wydarzeniu. To nadal nie automatycznie dowodzi wszystkich doktryn danej religii.
+
+
+## Aktualizacja po rundzie 20 — kandydatura K2-18 b
+
+Stan na 26 listopada 2026 r.: w recenzowanej literaturze wyniki dotyczące DMS/DMDS pozostają rozbieżne i zależne od redukcji widma oraz przestrzeni modeli. Analiza ApJL z 2026 r. znajduje poparcie dla DMS w badanych konfiguracjach; niezależna analiza A&A z lipca 2026 r. traci sygnał DMS w najbardziej kompleksowych modelach; analiza w *Nature Astronomy* pokazuje, że po poszerzeniu porównywanych modeli wcześniejsze poparcie dla biosygnatury może zniknąć. Żadna z tych prac nie stwierdza wykrycia życia. Odpowiedź jednoznaczna dla pytania „czy wykryto życie?” brzmi: **nie**. Pytanie „czy w widmie jest DMS/DMDS?” nie ma jeszcze stabilnego, niezależnie odtworzonego rozstrzygnięcia.
+
+Kampania Allen Telescope Array dla 3I/ATLAS (7,25 h, 1–9 GHz) nie znalazła wąskopasmowej technosygnatury w analizowanym materiale. To wynik dla zbadanych pasm, czułości, czasu i typu sygnału. NASA podaje w zaktualizowanym w październiku 2026 FAQ, że nie ma wiarygodnych dowodów życia pozaziemskiego ani danych wspierających pozaziemskie pochodzenie UAP; brak detekcji nie rozstrzyga, czy życie gdziekolwiek indziej istnieje.
+
+Źródła szczegółowo opisane w [dzienniku rundy 20](research-log/2026-11-26-round-20.md).
