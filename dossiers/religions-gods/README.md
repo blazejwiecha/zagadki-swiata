@@ -81,4 +81,14 @@ Nauki empiryczne wymagają obserwacji, przewidywań i możliwości, by dane prze
 
 ## Status
 
+### Aktualizacja — runda 16: Allāh w inskrypcjach przed islamem; tekst z Lachish
+
+Al-Jallad i Sidky (2026) zestawiają ponad 40 znanych późnoantycznych inskrypcji paleoarabskich z wcześniejszymi inskrypcjami północnoarabskimi, tekstami koranicznymi i późniejszymi relacjami. W znanym zbiorze późniejszych inskrypcji inwokacje skupiają się na Allāhu/al-ʾilāh, podczas gdy wcześniejsze korpusy wymieniają też inne bóstwa. Autorzy łączą tę zmianę z przemianami religijnymi późnej starożytności i hipotezą o transformacji starszego kultu Allāha. Sami zaznaczają, że jedna inwokacja do jednego bóstwa nie dowodzi, iż autor odrzucał istnienie wszystkich pozostałych; znany korpus jest próbką tekstów, nie spisem przekonań całej Arabii.
+
+Artykuł Al-Jallada z 2025 r. interpretuje inskrypcję safajską z grobowego kontekstu MH09 w północno-wschodniej Jordanii jako świadectwo Allāha-stwórcy dającego światło, przywoływanego przeciw śmierci przedstawionej jako ciemność. To ważna historyczna interpretacja konkretnego tekstu; nie pozwala datować początku całego kultu ani rozstrzyga metafizycznego istnienia bóstwa.
+
+Niezależny nowy trop z Lachish: recenzowany artykuł o inskrypcji na fragmencie naczynia datowanym kontekstem na XII w. p.n.e. odczytuje sześć częściowo zachowanych liter jako imię osobowe Bʻlšlṭ. To świadectwo imienia z elementem Baʿl i wczesnej pisowni, nie samodzielny dowód, że naczynie było używane w kulcie albo że bóstwo istnieje.
+
+Źródła: Al-Jallad & Sidky (2026), *Late Antique Allāh*: https://doi.org/10.1111/aae.70019; Al-Jallad (2025), *Ancient Allah*: https://doi.org/10.1093/jss/fgaf012; Vainstub et al. (2026), Lachish: https://doi.org/10.52486/01.00009.2
+
 Wstępna ocena: można badać pochodzenie, przemiany i historyczne składniki religii; można testować konkretne twierdzenia o zdarzeniach. Nie ma naukowego, uniwersalnego dowodu, który potwierdza albo wyklucza każdego możliwego boga. Aby zrobić postęp, trzeba zawężać twierdzenie do konkretnej religii, postaci, tekstu, wydarzenia lub mierzalnej obietnicy.
