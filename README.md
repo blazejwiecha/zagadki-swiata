@@ -28,3 +28,6 @@ To cztery odrębne klasy pytań, bez jednego wspólnego „sekretnego rozwiązan
 Po rundzie 24: zob. [syntetyczny stan dowodów](SYNTHESIS.md) i [dziennik rundy 24](research-log/2026-11-26-round-24.md). Runda 24 analizuje nowy tekst podający 43–71% prawdopodobieństwa symulacji i pokazuje, że te wartości wynikają z wybranych priors o przyszłych cywilizacjach, a nie z detekcji. Runda 23 dokumentuje najnowsze nowe akta PURSUE; wcześniejsze ustalenia znajdują się w dziennikach rund 20–22.
 
 Po rundzie 25: [dziennik badań](research-log/2026-11-26-round-25.md) porządkuje pomiary dwóch struktur Chufu, ocenia nieudokumentowaną jeszcze zapowiedź osobnego przejścia 30 m, odnotowuje wycofanie artykułu SAR oraz omawia ograniczenia modelu ramp IER i argumentu filozoficznego o Matrixie.
+
+
+Po rundzie 26: [dziennik badań](research-log/2026-11-26-round-26.md) rozdziela konkretne skonfiskowane falsyfikaty z Nazca od innych okazów, ocenia próbki radiowęglowe i publiczne sekwencje DNA, a także dodaje świeże źródła o sensorach UAP, mechanizmie przeciwwag, archeologii rytuału oraz granicach modelu symulacji.
