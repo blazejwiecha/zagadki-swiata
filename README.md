@@ -37,3 +37,6 @@ Po rundzie 27: [dziennik badań](research-log/2026-11-26-round-27.md) weryfikuje
 
 
 Po rundzie 28: [dziennik badań](research-log/2026-11-26-round-28.md) poprawia status pracy Vazz y (recenzowany artykuł, nie sam preprint) i zawęża jej wniosek zgodnie z recenzowanym komentarzem z 2026 r.
+
+
+Po rundzie 29: [dziennik badań](research-log/2026-11-26-round-29.md) oddziela psychologiczne mechanizmy powstawania i rozpowszechniania religii od pytania o metafizyczne istnienie bóstw; notuje nowe badanie prerejestrowane, jego korelacyjne i próbkowe ograniczenia oraz krytykę HADD.
