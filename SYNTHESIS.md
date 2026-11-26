@@ -316,3 +316,11 @@ Szczegóły i źródła: [dziennik rundy 44](research-log/2026-11-26-round-44.md
 Badanie ScanPyramids opublikowane w 2026 r. tworzy lokalny model 3D dolnych dwóch rzędów granitowych bloków na czterech ścianach Komory Króla. W bloku NW9 wykryto reflektor około 2 m w głąb; autorzy wiążą go z prawdopodobną nieregularną granicą wewnętrzną lub tylną ścianą bloku, ale nie wykluczają efektów wielokrotnych odbić i rozpraszania. Artykuł nie rozpoznaje pustej komory, nie bada całej piramidy i nie dotyczy Wielkiej Pustki ani Korytarza Północnej Ściany. **Wniosek:** nowa praca poprawia lokalne obrazowanie granitu; nie ogłasza nowego ukrytego pomieszczenia.
 
 Szczegóły: [dziennik rundy 45](research-log/2026-11-26-round-45.md).
+
+## Aktualizacja z rundy 46 — twierdzenia SAR o strukturach pod piramidą Chefrena
+
+Abstrakt Khafre Project z marca 2025 r. interpretuje publiczne dane SAR jako pięć struktur nad Komorą Belzoniego, osiem szybów sięgających 648 m, spiralne korytarze, dwie komory ok. 80 m i sieć sięgającą ok. 2 km pod płaskowyż. To opis twierdzeń projektu, nie wynik niezależnej geofizyki. Nie znalazłem publicznego, recenzowanego raportu z pełnym odtworzeniem algorytmu, propagacją niepewności ani kontrolą terenową. Krytyka nie może ograniczać się do hasła „radar nie przenika skały”: projekt twierdzi, że rekonstruuje wnętrze przez analizę drobnych drgań; taki łańcuch wymaga osobnej walidacji.
+
+Powiązany artykuł Biondiego i Malangi o Chufu został wycofany w 2026 r. po stwierdzeniu poważnych wad metodologicznych i błędów statystycznych. To obniża zaufanie do tej metody, ale nie jest bezpośrednim pomiarem falsyfikującym odrębny zestaw twierdzeń o Chefrenie. Niezależna muografia Chefrena dostarczyła 70 mln śladów przez ok. 300 dni; w prezentacji Muographers 2026 dane pozostawały w analizie. Nie ogłoszono tam wykrycia megastruktur, a muografia wnętrza piramidy nie stanowi automatycznej kontroli sieci rzekomo schodzącej setki metrów lub 2 km pod płaskowyż.
+
+**Wniosek:** rozległy kompleks pozostaje niepotwierdzony, a nie dowiedziony jako nieistniejący. Rozstrzygnięcie wymaga odtwarzalnego algorytmu, danych i niepewności oraz zgodnych wyników niezależnych pomiarów geofizycznych. Szczegóły: [dziennik rundy 46](research-log/2026-11-26-round-46.md).
