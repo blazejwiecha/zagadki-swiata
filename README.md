@@ -43,3 +43,6 @@ Po rundzie 29: [dziennik badań](research-log/2026-11-26-round-29.md) oddziela p
 
 
 Po rundzie 30: [dziennik badań](research-log/2026-11-26-round-30.md) kontroluje założenia nowego, recenzowanego i odtwarzalnego modelu ramp IER oraz wyjaśnia, dlaczego hasło „blok co trzy minuty” zależy od definicji czasu i równoległości pracy.
+
+
+Po rundzie 31: [dziennik badań](research-log/2026-11-26-round-31.md) aktualizuje sprawę marsjańskiej próbki Sapphire Canyon: potwierdzone organiczne związki i potencjalna biosygnatura, bez rozstrzygnięcia pochodzenia biologicznego i bez potwierdzonego odkrycia życia.
