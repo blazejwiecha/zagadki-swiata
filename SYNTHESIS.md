@@ -214,3 +214,10 @@ Szczegóły: [dziennik rundy 30](research-log/2026-11-26-round-30.md).
 Perseverance wykrył w formacji Bright Angel materię organiczną, minerały żelaza i siarki oraz fronty reakcji zgodne z biologicznym metabolizmem redoks. Recenzowany artykuł z 2025 r. kwalifikuje to jako potencjalną biosygnaturę, nie wynik rozstrzygający; autorzy pozostawiają scenariusze abiotyczne i wskazują na potrzebę analiz próbki w laboratorium ziemskim. Recenzowana praca z 2026 r. potwierdza setki detekcji makromolekularnego węgla organicznego w dwóch mułowcach, ale wyraźnie stwierdza, że pomiar Ramanowski na miejscu nie rozpoznaje pochodzenia biotycznego/abiotycznego. **Organiczny węgiel wykryto; życia nie potwierdzono.** Ankieta astrobiologów z 2026 r. pokazuje większą ocenę wiarygodności przypadku marsjańskiego niż K2-18 b, ale jest pomiarem opinii, a nie dowodem.
 
 Szczegóły: [dziennik rundy 31](research-log/2026-11-26-round-31.md).
+
+
+## Aktualizacja z rundy 32 — granice null results w SETI
+
+Nowe przeglądy poszerzają parametry SETI: pilotaż ATA z 2026 r. testował Antysolarny Punkt przez trzy noce w wąskim fragmencie nieba i zakresie 1–2,4 GHz; archiwalne ALMA testowało dwa wąskie okna przy 90,642/93,151 GHz wobec 28 gwiazd, z czułością dla najbliższej celu ok. 6,91×10^17 W; artykuł BRaTs z 2026 r. proponuje szukanie zbiorczego szerokopasmowego wycieku i wieloparametrową weryfikację, ale nie raportuje detekcji. Żaden z tych null results nie oznacza „braku obcych”; każdy wyklucza tylko sygnały objęte konkretnym pomiarem. W sprawdzonych materiałach nie ma potwierdzonej technosygnatury.
+
+Szczegóły: [dziennik rundy 32](research-log/2026-11-26-round-32.md).
