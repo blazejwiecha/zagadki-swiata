@@ -99,4 +99,12 @@ To synteza ograniczonego i nierównomiernego korpusu, a nie dowód nieobecności
 
 Źródło: Taşdüvenci (2026), *The Goddess al-Lāt in Ancient North Arabian Epigraphy*, EKEV Akademi Dergisi, publikacja online: https://doi.org/10.17753/sosekev.1861470
 
+### Aktualizacja — runda 19: konkretne modlitwy do Allāt w korpusie Safaiticznym
+
+W OCIANA opublikowano dwa zapisy z inskrypcji z północno-wschodniej Jordanii. BES25_MG1 20, odnotowana w terenie w czerwcu 2025 r. i zaktualizowana w korpusie w 2026 r., jest odczytana jako „O ʾlt, pomóż Zdh i S¹ʿd”. Redakcja zaznacza, że drugi zapis S¹ʿd może być imieniem albo powtórzeniem czasownika „pomóż”. BES24_FWKh1 55, zarejestrowana w ramach sezonów 2024–2025, zawiera prośbę do Allāt o życie/uzdrowienie chorej żony; część końcowego słowa pozostaje niepewna.
+
+To materialne świadectwa modlitw i praktyk, a nie tylko późniejszych opisów kultu. Daty 2025/2026 to daty rejestracji lub aktualizacji rekordów, nie datowanie wykonania napisów. Nie należy przypisywać im dokładnej daty starożytnej bez kontekstu archeologicznego; ich identyfikacja i odczyt są podane przez redaktorów korpusu. Potwierdzają historyczne zwracanie się do bogini, ale nie jej metafizyczne istnienie.
+
+Źródła OCIANA: [BES25_MG1 20](https://ociana.osu.edu/inscriptions/46331); [BES24_FWKh1 55](https://ociana.osu.edu/inscriptions/47897)
+
 Wstępna ocena: można badać pochodzenie, przemiany i historyczne składniki religii; można testować konkretne twierdzenia o zdarzeniach. Nie ma naukowego, uniwersalnego dowodu, który potwierdza albo wyklucza każdego możliwego boga. Aby zrobić postęp, trzeba zawężać twierdzenie do konkretnej religii, postaci, tekstu, wydarzenia lub mierzalnej obietnicy.
