@@ -265,3 +265,11 @@ Szczegóły: [dziennik rundy 37](research-log/2026-11-26-round-37.md).
 Znaki w górnych komorach piramidy dokumentuje ekspedycja Vyse’a/Perringa z 1837 r.; późniejsza monografia Roth analizuje nazwy ekip powiązane z imionami Chufu. Warunki wejścia ograniczają współczesną kontrolę kontekstu; nie ustaliłem nowoczesnego badania laboratoryjnego pigmentu. Wykopaliska przy drugim dole łodzi Chufu dostarczyły odrębnych znaków ekip i dostaw na kamieniach przykrywających dół. Całość z papirusami i kontekstem kompleksu mocno wspiera przypisanie piramidy Chufu. W sprawdzonych materiałach nie ma potwierdzonego dowodu fałszerstwa.
 
 Szczegóły: [dziennik rundy 38](research-log/2026-11-26-round-38.md).
+
+
+
+## Aktualizacja z rundy 39 — najstarszy trop egipski dla YHWH
+
+W Soleb, w egipskiej liście ziem i grup Shasu ze świątyni Amenhotepa III, występuje formuła odczytywana jako „ziemia Shasu z *yhwꜣ*”; podobny wpis zachował się później w Amara West. To możliwa wczesna paralela imienia YHWH, ale sama lista nie nazywa wprost boga Izraela ani nie mówi o Izraelitach, Exodusie czy kulcie. Kennedy argumentuje za identyfikacją z Yahweh; Adrom i Müller, Shalomi-Hen oraz Fleming wskazują ograniczenia referentu, geografii i transmisji list. Najściślejszy wniosek: starożytny zapis stanowi ważny trop językowy i geograficzny, nie rozstrzygający dowód pochodzenia jahwizmu.
+
+Szczegóły: [dziennik rundy 39](research-log/2026-11-26-round-39.md).
