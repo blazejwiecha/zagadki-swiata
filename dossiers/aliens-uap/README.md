@@ -99,4 +99,12 @@ Podobne braki kontekstu widać w części nowych rekordów: PR046–PR049 opisuj
 
 Źródła: oficjalny katalog raportów i materiałów AARO: https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/poster/dividLink/ ; AARO, „FBI-UAP-PR007, Slow-moving Objects” (opis archiwalnej kategorii nierozstrzygniętych spraw): https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Presidential-UAP-Transparency-Initiative/videoid/1017801/dvpcc/false/
 
+### Aktualizacja — runda 19: jak daleko sięga publiczne archiwum NARA
+
+NARA udostępnia zbiorcze paczki ZIP z cyfrowymi materiałami oraz osobne pliki JSON z metadanymi dla rekordów UAP dostępnych w katalogu. W widocznej tabeli są serie m.in. FAA, NRC, ODNI, OSD, NSA, FBI, Departamentu Stanu, Sił Powietrznych i CBP. Archiwum zaznacza, że część materiałów ze względu na prawa autorskie lub ograniczenia nie ma kopii online i wymaga oględzin na miejscu; paczki obejmują materiały cyfrowe wymienione w katalogu, a nie automatycznie wszystkie federalne dokumenty ani komplet danych źródłowych.
+
+Strona mówi, że paczki będą aktualizowane co najmniej trzy razy w roku, ale widoczna data aktualizacji strony to 24 kwietnia 2025 r. (strona została ponownie sprawdzona 25 listopada 2026 r.). To powód, by kontrolować datę i metadane konkretnego eksportu przed uznaniem pobranej paczki za pełny, bieżący zbiór. Ta uwaga dotyczy pokrycia katalogu, nie treści dowodów na obcych.
+
+Źródło: NARA, *Bulk Downloads for Records Related to UAPs*: https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download
+
 Wstępna ocena: nie ma jawnego dowodu potwierdzającego wizytę obcych na Ziemi. Istnienie życia poza Ziemią pozostaje pytaniem otwartym. Weryfikacja będzie kontynuowana poprzez badanie konkretnych nagrań, zeznań, dokumentacji i granic czułości poszukiwań.
