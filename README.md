@@ -25,4 +25,4 @@ Publiczny notatnik badań Błażeja. Cel: zebrać twierdzenia, dane pierwotne, p
 
 Wstępny przegląd nie daje jednego wspólnego „sekretnego rozwiązania”. Są cztery odrębne klasy pytań: czy istnieje życie poza Ziemią (empirycznie otwarte), jak dokładnie wykonano niektóre elementy budowy piramid (częściowo otwarte mimo mocnych danych o ludziach i logistyce), jak historia religii i kultów wygląda w źródłach oraz czy konkretne twierdzenia metafizyczne dają się testować, a także czy rzeczywistość jest symulacją. Dla ostatniego pytania istnieją argumenty filozoficzne i testowalne modele fizyczne, lecz dotąd brak empirycznego wykrycia, że żyjemy w symulacji. Dossiers będą aktualizowane przy kolejnych rundach badań.
 
-Po rundzie 18: zob. [syntetyczny stan dowodów](SYNTHESIS.md) oraz dzienniki badań z 26 listopada 2026 r.
+Po rundzie 19: zob. [syntetyczny stan dowodów](SYNTHESIS.md) oraz dzienniki badań z 26 listopada 2026 r.
