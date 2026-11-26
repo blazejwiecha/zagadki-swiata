@@ -19,6 +19,8 @@ Rejestr startowy, stan na 2026-11-26. Daty publikacji należy odróżniać od da
 | A13 | Astrobiologia | Pica-Ciamarra et al. (2026), *A Systematic Search for Trace Molecules...* — https://doi.org/10.3847/2041-8213/ae5dcc | recenzowana analiza atmosferyczna | Testuje 661 molekuł; pewne wsparcie dla DMS w wybranych metrykach nie oznacza wykrycia życia ani zgody co do sygnału. |
 | A14 | Astrobiologia | Luque et al. (2025/2026), *Challenges in the detection of gases in exoplanet atmospheres* — https://doi.org/10.1038/s41550-025-02730-4 | recenzowana analiza modeli widmowych | Pokazuje, że wnioski biosygnaturowe dla K2-18 b zależą od przestrzeni porównywanych modeli. |
 | A15 | Astrobiologia | NASA Life Detection Knowledge Base — https://science.nasa.gov/astrobiology/researchers/life-detection-resources/ldkb/ | standardy/przegląd instytucjonalny | Ujmuje biosygnatury wraz z alternatywami abiotycznymi oraz fałszywie dodatnimi/ujemnymi wynikami. |
+| A16 | SETI/UAP | Song et al. (2025), FAST/TRAPPIST-1 — https://arxiv.org/abs/2509.06310 | preprint obserwacyjny | 1,67 h w 1,05–1,45 GHz bez wiarygodnego wąskopasmowego kandydata w zadanym zakresie; nie obejmuje innych typów sygnałów. |
+| A17 | UAP | AARO, Official UAP Imagery / PR-018 — https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/ | jawny materiał i opis urzędowy | Materiał EUCOM z 2024 r. pozostaje nierozstrzygnięty z powodu niewystarczających danych; brak identyfikacji nie jest dowodem pochodzenia pozaziemskiego. |
 | P1 | Piramidy | IFAO Wadi el-Jarf — https://www.ifao.egnet.net/recherche/archeologie/ouadi-el-jarf/ | archeologia/papirusy pierwotne | Dziennik Merera: dostawy wapienia dla budowy piramidy Chufu. |
 | P2 | Piramidy | Tallet, *Les Papyrus de la Mer Rouge* — https://www.ifao.egnet.fr/publications/catalogue/?coll=mifao&nb=10&nv=0&page=3&total=91 | edycja źródeł | Dokumenty załogi i transportu; nie daje pełnego opisu podnoszenia bloków. |
 | P3 | Piramidy | Harvard Digital Giza — https://giza.fas.harvard.edu/ | baza archeologiczna | Kontekst stanowiska, dokumentacja wykopalisk i zasoby badawcze. |
@@ -31,6 +33,7 @@ Rejestr startowy, stan na 2026-11-26. Daty publikacji należy odróżniać od da
 | P10 | Piramidy | Stocks, *Scientific evaluation of experiments in Egyptian archaeology* — https://doi.org/10.7765/9781784997502.00049 | rozdział o eksperymentach archeologicznych | Wykonalność wybranych narzędzi i technik; nie ustala całej metody budowy Wielkiej Piramidy. |
 | P11 | Piramidy | Fall et al. (2014), *Sliding friction on wet and dry sand* — https://doi.org/10.1103/PhysRevLett.112.175502 | eksperyment fizyczny | Odpowiednia wilgotność ogranicza siłę ciągnięcia sań; test poziomego transportu, nie podnoszenia piramidy. |
 | P12 | Piramidy | Rosell Roig et al. (2026), Integrated Edge-Ramp model — https://doi.org/10.1038/s40494-026-02405-x | model obliczeniowy w recenzowanym czasopiśmie | Sprawdza wykonalność; autorzy przyznają brak bezpośrednich śladów archeologicznych i zależność od założeń. |
+| P13 | Piramidy | Schumacher et al. (2025), multimodal confirmation of ScanPyramids North Face Corridor — https://doi.org/10.1038/s41598-025-91115-8 | recenzowane badanie nieniszczące | Łączy GPR, ultradźwięki i ERT, potwierdzając korytarz; nie rozstrzyga jego funkcji. |
 | R1 | Religie | SEP, Religion and Science — https://plato.stanford.edu/entries/religion-science/ | encyklopedia akademicka | Rozróżnia testowalne twierdzenia od metafizycznych. |
 | R2 | Religie | SEP, Evolutionary Approaches to Religion — https://plato.stanford.edu/entries/religion-evolutionary/ | przegląd akademicki | Mapuje konkurencyjne wyjaśnienia kognitywne i ewolucyjne. |
 | R3 | Religie | SEP, Epistemology of Religion — https://plato.stanford.edu/entries/religion-epistemology/ | encyklopedia akademicka | Filozoficzna analiza uzasadniania przekonań religijnych. |
@@ -46,6 +49,7 @@ Rejestr startowy, stan na 2026-11-26. Daty publikacji należy odróżniać od da
 | R13 | Religie | Richelle, *Ancient Hebrew Inscriptions* — https://doi.org/10.1017/9781009560245 | synteza epigraficzna | Inskrypcje poświadczają historyczny kult YHWH; nie dowodzą metafizycznego istnienia bóstwa. |
 | R14 | Religie | Ware (2014), analiza 1 Kor 15:3–5 — https://doi.org/10.1017/S0028688514000150 | badanie historyczno-tekstowe | Omawia wczesną formułę wiary i spór o jej sens; tekst nie jest materialnym potwierdzeniem cudu. |
 | R15 | Religie | Stanford Encyclopedia of Philosophy, *Miracles* — https://plato.stanford.edu/entries/miracles/ | przegląd filozoficzny | Rozdziela świadectwo o wydarzeniu od wniosku o jego nadprzyrodzonej przyczynie; pokazuje główne argumenty i spory. |
+| R16 | Religie | Hess (2025), *New Evidence for Asherata/Asherah* — https://doi.org/10.3390/rel16040397 | recenzowany artykuł epigraficzno-historyczny | Argumentuje za odczytaniem imienia bogini zamiast zaimka „jego”; dokumentuje spór interpretacyjny, nie konsensus. |
 
 ## Kryteria oceny kolejnych źródeł
 
