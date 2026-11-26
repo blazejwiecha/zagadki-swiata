@@ -97,4 +97,12 @@ Nowy, bezpośredni zapis pracy archeologicznej daje projekt AERA/University of C
 - Odkrycie muonowe Big Void (odrębna praca): https://doi.org/10.1038/nature24647
 - Raport AERA / University of Chicago 2024–2025: https://isac-assets.s3.amazonaws.com/isac-publications/24-25_Annual_Report.pdf
 
+### Aktualizacja — runda 19: ślady w kamieniołomie i ograniczenie wolumetryczne
+
+AERA opisuje podkowaty kamieniołom położony na południe od piramidy Chufu, którego ściany i położenie pasują do lokalnego źródła kamienia. Na powierzchni widoczne są kanały cięte do izolowania bloków oraz gniazda dźwigni używanych do ich odrywania od podłoża. Projekt szacuje objętość wydobytego kamienia na około 2,76 mln m³ wobec około 2,59 mln m³ objętości piramidy. Autorzy podkreślają, że to przybliżenie: kształt kamieniołomu jest nieregularny, jego południowa część jest zasypana, a część materiału zmarnowano podczas cięcia.
+
+To spójny ślad pozyskiwania znacznej części lokalnego kamienia przez ludzi na miejscu. AERA przedstawia możliwość, że część odpadów posłużyła do ramp, jako przypuszczenie. Ślady w kamieniołomie nie rozstrzygają, jak bloki transportowano na wyższe partie piramidy.
+
+Źródło: AERA, *The Great Pyramid Quarry*: https://aeraweb.org/great-pyramid-quarry/
+
 Wstępna ocena: egipscy ludzie zbudowali piramidy przy użyciu zorganizowanej logistyki i technik dostępnych w epoce. Konkretna konfiguracja metod podnoszenia dla Wielkiej Piramidy nie jest do dziś rozstrzygnięta. To lokalna luka w szczegółach technicznych, nie brak wiedzy o tym, kto zbudował piramidy ani dowód udziału obcych.
