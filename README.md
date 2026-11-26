@@ -97,3 +97,5 @@ Po rundzie 45: [dziennik badań](research-log/2026-11-26-round-45.md) omawia now
 Po rundzie 46: [dziennik badań](research-log/2026-11-26-round-46.md) audytuje twierdzenia Khafre Project o strukturach pod piramidą Chefrena. Abstrakt projektu opisuje szyby i komory, ale nie przedstawia niezależnej walidacji; powiązany artykuł SAR o Chufu został wycofany z powodów metodologicznych, a niezależne dane muonowe z Chefrena były jeszcze analizowane.
 
 Po rundzie 47: [dziennik badań](research-log/2026-11-26-round-47.md) ocenia nowy dokument AARO o ośmiu wykryciach radarowych. Wyliczenie 1 650 mph obowiązuje tylko, jeśli punkty należały do jednego obiektu; dokument mówi, że ciągłości tracku nie da się potwierdzić.
+
+Po rundzie 48: [dziennik badań](research-log/2026-11-26-round-48.md) aktualizuje status sygnału Wow!. Reanaliza archiwum przesunęła oszacowania położenia i jasności; proponowany naturalny rozbłysk HI jest hipotezą testowalną, a pochodzenie sygnału pozostaje nierozstrzygnięte.
