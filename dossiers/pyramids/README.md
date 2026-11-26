@@ -133,3 +133,13 @@ Corvée oznacza obowiązek/podatek pracy. Akademicki przegląd określa dowody d
 Dodatkowo skontrolowano artykuł Joseph (2026), który ogłasza rozstrzygnięcie na rzecz sezonowego corvée. Jego źródła nie dokumentują sezonowego poboru całej załogi Chufu; PDF zawiera też chronologiczną niespójność dat recenzji (otrzymano po akceptacji i po dacie kontroli). To nie dowodzi nadużycia, ale wraz z nadmiernie kategoryczną interpretacją wyklucza użycie tej pracy jako samodzielnego rozstrzygnięcia.
 
 Pełny audyt: [dziennik rundy 37](../../research-log/2026-11-26-round-37.md). Nowe źródła P17–P20 w [rejestrze](../../sources/README.md).
+
+
+
+## Znaki ekip Chufu i zarzut fałszerstwa (runda 38)
+
+Napisy z górnych komór po raz pierwszy udokumentowała ekspedycja Vyse’a/Perringa w 1837 r.; publikacja z 1840 r. jest źródłem pierwotnym, ale nie niezależną nowoczesną kontrolą pierwotnego kontekstu. Monografia Ann Macy Roth analizuje nazwy ekip oparte na formach imienia Chufu. Nie ustaliłem laboratoryjnego datowania pigmentu. Krytyczne teksty o anomaliach są pracami niezależnych autorów; nie dowodzą fałszerstwa, a autorzy nie twierdzą, że Chufu nie zbudował piramidy.
+
+Odrębne napisy na kamieniach przykrywających drugi dół łodzi w kompleksie Chufu, badane przez współczesną misję japońsko-egipską, wskazują na transport i ekipy z imionami Chufu/Dżedefre. Wzmacniają szerszy kontekst, lecz nie uwierzytelniają automatycznie każdego znaku z komór Vyse’a.
+
+Pełny audyt: [dziennik rundy 38](../../research-log/2026-11-26-round-38.md). Źródła P21–P24 w [rejestrze](../../sources/README.md).
