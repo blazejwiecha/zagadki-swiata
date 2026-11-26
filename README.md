@@ -87,3 +87,6 @@ Po rundzie 42: [dziennik badań](research-log/2026-11-26-round-42.md) porównuje
 
 
 Po rundzie 43: [dziennik badań](research-log/2026-11-26-round-43.md) sprawdza spór o fosfinę na Wenus: pierwotną detekcję, krytyczne reanalizy, wynik SOFIA i wstępne nowe wyniki JCMT-Venus. Fosfina nie jest rozstrzygnięta, a życia nie wykryto.
+
+
+Po rundzie 44: [dziennik badań](research-log/2026-11-26-round-44.md) ponownie ocenia eksperymenty biologiczne Vikinga na Marsie. Reakcje LR są rzeczywiste, ale nieswoiste dla życia; perchloran daje mocną alternatywę chemiczną, a nowe interpretacje nie są odkryciem życia.
