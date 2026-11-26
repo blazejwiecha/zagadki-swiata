@@ -21,7 +21,7 @@
 
 Mapowanie AERA przy Wielkiej Piramidzie udokumentowało 2 898 otworów po palach, gniazd dźwigni i kanałów kamieniołomów na zbadanych stronach wschodniej, zachodniej i północnej. Infrastruktura muzeum łodzi ograniczyła początkowo pełne badanie strony południowej. To bezpośredni dowód na przygotowanie placu, lokalne wydobycie i wykorzystanie dźwigni do odspajania kamienia z podłoża. Nie pokazuje samo w sobie, jak bloki podnoszono na kolejne poziomy piramidy ani nie rozstrzyga modelu ramp.
 
-Źródła: [AERA, raport roczny 2023–24](https://aeraweb.org/wp-content/uploads/2024/12/AERA-Annual-Report-2023-24.pdf); [AERA, kamieniołom Wielkiej Piramidy](https://aeraweb.org/great-pyramid-quarry/).
+Źródła: [AERA, raport roczny 2023–24](https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/Publications/Annual-Reports/2023-2024/23-24_Annual_Report.pdf); [AERA, kamieniołom Wielkiej Piramidy](https://aeraweb.org/great-pyramid-quarry/).
 
 ## Co wciąż nie jest rozstrzygnięte
 
