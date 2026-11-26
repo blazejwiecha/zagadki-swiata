@@ -129,3 +129,10 @@ Najnowszy eksperyment laboratoryjny (2026) pokazał wzrost ziemskiego archeona *
 Analiza bayesowska metanogenezy i późniejsze modele biomasy zależą od założeń o prawdopodobieństwie abiogenezy, udziale abiotycznego metanu i nieznanych ograniczeniach ekosystemu. Nie mierzą organizmów. **Stan dowodów: Enceladus jest potencjalnie zamieszkiwalny; nie wykryto na nim życia.**
 
 Szczegóły: [dziennik rundy 41](../../research-log/2026-11-26-round-41.md). Źródła A64–A70 w [rejestrze](../../sources/README.md).
+
+
+## Viking — sygnały biologiczne, interpretacja niezamknięta (runda 44)
+
+Labeled Release z 1976 r. dał powtarzalne sygnały znakowanego gazu z próbek obu lądowników, a odpowiedź osłabiała kontrola cieplna. To jest zgodne z częścią oczekiwań biologicznych, lecz test nie rozróżniał jednoznacznie metabolizmu od reaktywnej chemii gruntu. CAPyR wykazał małe wiązanie węgla; jego odporność na ogrzewanie 90°C, a spadek przy 175°C skłoniły pierwotny zespół do sceptycznej interpretacji biologicznej. Odkrycie perchloranów przez Phoenix stworzyło istotną alternatywę chemiczną. McKay et al. (2025) proponują ją jako wyjaśnienie reakcji, zaś dwie publikacje/perspektywy z 2026 r. i nowy preprint ponownie argumentują, że dawne wyniki nie zostały w pełni wyjaśnione. Preprint CAPyR pozostaje niepeer-reviewowanym ponownym odczytem danych, nie nowym wykryciem organizmów. NASA PDS udostępnia dane LR z zastrzeżeniami o transkrypcji, brakach i błędach. **Wniosek: Viking zarejestrował rzeczywiste, niejednoznaczne reakcje; nie potwierdził życia na Marsie.**
+
+Szczegóły: [dziennik rundy 44](../../research-log/2026-11-26-round-44.md). Źródła A83–A91 w [rejestrze](../../sources/README.md).
