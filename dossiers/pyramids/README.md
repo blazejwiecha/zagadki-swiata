@@ -106,3 +106,12 @@ To spójny ślad pozyskiwania znacznej części lokalnego kamienia przez ludzi n
 Źródło: AERA, *The Great Pyramid Quarry*: https://aeraweb.org/great-pyramid-quarry/
 
 Wstępna ocena: egipscy ludzie zbudowali piramidy przy użyciu zorganizowanej logistyki i technik dostępnych w epoce. Konkretna konfiguracja metod podnoszenia dla Wielkiej Piramidy nie jest do dziś rozstrzygnięta. To lokalna luka w szczegółach technicznych, nie brak wiedzy o tym, kto zbudował piramidy ani dowód udziału obcych.
+
+
+### Aktualizacja — runda 21: znane pustki i nieopublikowana zapowiedź 30 m
+
+Badania muonowe opisują dwa odrębne wyniki, których nie należy mieszać: Big Void nad Wielką Galerią (co najmniej 30 m, wykrycie trzema metodami muonowymi, przeznaczenie nieustalone) oraz North Face Corridor za północnym chevronem (ok. 9 m × 2 × 2 m, muonografia; później potwierdzany obrazowaniem wieloma metodami, w tym georadarem, ultradźwiękami i ERT). Obraz endoskopowy korytarza jest bezpośrednią dokumentacją jego wnętrza. Przypuszczenie, że chevron/korytarz odciąża konstrukcję, pozostaje interpretacją funkcji, nie pewnym ustaleniem.
+
+Osobno, WAM zrelacjonowała 8.11.2025 wypowiedź Zahi Hawassa o nowym 30-metrowym korytarzu z zamkniętymi drzwiami i zapowiedzią ujawnienia w 2026 r. Do 26.11.2026 nie znaleziono oficjalnej publikacji pomiarów, lokalizacji ani niezależnego potwierdzenia tego odrębnego twierdzenia. Status: publiczna zapowiedź, nie opublikowany wynik. Nie utożsamiać jej ani z Big Void, ani z North Face Corridor.
+
+Źródła: [ScanPyramids Big Void (Nature, 2017)](https://doi.org/10.1038/nature24647); [North Face Corridor (Nature Communications, 2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9981702/); [fuzja GPR/UST/ERT (Scientific Reports, 2025)](https://www.nature.com/articles/s41598-025-91115-8); [zapowiedź WAM (2025)](https://www.wam.ae/en/article/bmm4hcn-new-discovery-inside-egypts-pyramid-khufu-revealed); [pełna analiza rundy 21](../research-log/2026-11-26-round-21.md).
