@@ -33,6 +33,14 @@ Prasad i Bainbridge (2022) wykazali w eksperymentach wspólne, szczegółowe fa�
 
 **Nie ma zweryfikowanego empirycznego dowodu, że żyjemy w symulacji.**
 
+### Runda 16: bezpośredni test w publicznych danych Pierre Auger
+
+W październiku 2026 r. Zain Dana Harper opublikował na własnej stronie niezależną, prerejestrowaną analizę otwartych danych obserwatorium Pierre Auger, szukając proponowanej sygnatury sześciennej sieci czasoprzestrzeni. W próbce publicznej (około 10% zbioru, 25 086 zdarzeń) testowano pięć progów energii; skorygowane wartości p wyniosły 0,85. Nie znaleziono wzoru sześciennego.
+
+To wąski wynik zerowy, a nie test całej hipotezy: przy progu ≥32 EeV zostało 155 zdarzeń, a symulacje kontrolne wskazały, że test z taką próbą wykrywa dopiero bardzo silny wzór — około dwukrotnie większy napływ w kierunku osi sześcianu. Przy niższym progu próbka była większa, ale pola magnetyczne mogą zamazać źródłową sygnaturę. Analiza nie była publikacją recenzowaną, pełne dane Auger nie były użyte, autor nie modelował propagacji promieni kosmicznych i zaznaczył, że nie przeczytał pełnego tekstu Beane’a. Na jej podstawie wolno powiedzieć tylko: w małym publicznym wycinku nie ma silnej sześciennej anizotropii.
+
+Źródło i plik wynikowy: https://harperz9.github.io/findings/F344-auger-cubic-null.html ; https://harperz9.github.io/findings/results/F344/result.json
+
 Jednocześnie zdanie „żadna forma symulacji nie jest możliwa” wykraczałoby poza dane. Klasyczny argument Bostroma nie rozstrzyga sprawy, a ograniczenie zasobów Vuzzy dotyczy zdefiniowanej klasy pełnych symulacji i założeń o fizyce symulatora. Modele bez odróżnialnych przewidywań są empirycznie nierozstrzygalne na podstawie obecnych obserwacji. To jest dokładny status wiedzy, nie sugestia za ani przeciw.
 
 ### Co zmieniłoby status dowodowy
