@@ -1,6 +1,6 @@
 # Syntetyczny stan dowodów
 
-**Stan na:** 2026-11-26, po rundzie 16.
+**Stan na:** 2026-11-26, po rundzie 17.
 **Zakres:** życie pozaziemskie/UAP, budowa piramid, religie i bogowie, hipoteza symulacji („Matrix”).  
 **Zasada:** poniżej rozdzielam brak potwierdzenia, potwierdzoną historię i pytania niedostępne dla obecnego testu. To nie jest dowód, że „przeszukano cały internet”.
 
@@ -12,7 +12,7 @@
 | UAP | Istnieją autentyczne zgłoszenia i nagrania. Część analizowanych przypadków wyjaśniono zwykłymi obiektami lub zjawiskami; niektóre pozostają niezidentyfikowane z powodu niewystarczających danych. | Tożsamość części obiektów i pełna charakterystyka niektórych zdarzeń. „Niezidentyfikowane” nie jest dowodem pozaziemskiego pochodzenia. |
 | Piramida Chufu | Staroegipskie źródła i znaleziska potwierdzają królewski projekt, załogi, dostawy materiałów oraz zorganizowaną logistykę. Dziennik Merera opisuje rzeczny transport kamienia z Tury do Akhet-Khufu. | Pełna sekwencja budowy i dokładny system podnoszenia bloków na wyższe poziomy. Nie zachował się kompletny opis techniczny ani jednoznacznie potwierdzony model całego procesu. |
 | Religie / bogowie | Istnienie dawnych kultów, nazw bóstw, tekstów i praktyk można badać historycznie. Kult YHWH jest poświadczony w pozabiblijnych źródłach co najmniej w IX w. p.n.e.; wcześniejszy egipski zapis Yhwꜣ jest niejednoznaczny. | Ogólne metafizyczne twierdzenie, że istnieje jakiś bóg, nie ma jednej operacyjnej definicji i empirycznego testu, który obejmowałby wszystkie takie pojęcia. Konkretne, mierzalne twierdzenia religijne można oceniać osobno. |
-| Symulacja / „Matrix” | Bostrom sformułował warunkowy argument trylematu, a fizycy zaproponowali testy niektórych konkretnych modeli. Niezależna, prerejestrowana analiza publicznych 10% danych Pierre Auger nie wykryła silnego wzoru sześciennej sieci w badanej próbce. | Nie ma empirycznego wykrycia, że żyjemy w symulacji. Analiza Auger miała moc tylko dla silnej sygnatury i nie była recenzowaną publikacją; ograniczenia Vuzzy obejmują określone modele, nie wszystkie wersje „Matrixa”. |
+| Symulacja / „Matrix” | Bostrom sformułował warunkowy argument trylematu; testy fizyczne i analiza Auger dotyczą konkretnych modeli. Wolpert (2025) formalizuje relację symulowania, ale nie podaje testu empirycznego. | Nie ma empirycznego wykrycia, że żyjemy w symulacji. Wzajemna symulowalność Wolperta zachodzi w ramach jego założeń; wynik Auger wyklucza tylko silny wzór zbadany w małej publicznej próbce. |
 
 ## Nowe ustalenia z rundy 10
 
@@ -46,6 +46,13 @@ Wniosek z aktualizacji: nowy skan poprawia zapis archeologiczny powierzchni i do
 - **Tel ’Eton:** artykuł z 2026 r. opisuje dużą stojącą stelę/massebah w domu Building 101, później ułożoną poziomo i obudowaną kamienną platformą przed końcem VIII w. p.n.e. Autor łączy zmianę z możliwą reformą Ezechiasza, ale uznaje takie datowanie i powiązanie za niepewne. Obiekt nie ma inskrypcji identyfikującej bóstwo; świadczy o zmianie lokalnej praktyki kultowej, nie o metafizycznym istnieniu czczonego bytu.
 
 Wniosek z tej rundy: w nowych materiałach nie znaleziono potwierdzenia wizyty kosmitów, konkretnej historycznej metody ramp ani istnienia bóstwa. Za to pojawiły się nowe ograniczenia obserwacyjne, testowalne przewidywania modelu budowy i lepsze świadectwo przemian kultu.
+
+## Aktualizacja z rundy 17 — nowe modele, archiwa i ograniczenia korpusów
+
+- **UAP:** nowe pozycje AARO pokazują różną jakość źródeł. DOW-UAP-PR117 to wtórne nagranie ekranu podczerwieni z telefonu, a „cold orbs” to sformułowanie z raportu, nie identyfikacja analityczna. Część wpisów PR046–PR049 nie zawiera opisu świadka. Publikacja materiału potwierdza jego pochodzenie i status archiwalny, nie nadzwyczajną naturę obiektu.
+- **Piramidy:** nowy preprint Choi–Dubray przedstawia kompletną symulację ramp zewnętrznych i tarasów. Wynik 24,5 roku w pesymistycznym wariancie pokazuje wykonalność w obrębie modelu; jest zależny od założeń o zapasie kamienia, tarciu i czasach operacji, z których część nie ma pomiarów archeologicznych.
+- **Religie:** artykuł Taşdüvenciego mapuje poświadczenia al-Lāt i podkreśla, że jej jedyny wskazany napis dadanicki jest sporny. Hipoteza słabego wczesnego poświadczenia w Hejazie jest ograniczona dostępnością i rozkładem inskrypcji, a sam autor zaleca dalsze badania terenowe.
+- **Symulacja:** matematyczny model Wolperta formalizuje „symulowanie świata” i pod pewnymi założeniami pozwala na wzajemne symulowanie oraz łańcuch bez końca. Nie daje obserwacyjnej predykcji ani testu; nie zmienia więc statusu empirycznego.
 
 ## Aktualizacja z rundy 16 — nowe archiwum, pomiary i testy
 
