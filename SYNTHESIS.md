@@ -1,7 +1,7 @@
 # Syntetyczny stan dowodów
 
-**Stan na:** 2026-11-26, po rundzie 14.
-**Zakres:** życie pozaziemskie/UAP, budowa piramid, religie i bogowie.  
+**Stan na:** 2026-11-26, po rundzie 15.
+**Zakres:** życie pozaziemskie/UAP, budowa piramid, religie i bogowie, hipoteza symulacji („Matrix”).  
 **Zasada:** poniżej rozdzielam brak potwierdzenia, potwierdzoną historię i pytania niedostępne dla obecnego testu. To nie jest dowód, że „przeszukano cały internet”.
 
 ## Wynik w skrócie
@@ -12,6 +12,7 @@
 | UAP | Istnieją autentyczne zgłoszenia i nagrania. Część analizowanych przypadków wyjaśniono zwykłymi obiektami lub zjawiskami; niektóre pozostają niezidentyfikowane z powodu niewystarczających danych. | Tożsamość części obiektów i pełna charakterystyka niektórych zdarzeń. „Niezidentyfikowane” nie jest dowodem pozaziemskiego pochodzenia. |
 | Piramida Chufu | Staroegipskie źródła i znaleziska potwierdzają królewski projekt, załogi, dostawy materiałów oraz zorganizowaną logistykę. Dziennik Merera opisuje rzeczny transport kamienia z Tury do Akhet-Khufu. | Pełna sekwencja budowy i dokładny system podnoszenia bloków na wyższe poziomy. Nie zachował się kompletny opis techniczny ani jednoznacznie potwierdzony model całego procesu. |
 | Religie / bogowie | Istnienie dawnych kultów, nazw bóstw, tekstów i praktyk można badać historycznie. Kult YHWH jest poświadczony w pozabiblijnych źródłach co najmniej w IX w. p.n.e.; wcześniejszy egipski zapis Yhwꜣ jest niejednoznaczny. | Ogólne metafizyczne twierdzenie, że istnieje jakiś bóg, nie ma jednej operacyjnej definicji i empirycznego testu, który obejmowałby wszystkie takie pojęcia. Konkretne, mierzalne twierdzenia religijne można oceniać osobno. |
+| Symulacja / „Matrix” | Bostrom sformułował warunkowy argument trylematu, a fizycy zaproponowali testy niektórych konkretnych modeli symulacji, np. dyskretnej sieci czasoprzestrzeni. | Nie ma empirycznego wykrycia, że żyjemy w symulacji. Argument filozoficzny nie jest obserwacją; ograniczenia obliczeniowe Vuzzy dotyczą określonych symulatorów i założeń fizycznych, nie każdego możliwego znaczenia „symulacji”. |
 
 ## Nowe ustalenia z rundy 10
 
@@ -45,6 +46,15 @@ Wniosek z aktualizacji: nowy skan poprawia zapis archeologiczny powierzchni i do
 - **Tel ’Eton:** artykuł z 2026 r. opisuje dużą stojącą stelę/massebah w domu Building 101, później ułożoną poziomo i obudowaną kamienną platformą przed końcem VIII w. p.n.e. Autor łączy zmianę z możliwą reformą Ezechiasza, ale uznaje takie datowanie i powiązanie za niepewne. Obiekt nie ma inskrypcji identyfikującej bóstwo; świadczy o zmianie lokalnej praktyki kultowej, nie o metafizycznym istnieniu czczonego bytu.
 
 Wniosek z tej rundy: w nowych materiałach nie znaleziono potwierdzenia wizyty kosmitów, konkretnej historycznej metody ramp ani istnienia bóstwa. Za to pojawiły się nowe ograniczenia obserwacyjne, testowalne przewidywania modelu budowy i lepsze świadectwo przemian kultu.
+
+## Aktualizacja z rundy 15 — hipoteza symulacji („Matrix”)
+
+- **Bostrom (2003):** jego argument jest trylematem warunkowym: co najmniej jedno z trzech twierdzeń ma być prawdziwe — ludzkość zwykle nie osiąga etapu postludzkiego, cywilizacje postludzkie prawie nigną nie uruchamiają symulacji przodków albo obserwatorzy tacy jak my prawdopodobnie są symulowani. Artykuł nie wykazuje, które z nich zachodzi, i nie dostarcza pomiaru symulacji.
+- **Modele testowalne:** Beane, Davoudi i Savage (2014) analizują wąski wariant regularnej, sześciennej sieci czasoprzestrzeni oraz możliwe ślady w symetrii obrotowej i widmie promieni kosmicznych. To modelowy program testów, nie wykryta anomalia.
+- **Ograniczenia zasobów:** Vazza (2025) argumentuje, że pełna, wysoko wierna symulacja świata byłaby niewykonalna przy określonych założeniach o fizyce symulatora. Edge i Brown (2026) wskazują, że taki rachunek nie obejmuje wprost minimalistycznego scenariusza odtwarzającego doświadczenia bez pełnego świata. Komentarz doprecyzowuje zakres, nie stanowi dowodu symulacji.
+- **Efekt Mandeli:** eksperymenty i replikacja dokumentują wspólne fałszywe wspomnienia ikon; nie są danymi o zmianie rzeczywistości.
+
+**Wniosek:** w sprawdzonych źródłach nie ma zweryfikowanego empirycznego dowodu, że żyjemy w symulacji. Nie można też z ograniczeń pojedynczego modelu wywnioskować obalenia wszystkich znaczeń tej hipotezy. Wariant bez odróżnialnych przewidywań jest obecnie empirycznie niedookreślony.
 
 ## Dlaczego AI ani większa liczba ludzi nie zamykają tych spraw
 
