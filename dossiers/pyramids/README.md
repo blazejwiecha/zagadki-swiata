@@ -12,6 +12,7 @@
 - Narzędzia miedziane, kamienne, liny, drewno, sanie, dźwignie, łodzie i praca zorganizowanych zespołów należą do realnego repertuaru technicznego epoki. „Bez nowoczesnych maszyn” nie znaczy „bez inżynierii”.
 - Rozdział Denysa A. Stocksa o eksperymentach w egiptologii porównuje repliki narzędzi miedzianych/brązowych z muzealnymi egzemplarzami oraz testuje obróbkę kamienia i przesuwanie bloków. Wspiera wykonalność wybranych technik dopasowywania wapienia oraz transportu po powierzchniach smarowanych i niesmarowanych. To test wykonalności, nie odkrycie kompletnego planu budowy ani dowód dokładnego przebiegu pracy przy każdym bloku.
 - Badanie z 2024 r. w *Nature Communications* zidentyfikowało zanikłą odnogę Nilu w pobliżu wielu piramid. Układ stanowisk względem dawnego koryta wspiera rolę transportu wodnego i logistycznego; wyjaśnia dostęp do placu budowy, nie metodę podnoszenia bloków na wyższe partie piramidy.
+- Eksperymenty z mokrym i suchym piaskiem wykazały, że odpowiednia ilość wody zmniejsza siłę potrzebną do przesuwania sań. To fizyczne potwierdzenie wykonalności transportu poziomego; malowidło z grobowca Dżhutihotepa pokazuje polewanie piasku przed saniami. Nie rozwiązuje transportu pionowego.
 
 ## Co wciąż nie jest rozstrzygnięte
 
@@ -20,6 +21,7 @@
 - Modele ramp (proste, zygzakowe, obwodowe, wewnętrzne), dźwigni, systemów mieszanych i innych rozwiązań muszą jednocześnie spełnić fizykę, tempo budowy, ograniczenia przestrzeni oraz zgodność z archeologią. Żaden model nie jest potwierdzony jako kompletny, jedyny opis całego procesu.
 - Rampy w kamieniołomie Hatnub są dowodem egipskich metod transportu ciężkich kamieni, ale samo podobieństwo nie dowodzi, że identyczny system zastosowano przy Wielkiej Piramidzie.
 - Hipoteza hydraulicznego podnoszenia bloków w piramidzie Dżesera (PLOS ONE 2024) jest propozycją opartą na interpretacji układu wodnego i architektury; to nie ustalenie dla Gizy ani zaakceptowany opis budowy piramid w ogóle. Badanie spotkało się z krytyką specjalistów od archeologii/egiptologii.
+- W latach 2025–2026 ukazały się nowe propozycje użycia przeciwwag, ramp ślizgowych i wielopasmowej rampy zintegrowanej z krawędziami piramidy. Publikacja modelu obliczeniowego z 2026 r. sama wymienia brak bezpośrednich śladów archeologicznych, zależność od pomiarów tarcia, uproszczone założenia o odstępach transportu i wywnioskowane liczebności ekip. To ulepsza porównywanie wykonalności, lecz nie jest odkryciem potwierdzającym, że tę konkretną metodę historycznie zastosowano.
 
 ## Obcy i „niewytłumaczalna precyzja”
 
@@ -38,6 +40,9 @@ Doniesienia o wielkich podziemnych strukturach pod piramidami z 2025 r. nie maj�
 - University of Chicago, Ancient Egypt Research Associates: https://isac.uchicago.edu/research-projects/ancient-egypt-research-associates-aera
 - Egipskie Ministerstwo Turystyki i Starożytności, piramida Meidum: https://egymonuments.gov.eg/monuments/the-pyramid-of-meidum/
 - Hatnub, IFAO/University of Liverpool discovery coverage: https://www.liverpool.ac.uk/archaeology-classics-and-egyptology/news/articles/ancient-egyptians-used-ramps-to-transport-heavy-alabaster-stones/
+- Fall et al. (2014), *Sliding friction on wet and dry sand*, Physical Review Letters 112, 175502: https://doi.org/10.1103/PhysRevLett.112.175502
+- Scheuring (2025), model przeciwwag i ramp ślizgowych: https://doi.org/10.1038/s40494-025-02018-w
+- Rosell Roig et al. (2026), model Integrated Edge-Ramp i jawnie opisane ograniczenia: https://doi.org/10.1038/s40494-026-02405-x
 - Stocks, *Scientific evaluation of experiments in Egyptian archaeology*, w: *Mummies, Magic and Medicine in Ancient Egypt*: https://doi.org/10.7765/9781784997502.00049
 - Ghoneim et al. (2024), *The Egyptian pyramid chain was built along the now abandoned Ahramat Nile Branch*, Communications Earth & Environment 5, 233: https://doi.org/10.1038/s43247-024-01379-7
 - Müller-Römer, *A New Consideration of the Construction Methods of the Ancient Egyptian Pyramids* (2008): https://bpb-us-w2.wpmucdn.com/people.smu.edu/dist/4/562/files/2023/08/Muller_Romer_2008.pdf
