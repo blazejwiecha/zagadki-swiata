@@ -1,6 +1,6 @@
 # Syntetyczny stan dowodów
 
-**Stan na:** 2026-11-26, po rundzie 15.
+**Stan na:** 2026-11-26, po rundzie 16.
 **Zakres:** życie pozaziemskie/UAP, budowa piramid, religie i bogowie, hipoteza symulacji („Matrix”).  
 **Zasada:** poniżej rozdzielam brak potwierdzenia, potwierdzoną historię i pytania niedostępne dla obecnego testu. To nie jest dowód, że „przeszukano cały internet”.
 
@@ -12,7 +12,7 @@
 | UAP | Istnieją autentyczne zgłoszenia i nagrania. Część analizowanych przypadków wyjaśniono zwykłymi obiektami lub zjawiskami; niektóre pozostają niezidentyfikowane z powodu niewystarczających danych. | Tożsamość części obiektów i pełna charakterystyka niektórych zdarzeń. „Niezidentyfikowane” nie jest dowodem pozaziemskiego pochodzenia. |
 | Piramida Chufu | Staroegipskie źródła i znaleziska potwierdzają królewski projekt, załogi, dostawy materiałów oraz zorganizowaną logistykę. Dziennik Merera opisuje rzeczny transport kamienia z Tury do Akhet-Khufu. | Pełna sekwencja budowy i dokładny system podnoszenia bloków na wyższe poziomy. Nie zachował się kompletny opis techniczny ani jednoznacznie potwierdzony model całego procesu. |
 | Religie / bogowie | Istnienie dawnych kultów, nazw bóstw, tekstów i praktyk można badać historycznie. Kult YHWH jest poświadczony w pozabiblijnych źródłach co najmniej w IX w. p.n.e.; wcześniejszy egipski zapis Yhwꜣ jest niejednoznaczny. | Ogólne metafizyczne twierdzenie, że istnieje jakiś bóg, nie ma jednej operacyjnej definicji i empirycznego testu, który obejmowałby wszystkie takie pojęcia. Konkretne, mierzalne twierdzenia religijne można oceniać osobno. |
-| Symulacja / „Matrix” | Bostrom sformułował warunkowy argument trylematu, a fizycy zaproponowali testy niektórych konkretnych modeli symulacji, np. dyskretnej sieci czasoprzestrzeni. | Nie ma empirycznego wykrycia, że żyjemy w symulacji. Argument filozoficzny nie jest obserwacją; ograniczenia obliczeniowe Vuzzy dotyczą określonych symulatorów i założeń fizycznych, nie każdego możliwego znaczenia „symulacji”. |
+| Symulacja / „Matrix” | Bostrom sformułował warunkowy argument trylematu, a fizycy zaproponowali testy niektórych konkretnych modeli. Niezależna, prerejestrowana analiza publicznych 10% danych Pierre Auger nie wykryła silnego wzoru sześciennej sieci w badanej próbce. | Nie ma empirycznego wykrycia, że żyjemy w symulacji. Analiza Auger miała moc tylko dla silnej sygnatury i nie była recenzowaną publikacją; ograniczenia Vuzzy obejmują określone modele, nie wszystkie wersje „Matrixa”. |
 
 ## Nowe ustalenia z rundy 10
 
@@ -46,6 +46,13 @@ Wniosek z aktualizacji: nowy skan poprawia zapis archeologiczny powierzchni i do
 - **Tel ’Eton:** artykuł z 2026 r. opisuje dużą stojącą stelę/massebah w domu Building 101, później ułożoną poziomo i obudowaną kamienną platformą przed końcem VIII w. p.n.e. Autor łączy zmianę z możliwą reformą Ezechiasza, ale uznaje takie datowanie i powiązanie za niepewne. Obiekt nie ma inskrypcji identyfikującej bóstwo; świadczy o zmianie lokalnej praktyki kultowej, nie o metafizycznym istnieniu czczonego bytu.
 
 Wniosek z tej rundy: w nowych materiałach nie znaleziono potwierdzenia wizyty kosmitów, konkretnej historycznej metody ramp ani istnienia bóstwa. Za to pojawiły się nowe ograniczenia obserwacyjne, testowalne przewidywania modelu budowy i lepsze świadectwo przemian kultu.
+
+## Aktualizacja z rundy 16 — nowe archiwum, pomiary i testy
+
+- **UAP:** raport AARO FY2025 obejmował 319 nowych raportów: 114 rozstrzygnięto jako zwykłe obiekty, 191 przeniesiono do archiwum z powodu niewystarczających danych, a 9 wymagało dalszej analizy. W jednym raporcie marynarki u wybrzeża Wirginii opisano około 100 obiektów powietrznych i dwa prawdopodobnie bezzałogowe obiekty nawodne; AARO prowadziło dochodzenie, a nie potwierdziło niezwykłego pochodzenia. NARA prowadzi RG 615 i dodaje rekordy UAP stopniowo; sam dostęp do archiwum nie jest nowym dowodem na obcych.
+- **Piramida Chufu:** badanie mikrodrgań w 37 punktach zmierzyło częstotliwości własne i względną odpowiedź konstrukcji. Wynik opisuje właściwości sejsmiczne dostępnych części zabytku. Autorzy zaznaczają, że metoda HVSR nie jest absolutną miarą wzmocnienia ruchu, a indeks Kg dotyczy gruntu, nie bezpieczeństwa całej piramidy; celowe projektowanie odporności na trzęsienia ziemi pozostaje spekulacją.
+- **Historia religii:** inskrypcje z Północnej Arabii dostarczają nowego, konkretnego materiału o preislamskim użyciu imienia Allāh. Artykuły z 2025–2026 proponują odczytanie Allāha jako boga-stwórcy niosącego światło w jednym starszym tekście oraz zmianę publicznych inwokacji w późniejszych inskrypcjach. To dane o historii wierzeń i interpretacja epigraficzna, nie dowód metafizycznego istnienia bóstwa ani pełny spis prywatnych przekonań ludności.
+- **Test hipotezy symulacji:** prerejestrowana analiza publicznej próbki Auger nie wykryła proponowanej anizotropii sześciennej. Zbiór obejmował 25 086 zdarzeń, ale tylko publiczne 10% danych; przy najwyższym badanym progu ≥32 EeV było 155 zdarzeń, a test miał moc wykrywania dopiero bardzo silnego wzoru. Wynik osłabia jedynie konkretną sygnaturę w tej próbce, nie hipotezę symulacji jako całość.
 
 ## Aktualizacja z rundy 15 — hipoteza symulacji („Matrix”)
 
