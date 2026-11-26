@@ -79,3 +79,9 @@ Jednocześnie zdanie „żadna forma symulacji nie jest możliwa” wykraczałob
 Vazza (2025) szacuje koszty zasobów dla konkretnych wariantów symulacji (m.in. pełnego obserwowalnego Wszechświata i Ziemi w wybranej rozdzielczości), przy założeniu praw fizyki podobnych do naszych. Edge i Brown (2026) nie podważają w komentarzu wyliczeń liczbowych; argumentują, że nie obejmują one minimalnej wersji Bostroma, która wymaga przede wszystkim spójnego doświadczenia obserwatora i dopuszcza pomijanie nieobserwowanych szczegółów. Komentarz nie stanowi dowodu prawdziwości takiej wersji. Wniosek pozostaje: ograniczono określone modele, ale brak empirycznego wykrycia symulacji.
 
 Źródła: [Vazza 2025](https://doi.org/10.3389/fphy.2025.1561873); [Edge & Brown 2026](https://doi.org/10.3389/fphy.2026.1808725); [analiza rundy 21](../research-log/2026-11-26-round-21.md).
+
+## Sześcienna sieć: niezależny test Auger i jego ograniczenia (runda 36)
+
+Recenzowany artykuł Beane’a, Davoudi i Savage’a z 2014 r. analizuje możliwe ślady określonej regularnej, sześciennej siatki czasoprzestrzeni. W 2026 r. Harper opublikował własną, prerejestrowaną analizę publicznych 10% danych Auger: nie wykrył wzoru, lecz własne testy mocy wykrywały go dopiero przy dużym sygnale, szczególnie dla 155 zdarzeń powyżej 32 EeV. Praca jest transparentną, ograniczoną analizą na stronie autora; nie jest recenzowanym artykułem, a autor wymienia brak modelowania pól magnetycznych i brak niezależnej replikacji. Wniosek: null result osłabia tylko silną wersję jednej sygnatury, nie rozstrzyga hipotezy symulacji.
+
+Szczegóły: [dziennik rundy 36](../../research-log/2026-11-26-round-36.md). Źródło A56 w [rejestrze](../../sources/README.md).
