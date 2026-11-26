@@ -59,3 +59,6 @@ Po rundzie 34: [dziennik badań](research-log/2026-11-26-round-34.md) rozdziela 
 
 
 Po rundzie 35: [dziennik badań](research-log/2026-11-26-round-35.md) sprawdza wydanie papirusów Merera. Źródło potwierdza transport wapienia z Tury do Akhet-Chufu, ale nie opisuje ramp ani sposobu podnoszenia bloków.
+
+
+Po rundzie 36: [dziennik badań](research-log/2026-11-26-round-36.md) ocenia test sześciennej siatki w danych Auger: brak wykrycia, niska moc dla subtelnych wzorów, analiza nieprzeglądowa. Wynik ogranicza tylko jedną klasę silnej sygnatury.
