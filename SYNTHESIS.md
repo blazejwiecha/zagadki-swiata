@@ -225,6 +225,6 @@ Szczegóły: [dziennik rundy 32](research-log/2026-11-26-round-32.md).
 
 ## Aktualizacja z rundy 33 — YHWH i Aszera
 
-Stela Meszy z IX w. p.n.e. potwierdza historyczny kult YHWH poza Biblią. Inskrypcje z Kuntillet Ajrud i Khirbet el-Qom poświadczają formuły łączące YHWH z *ʾšrth*, ale jej identyfikacja pozostaje sporna: bogini Aszera/Aszerata, symbol kultowy lub sanktuarium. Zatem dowód na praktykę religijną jest mocny; jednoznaczny dowód, że Aszera była małżonką YHWH, nie został w tych inskrypcjach ustalony. Ani jeden wariant epigraficznego odczytu nie rozstrzyga metafizycznego istnienia bóstwa.
+Stela Meszy z IX w. p.n.e. potwierdza pozabiblijne poświadczenie imienia YHWH; tłumaczenie zabranych przedmiotów jako naczyń lub palenisk ołtarzowych pozostaje sporne. Inskrypcje z Kuntillet Ajrud i Khirbet el-Qom poświadczają formuły łączące YHWH z *ʾšrth*, ale jej identyfikacja pozostaje sporna: bogini Aszera/Aszerata, symbol kultowy lub sanktuarium. Zatem dowód na praktykę religijną jest mocny; jednoznaczny dowód, że Aszera była małżonką YHWH, nie został w tych inskrypcjach ustalony. Ani jeden wariant epigraficznego odczytu nie rozstrzyga metafizycznego istnienia bóstwa.
 
 Szczegóły i źródła: [dziennik rundy 33](research-log/2026-11-26-round-33.md).
