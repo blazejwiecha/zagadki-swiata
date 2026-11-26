@@ -1,6 +1,6 @@
 # Syntetyczny stan dowodów
 
-**Stan na:** 2026-11-26, po rundzie 21.
+**Stan na:** 2026-11-26, po rundzie 22.
 **Zakres:** życie pozaziemskie/UAP, budowa piramid, religie i bogowie, hipoteza symulacji („Matrix”).  
 **Zasada:** poniżej rozdzielam brak potwierdzenia, potwierdzoną historię i pytania niedostępne dla obecnego testu. To nie jest dowód, że „przeszukano cały internet”.
 
@@ -139,3 +139,10 @@ Kampania Allen Telescope Array dla 3I/ATLAS (7,25 h, 1–9 GHz) nie znalazła w�
 **Symulacja:** oszacowania Vazzego ograniczają konkretne warianty pełnej symulacji przy założeniach o fizyce podobnej do naszej. Komentarz Edge’a i Browna wskazuje, że minimalna koncepcja Bostroma (utrzymanie wiarygodnego doświadczenia bez pełnego renderowania wszystkiego) jest szersza i nie została tym obliczeniem wykluczona. Nie oznacza to, że taka symulacja istnieje. Stan empiryczny się nie zmienia: brak wykrycia, że żyjemy w symulacji.
 
 Szczegóły i źródła: [dziennik rundy 21](research-log/2026-11-26-round-21.md).
+
+
+## Aktualizacja po rundzie 22 — Göbekli Tepe i dawne wierzenia
+
+Recenzowane badanie dwóch pochówków opublikowane w 2026 r. wskazuje, że część rozproszonych ludzkich szczątków w Göbekli Tepe mogła trafić do zasypisk przez erozję z grobów pod podłogami. Nie usuwa to dowodów celowo modyfikowanych czaszek ani nie wyklucza dodatkowych obrzędów, ale uniemożliwia traktowanie wszystkich rozproszonych kości jako bezpośredniego dowodu jednego „kultu czaszek”. Współczesny obraz miejsca obejmuje zarówno monumentalną symbolikę/rytuały, jak i coraz lepiej udokumentowane funkcje osadnicze.
+
+Archeologia potwierdza aktywność rytualną i symboliczne praktyki społeczności neolitycznej, lecz nie dostarcza imion bogów ani tekstu jej doktryny. Interpretacje relacji z duchami, szamanami lub „bóstwami” są modelami antropologicznymi, nie bezpośrednim odczytem artefaktu. Zob. [dziennik rundy 22](research-log/2026-11-26-round-22.md).
