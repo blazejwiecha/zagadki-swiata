@@ -24,6 +24,8 @@
 - AARO opublikowało korespondencję o zaproszeniach Gruscha na poufny wywiad. AARO twierdzi, że po uzgodnieniu spotkania 14 listopada 2023 Grusch się nie stawił; sam Grusch wcześniej kwestionował kompetencje i zabezpieczenia AARO. Dokument jest jednostronnym urzędowym zapisem AARO, więc zapisujemy go jako spór o dostęp i procedurę, nie rozstrzygnięcie prawdziwości zarzutów.
 - W odtajnionym slajdzie Marynarki USA o incydencie Nimitz z 14 listopada 2004 zapisano, że odprawy załóg potwierdzały zgłoszenie zdarzenia, lecz dostępnych danych było bardzo mało do analizy technicznej. To wzmacnia wniosek, że piloci i inne załogi zgłosili incydent; nie umożliwia niezależnego potwierdzenia niezwykłych prędkości/manewrów ani pozaziemskiego pochodzenia.
 - SETI/B​​reakthrough Listen i inne zespoły prowadzą rzeczywiste obserwacje radiowe. Brak detekcji ogranicza możliwe parametry sygnałów w konkretnym paśmie, czasie i polu obserwacji; nie wyklucza wszystkich cywilizacji ani wszystkich technosygnatur.
+- Przykład ilościowy: przegląd archiwum Green Bank Telescope opublikowany w 2025 r. objął cztery pasma 1,10–11,2 GHz i około 1000 gwiazd w każdym paśmie; nie znaleziono kandydata, którego nie dało się przypisać zakłóceniom radiowym. Wynik nakłada ograniczenia na silne, wąskopasmowe nadajniki skierowane ku Ziemi w tych pasmach i obserwacjach. Nie testuje wszystkich częstotliwości, mocy, kierunków, czasu emisji ani technologii.
+- Najgłośniejsza ostatnio kandydatura biosygnatury, DMS/DMDS w atmosferze K2-18 b, nadal nie jest wykryciem życia. Część analiz wykazuje, że sygnał zależy od redukcji i modelu; jedna szeroka analiza z 2026 r. znajduje pewne wsparcie dla DMS w wybranych porównaniach, lecz niezależne prace uznają cechy MIRI za szum/systematykę i nie znajdują statystycznie istotnej biosygnatury. Brak zgodności i niezależnego potwierdzenia oznacza, że nie wolno przedstawiać K2-18 b jako odkrytego życia.
 - Przypadek viralowych „mumii z Nazca” wymaga rozdzielenia okazów. Peruwiańskie Ministerstwo Kultury i eksperci medycyny sądowej opisali analizę okazów skonfiskowanych na lotnisku w październiku 2023 r. jako składanych z kości zwierzęcych i nowoczesnych klejów; osobno wskazana trójpalczasta dłoń zbadana przez instytut w 2019 r. składała się z ludzkich kości, bawełny i kleju. Wniosek ten dotyczy tych konkretnych okazów. Nie należy rozszerzać go na każdy obiekt, którego pochodzenie nie zostało zbadane tą samą metodą; równocześnie materiały promocyjne innych okazów nie są same w sobie dowodem pozaziemskiego pochodzenia.
 
 ## Dlaczego temat pozostaje otwarty
@@ -57,6 +59,10 @@
 - AARO imagery cases: https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/
 - NASA Astrobiology: https://astrobiology.nasa.gov/about/
 - Breakthrough Listen: Painter et al. 2025, *A Novel Technosignature Search in the Breakthrough Listen Green Bank Telescope Archive*, AJ 169, 222, DOI: 10.3847/1538-3881/adbc5e.
+- NASA Life Detection Knowledge Base i standardy oceny biosygnatur: https://science.nasa.gov/astrobiology/researchers/life-detection-resources/ldkb/
+- Stevenson et al. (2025), *K2-18b Does Not Meet the Standards of Evidence for Life*, AJ 170, 257: https://doi.org/10.3847/1538-3881/ae0338
+- Luque et al. (2025/2026), *Challenges in the detection of gases in exoplanet atmospheres*, Nature Astronomy 10:234–247: https://doi.org/10.1038/s41550-025-02730-4
+- Pica-Ciamarra et al. (2026), *A Systematic Search for Trace Molecules in the Atmosphere of Exoplanet K2-18 b*, ApJL 1002:L34: https://doi.org/10.3847/2041-8213/ae5dcc
 - SETI parameter-space paper: Wright et al. 2018, *The Ĝ Survey*, AJ 156, 260, DOI: 10.3847/1538-3881/aae099.
 
 ## Status
