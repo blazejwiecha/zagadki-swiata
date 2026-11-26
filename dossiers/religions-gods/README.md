@@ -18,6 +18,8 @@
 - W egipskich listach geograficznych z XIV–XIII w. p.n.e. występuje nazwa Shasu-land of Yhwꜣ. Część uczonych łączy ją z najstarszym śladem imienia YHWH; identyfikacja i jej znaczenie dla pochodzenia kultu są dyskutowane. To trop historyczny, nie rozstrzygnięcie o realności bytu.
 - Historyk może oceniać, czy tekst jest wczesny, czy wydarzenie jest poświadczone niezależnie, czy dany kult istniał i jak ewoluował. To nie jest automatycznie dowód cudu ani prawdziwości teologii.
 - Badania nad modlitwą lub cudami mogą sprawdzać konkretne, operacyjne skutki, gdy hipoteza przewiduje mierzalną różnicę. Wynik pojedynczego badania nie rozstrzyga wszystkich możliwych pojęć Boga.
+- Przykład testowalnego twierdzenia: wieloośrodkowe, randomizowane badanie STEP (1 802 pacjentów po pomostowaniu wieńcowym) nie wykazało poprawy w 30-dniowym przebiegu pooperacyjnym u osób objętych modlitwą w porównaniu z grupą bez modlitwy (52% wobec 51% z powikłaniami). To wynik dotyczący konkretnej interwencji i konkretnego wyniku medycznego; nie testuje istnienia Boga ani wszystkich rodzajów modlitwy.
+- Przegląd rozwoju kognitywistyki religii z 2025 r. podkreśla wielość poziomów i metod badania religii (psychologia, obrazowanie mózgu, modelowanie, badania międzykulturowe i historia). Ta dziedzina bada, jak powstają i utrzymują się przekonania i rytuały; sam mechanizm psychologiczny nie rozstrzyga, czy przedmiot przekonania istnieje.
 
 ## Granica naukowego werdyktu
 
@@ -39,6 +41,8 @@ Nauki empiryczne wymagają obserwacji, przewidywań i możliwości, by dane prze
 - Fleming, *Yahweh Before Israel* (Cambridge; Egyptian lists and interpretive debate): https://www.cambridge.org/core/books/yahweh-before-israel/9FE491AC13605A4550C2A60F64E953C8/listing
 - Shalomi-Hen, *Signs of YHWH, God of the Hebrews, in New Kingdom Egypt?*: https://doi.org/10.46586/er.12.2021.9463
 - Oxford Academic, *Origins of Biblical Monotheism*: https://academic.oup.com/book/12858
+- Benson et al. (2006), STEP randomized trial, American Heart Journal: https://pubmed.ncbi.nlm.nih.gov/16569567/
+- Whitehouse et al. (2025), *The cognitive science of religion: past, present, and possible futures*: https://doi.org/10.1080/2153599X.2025.2474404
 
 ## Status
 
