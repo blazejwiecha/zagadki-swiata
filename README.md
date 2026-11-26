@@ -56,3 +56,6 @@ Po rundzie 33: [dziennik badań](research-log/2026-11-26-round-33.md) zestawia p
 
 
 Po rundzie 34: [dziennik badań](research-log/2026-11-26-round-34.md) rozdziela sporne odczytanie pitosów Ajrud od tekstów ugaryckich. Ugarit poświadcza Athirat jako małżonkę El, ale nie YHWH; same rysunki z Ajrud nie identyfikują jednoznacznie bogów.
+
+
+Po rundzie 35: [dziennik badań](research-log/2026-11-26-round-35.md) sprawdza wydanie papirusów Merera. Źródło potwierdza transport wapienia z Tury do Akhet-Chufu, ale nie opisuje ramp ani sposobu podnoszenia bloków.
