@@ -34,3 +34,6 @@ Po rundzie 26: [dziennik badań](research-log/2026-11-26-round-26.md) rozdziela 
 
 
 Po rundzie 27: [dziennik badań](research-log/2026-11-26-round-27.md) weryfikuje raport D25 dla domniemanego UAP 434 kt i oddziela szacunek obserwatora od pomiaru. Ocenia też status i założenia nowego audytu zdolności budowlanych Egiptu.
+
+
+Po rundzie 28: [dziennik badań](research-log/2026-11-26-round-28.md) poprawia status pracy Vazz y (recenzowany artykuł, nie sam preprint) i zawęża jej wniosek zgodnie z recenzowanym komentarzem z 2026 r.
