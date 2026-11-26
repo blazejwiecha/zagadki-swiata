@@ -62,3 +62,7 @@ Po rundzie 35: [dziennik badań](research-log/2026-11-26-round-35.md) sprawdza w
 
 
 Po rundzie 36: [dziennik badań](research-log/2026-11-26-round-36.md) ocenia test sześciennej siatki w danych Auger: brak wykrycia, niska moc dla subtelnych wzorów, analiza nieprzeglądowa. Wynik ogranicza tylko jedną klasę silnej sygnatury.
+
+
+
+Po rundzie 37: [dziennik badań](research-log/2026-11-26-round-37.md) oddziela dowody na organizację osady i zaopatrzenia w Gizie od słabiej poświadczonego statusu prawnego pracowników. Cmentarz i badanie złamań nie są prostą próbą załogi Chufu; źródła nie dowodzą ani „wszystkich niewolników”, ani „wszystkich ochotników”.
