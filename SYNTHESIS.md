@@ -1,6 +1,6 @@
 # Syntetyczny stan dowodów
 
-**Stan na:** 2026-11-26, po rundzie 33.
+**Stan na:** 2026-11-26, po rundzie 44.
 **Zakres:** życie pozaziemskie/UAP, budowa piramid, religie i bogowie, hipoteza symulacji („Matrix”).  
 **Zasada:** poniżej rozdzielam brak potwierdzenia, potwierdzoną historię i pytania niedostępne dla obecnego testu. To nie jest dowód, że „przeszukano cały internet”.
 
@@ -302,3 +302,10 @@ Szczegóły: [dziennik rundy 42](research-log/2026-11-26-round-42.md).
 Pierwotna identyfikacja PH₃ opierała się na trudnym sygnale przy 266,94 GHz; nota redakcyjna wskazała błąd w przetwarzaniu ALMA, a niezależne reanalizy zakwestionowały wiarygodność linii. Zespół odkrywców odpowiedział, że po kalibracji nadal widzi słabszy sygnał. Obserwacje SOFIA wyznaczyły limit 0,8 ppb dla wysokości ok. 75–110 km, lecz pojedyncza epoka i profil wysokościowy nie rozstrzygają całej zmienności Wenus. Zespół JCMT-Venus raportuje nowe, wstępne widma i około 0,3 ppm przy ok. 55 km z eksperymentalną metodą odzyskiwania skrzydeł linii; materiały są konferencyjne i nie stanowią niezależnej replikacji. Przyjęte do MNRAS badanie Tang et al. z 2026 r. dotyczy H₂O/SO₂, nie rozstrzyga PH₃. Najściślejszy wniosek: obecność fosfiny pozostaje sporna; nawet jej potwierdzenie nie byłoby samo w sobie dowodem życia. Życia na Wenus nie wykryto.
 
 Szczegóły i audyt źródeł: [dziennik rundy 43](research-log/2026-11-26-round-43.md).
+
+
+## Aktualizacja z rundy 44 — sygnały biologiczne Vikinga
+
+Eksperyment Labeled Release mierzył powtarzalne uwalnianie gazu zawierającego ¹⁴C po dodaniu pożywki; część odpowiedzi słabła po ogrzewaniu. To wynik biologicznie interesujący, ale nieswoisty dla życia. CAPyR mierzył niewielkie wiązanie węgla, którego zachowanie przy 90–175°C już pierwotny zespół uznał za mało prawdopodobnie biologiczne. Przegląd NASA nie znalazł jednoznacznego dowodu bioty, a późniejsze odkrycie perchloranu dostarczyło realnej alternatywy chemicznej. McKay et al. (2025) proponują, że perchloran i inne oksychlorany wyjaśniają znaczną część reakcji; Benner et al. oraz preprint Spaceka i współautorów z 2026 r. ponownie argumentują, że dane są zgodne z życiem i wymagają pełniejszej reanalizy. Preprint nie jest nowym pomiarem ani dowodem na organizmy. NASA PDS publikuje dane LR, choć ich transkrypcja ma udokumentowane braki i możliwe błędy. **Wniosek:** Viking zarejestrował prawdziwe, nadal sporne reakcje chemiczno-biologiczne; życie na Marsie nie zostało wykryte.
+
+Szczegóły i źródła: [dziennik rundy 44](research-log/2026-11-26-round-44.md).
