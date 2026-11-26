@@ -288,3 +288,10 @@ Szczegóły: [dziennik rundy 40](research-log/2026-11-26-round-40.md).
 Cassini wykryła składniki i chemiczne gradienty, które mogą wspierać znaną biologię, w tym sygnatury fosforanów sodu. Nowa reanaliza INMS proponuje HCN i kilka małych węglowodorów, przy znanych trudnościach dopasowania widm. Eksperyment z 2026 r. wykazał, że ziemski archeon może rosnąć w laboratoryjnym symulancie wybranych warunków oceanu Enceladusa, a inne symulacje uzyskały proste aminokwasy abiotycznie. To wzmacnia argument za potencjalną zamieszkiwalnością, a zarazem pokazuje, że część związków organicznych może powstawać bez życia. Żadna z tych prac nie pobrała komórek ani nie wykryła metabolizmu na Enceladusie. Najściślejszy wniosek: **potencjalnie zamieszkiwalny ocean, brak wykrytego życia**.
 
 Szczegóły i ograniczenia: [dziennik rundy 41](research-log/2026-11-26-round-41.md).
+
+
+## Aktualizacja z rundy 42 — granice argumentu obliczeniowego o Matrixie
+
+Vazza (2025) pokazuje, że trzy konkretne warianty pełnej lub wysokorozdzielczej symulacji — w tym Ziemia z rozdzielczością ograniczoną obserwacjami neutrin — wymagałyby nieosiągalnych zasobów, jeśli host-universe podlega fizyce podobnej do naszej. Recenzowany komentarz Edge’a i Browna (2026) nie podważa rachunków, lecz wskazuje, że dotyczą pełniejszego, globalnie spójnego świata niż minimalny wariant Bostroma. Bostrom w FAQ z 2025 r. opisuje możliwość podtrzymywania spójnych doświadczeń przez uproszczone lub generowane na żądanie szczegóły. To nie dowodzi wykonalności takiego rozwiązania ani nie jest dowodem na symulację. Najściślejszy wniosek: ograniczono kilka konkretnych implementacji Matrixa; ogólna hipoteza pozostaje bez bezpośredniej detekcji i trudno ją testować bez wskazania konkretnego mechanizmu.
+
+Szczegóły: [dziennik rundy 42](research-log/2026-11-26-round-42.md).
