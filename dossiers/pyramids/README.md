@@ -23,8 +23,6 @@ Mapowanie AERA przy Wielkiej Piramidzie udokumentowało 2 898 otworów po palach
 
 Źródła: [AERA, raport roczny 2023–24](https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/Publications/Annual-Reports/2023-2024/23-24_Annual_Report.pdf); [AERA, kamieniołom Wielkiej Piramidy](https://aeraweb.org/great-pyramid-quarry/).
 
-
-
 Raport ISAC/AERA 2024–2025 opisuje skan laserowy południowego podłoża wykonany w 2024 r. oraz dalsze skanowanie w 2025 r. stron wschodniej, północnej i zachodniej, by uzupełnić zapis z 2015–2016. Wykorzystano miliony punktów do cyfrowego odtworzenia m.in. gniazd dźwigni, otworów, kanałów kamieniołomów i osadzeń płyt. Raport dokumentuje też pierwszy trójwymiarowy zapis korytarzy próbnych na wschód od piramidy. To postęp w dokumentacji, lecz nie ujawnienie potwierdzonej rampy ani kompletnej metody podnoszenia bloków. [ISAC, Annual Report 2024–2025, s. 45–47](https://isac-assets.s3.amazonaws.com/isac-publications/24-25_Annual_Report.pdf).
 
 ## Co wciąż nie jest rozstrzygnięte
@@ -37,8 +35,8 @@ Raport ISAC/AERA 2024–2025 opisuje skan laserowy południowego podłoża wykon
 - W latach 2025–2026 ukazały się nowe propozycje użycia przeciwwag, ramp ślizgowych i wielopasmowej rampy zintegrowanej z krawędziami piramidy. Publikacja modelu obliczeniowego z 2026 r. sama wymienia brak bezpośrednich śladów archeologicznych, zależność od pomiarów tarcia, uproszczone założenia o odstępach transportu i wywnioskowane liczebności ekip. To ulepsza porównywanie wykonalności, lecz nie jest odkryciem potwierdzającym, że tę konkretną metodę historycznie zastosowano.
 - Artykuł z 2025 r. proponuje system przeciwwag i ramp ślizgowych, interpretując cechy korytarzy jako elementy takiego mechanizmu. To publikowana i sprawdzalna hipoteza, ale nie bezpośredni ślad zachowanego urządzenia. Ocena autorów opiera się na interpretacji architektury; sama publikacja przedstawia ją jako nowy model, a nie ustalony opis historyczny.
 - Nowszy model wielopasmowej rampy zintegrowanej z krawędziami piramidy (2026) krytykuje część założeń hipotezy przeciwwag, a zarazem proponuje własne przewidywania możliwe do sprawdzenia geofizycznie i śladami zużycia. To pokazuje, że konkurencja hipotez może generować konkretne testy; dopóki ich nie wykonano lub nie zreplikowano, spór pozostaje otwarty.
-
 - Preprint Choi i Dubraya z listopada 2026 r. proponuje 35 zewnętrznych tarasów oraz rampy zygzakowe na dwóch ścianach i podaje testy, które mogłyby obalić model. Zależy on od niezmierzonych parametrów pracy oraz zakłada, że kamień czeka już u podnóża ramp. W dniu sprawdzenia wydawca oznaczał tekst jako nie-recenzowany. Jest to testowalna hipoteza logistyczna, a nie odkrycie potwierdzające historyczne użycie tego układu: https://doi.org/10.20944/preprints202610.0852.v2.
+- Przyjęty do publikacji artykuł Rosella Roiga z listopada 2026 r. sprawdza zgodność modelu Integrated Edge-Ramp z geometrią piramidy Chefrena. Wykorzystuje fotogrametryczny model UNESCO i analizę numeryczną; nie przedstawia nowego skanu archeologicznego ani odkrytego fizycznego odcinka rampy. Autor podaje przewidywane wysokości do przyszłych badań nieinwazyjnych i wprost zaznacza, że zgodność strukturalna nie dowodzi historycznej przyczyny ani przewagi nad innymi zgodnymi modelami. To rozszerza testowalność hipotezy na drugą piramidę, ale jej nie potwierdza: https://doi.org/10.1038/s40494-026-03091-5.
 
 ## Obcy i „niewytłumaczalna precyzja”
 
