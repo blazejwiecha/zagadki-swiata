@@ -1,6 +1,6 @@
 # Syntetyczny stan dowodów
 
-**Stan na:** 2026-11-26, po rundzie 20.
+**Stan na:** 2026-11-26, po rundzie 21.
 **Zakres:** życie pozaziemskie/UAP, budowa piramid, religie i bogowie, hipoteza symulacji („Matrix”).  
 **Zasada:** poniżej rozdzielam brak potwierdzenia, potwierdzoną historię i pytania niedostępne dla obecnego testu. To nie jest dowód, że „przeszukano cały internet”.
 
@@ -130,3 +130,12 @@ Stan na 26 listopada 2026 r.: w recenzowanej literaturze wyniki dotyczące DMS/D
 Kampania Allen Telescope Array dla 3I/ATLAS (7,25 h, 1–9 GHz) nie znalazła wąskopasmowej technosygnatury w analizowanym materiale. To wynik dla zbadanych pasm, czułości, czasu i typu sygnału. NASA podaje w zaktualizowanym w październiku 2026 FAQ, że nie ma wiarygodnych dowodów życia pozaziemskiego ani danych wspierających pozaziemskie pochodzenie UAP; brak detekcji nie rozstrzyga, czy życie gdziekolwiek indziej istnieje.
 
 Źródła szczegółowo opisane w [dzienniku rundy 20](research-log/2026-11-26-round-20.md).
+
+
+## Aktualizacja po rundzie 21 — piramida Chufu i zakres testów symulacji
+
+**Piramida:** Big Void (2017) i North Face Corridor (ok. 9 m; scharakteryzowany muonografią, z późniejszą fuzją GPR/ultradźwięków/ERT) to odrębne, opublikowane wyniki. Pustki/korytarze są potwierdzone; ich przeznaczenie nie. Dodatkowy korytarz 30 m wspomniany przez Zahi Hawassa i zrelacjonowany przez WAM w 2025 r. nie ma w sprawdzonych materiałach do 26 listopada 2026 r. opublikowanych pomiarów ani niezależnego potwierdzenia. To zapowiedź, nie trzeci potwierdzony korytarz.
+
+**Symulacja:** oszacowania Vazzego ograniczają konkretne warianty pełnej symulacji przy założeniach o fizyce podobnej do naszej. Komentarz Edge’a i Browna wskazuje, że minimalna koncepcja Bostroma (utrzymanie wiarygodnego doświadczenia bez pełnego renderowania wszystkiego) jest szersza i nie została tym obliczeniem wykluczona. Nie oznacza to, że taka symulacja istnieje. Stan empiryczny się nie zmienia: brak wykrycia, że żyjemy w symulacji.
+
+Szczegóły i źródła: [dziennik rundy 21](research-log/2026-11-26-round-21.md).
