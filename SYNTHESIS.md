@@ -48,7 +48,7 @@ W 2026 r. Doug Buettner przedstawił na konferencji SCU dalszą analizę nagrani
 - [IFAO: tłumaczenie dziennika Merera](https://www.ifao.egnet.net/uploads/publications/divers/MIFAO136_ann_01.pdf) — pierwotny zapis logistyki, z wyraźnym brakiem opisu technik budowy.
 - [Cambridge: *Yahweh before Israel*](https://www.cambridge.org/core/books/yahweh-before-israel/9FE491AC13605A4550C2A60F64E953C8) — rozróżnienie wczesnego, niejednoznacznego Yhwꜣ od dziewiątowiecznego świadectwa kultu.
 - [AARO: analiza przypadku Aguadilla](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf), [komunikat SCU](https://www.explorescu.org/post/scu-announcement-on-the-aaro-investigation-of-the-aguadilla-video) i [ponowna analiza Buettnera z 2026 r.](https://github.com/DrDougB/Presentations/blob/main/Buettner-Revisiting%20the%20Aguadilla%20Transmedium%20UAP.pdf) — konkurujące rekonstrukcje i poziomy pewności.
-- [AERA: raport 2023–24](https://aeraweb.org/wp-content/uploads/2024/12/AERA-Annual-Report-2023-24.pdf) — ślady wykute w podłożu wokół piramidy Chufu.
+- [AERA: raport 2023–24](https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/Publications/Annual-Reports/2023-2024/23-24_Annual_Report.pdf) — ślady wykute w podłożu wokół piramidy Chufu.
 - [Luwr: stela Meszy](https://collections.louvre.fr/ark:/53355/cl010120339) — datowanie i opis obiektu.
 - [Posen Library/Yale: inskrypcja z Kuntillet Ajrud](https://www.posenlibrary.com/entry/prayer-kuntillet-ajrud) i [przegląd interpretacji](https://doi.org/10.3390/rel10030211).
 - [Muzeum Egipskie i Zbiór Papirusów w Berlinie: dokumenty świątyni YHW w Elefantynie](https://elephantine.smb.museum/objects/object.php?o=308135).
