@@ -108,3 +108,12 @@ To materialne świadectwa modlitw i praktyk, a nie tylko późniejszych opisów 
 Źródła OCIANA: [BES25_MG1 20](https://ociana.osu.edu/inscriptions/46331); [BES24_FWKh1 55](https://ociana.osu.edu/inscriptions/47897)
 
 Wstępna ocena: można badać pochodzenie, przemiany i historyczne składniki religii; można testować konkretne twierdzenia o zdarzeniach. Nie ma naukowego, uniwersalnego dowodu, który potwierdza albo wyklucza każdego możliwego boga. Aby zrobić postęp, trzeba zawężać twierdzenie do konkretnej religii, postaci, tekstu, wydarzenia lub mierzalnej obietnicy.
+
+
+### Aktualizacja — runda 22: pochówki i wierzenia w Göbekli Tepe
+
+Recenzowane badanie Gresky i Clare (2026) analizuje dwa pochówki w kontekstach PPNB (ok. 8700–8000 p.n.e.): pojedynczy oraz zbiorowy z co najmniej trzema osobami. Stan kości i osadów wskazuje, że część rozproszonych szczątków z zasypisk monumentalnych budowli mogła zostać przeniesiona przez erozję ze stref z grobami pod podłogami. To osłabia twierdzenie, że wszystkie rozproszone fragmenty świadczą o celowym kulcie czaszek lub składaniu szczątków w budowlach. Autorzy nie wykluczają innych obrzędów; dokładniejsza chronologia i dalsze analizy są potrzebne.
+
+Stanowisko dokumentuje monumentalną architekturę, reliefy zwierząt, pochówki i praktyki symboliczne. Współczesne badania komplikują model „wyłącznie sanktuarium”: znajdują też ślady osadnictwa i codziennej aktywności. Prace interpretujące ikonografię jako relacje ze światem duchów/istot są modelami antropologicznymi, nie odczytem źródła pisanego. Nie znamy imienia bóstwa z Göbekli Tepe ani tekstu objaśniającego jego doktrynę. Materiał potwierdza rytuał i wierzenia w szerokim sensie, lecz nie ustala pełnej religii ani metafizycznego istnienia bogów.
+
+Źródła: [badanie dwóch pochówków (PLOS ONE 2026)](https://doi.org/10.1371/journal.pone.0358979); [analiza zmodyfikowanych czaszek (Science Advances 2017)](https://doi.org/10.1126/sciadv.1700564); [interpretacja symboliki (Cambridge Archaeological Journal 2025)](https://doi.org/10.1017/S0959774325000113); [debata o funkcji osadniczej i kultowej (Open Archaeology 2023)](https://doi.org/10.1515/opar-2022-0317). Szczegóły i ograniczenia: [dziennik rundy 22](../research-log/2026-11-26-round-22.md).
