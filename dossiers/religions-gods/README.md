@@ -20,10 +20,14 @@
 - Badania nad modlitwą lub cudami mogą sprawdzać konkretne, operacyjne skutki, gdy hipoteza przewiduje mierzalną różnicę. Wynik pojedynczego badania nie rozstrzyga wszystkich możliwych pojęć Boga.
 - Przykład testowalnego twierdzenia: wieloośrodkowe, randomizowane badanie STEP (1 802 pacjentów po pomostowaniu wieńcowym) nie wykazało poprawy w 30-dniowym przebiegu pooperacyjnym u osób objętych modlitwą w porównaniu z grupą bez modlitwy (52% wobec 51% z powikłaniami). To wynik dotyczący konkretnej interwencji i konkretnego wyniku medycznego; nie testuje istnienia Boga ani wszystkich rodzajów modlitwy.
 - Przegląd rozwoju kognitywistyki religii z 2025 r. podkreśla wielość poziomów i metod badania religii (psychologia, obrazowanie mózgu, modelowanie, badania międzykulturowe i historia). Ta dziedzina bada, jak powstają i utrzymują się przekonania i rytuały; sam mechanizm psychologiczny nie rozstrzyga, czy przedmiot przekonania istnieje.
+- Przykład materialnej pamiątki religijnej: trzy laboratoria datowały próbkę Całunu Turyńskiego metodą AMS na lata 1260–1390 n.e. (przedział 95% ufności; publikacja w *Nature* z 1989 r.). W 2026 r. autorzy zbadali mikroskopowo dwa zachowane fragmenty związane z próbką laboratorium w Arizonie; uznali je za zgodne z głównym płótnem i nie znaleźli oznak naprawy ani zanieczyszczenia w analizowanych fragmentach. To wzmacnia reprezentatywność badanej próbki, ale nie jest nowym datowaniem całego płótna ani dowodem, kto był przedstawiony na wizerunku.
+- Istnieje krytyka statystyczna rozrzutu dwunastu pomiarów z 1988 r.; jej autorzy argumentowali, że wyniki są niejednorodne i zasługują na ponowną ocenę. Sama statystyczna niejednorodność nie ustanawia jednak alternatywnej daty ani nie dowodzi pochodzenia z I wieku. Do jednoznacznego rozstrzygnięcia wieku potrzebne byłyby niezależne, odpowiednio pobrane i opublikowane pomiary materiału z kilku miejsc płótna.
 
 ## Granica naukowego werdyktu
 
 Nauki empiryczne wymagają obserwacji, przewidywań i możliwości, by dane przemawiały przeciw hipotezie. Jeśli twierdzenie o bogu nie wskazuje żadnego możliwego obserwacyjnego wyniku, nauka nie potrafi wydać rozstrzygnięcia „tak” ani „nie”. To nie jest dowód, że wszystkie odpowiedzi są równie dobre: konkretne twierdzenia historyczne i przyrodnicze mogą być wspierane, osłabiane lub obalane dowodami. Filozofia może analizować argumenty metafizyczne, ale ich ocena nie jest tym samym co empiryczna demonstracja.
+
+**Wniosek dla Całunu Turyńskiego:** najlepiej poparte opublikowane datowanie materiału jest średniowieczne, a analiza zachowanych włókien z 2026 r. nie znalazła śladów naprawy w badanych fragmentach próbki. Dowody nie potwierdzają, że całun pochodzi z I wieku ani że dowodzi zmartwychwstania.
 
 ## Źródła startowe
 
@@ -43,6 +47,9 @@ Nauki empiryczne wymagają obserwacji, przewidywań i możliwości, by dane prze
 - Oxford Academic, *Origins of Biblical Monotheism*: https://academic.oup.com/book/12858
 - Benson et al. (2006), STEP randomized trial, American Heart Journal: https://pubmed.ncbi.nlm.nih.gov/16569567/
 - Whitehouse et al. (2025), *The cognitive science of religion: past, present, and possible futures*: https://doi.org/10.1080/2153599X.2025.2474404
+- Damon et al. (1989), *Radiocarbon dating of the Shroud of Turin*, Nature 337:611–615: https://doi.org/10.1038/337611a0
+- Freer-Waters & Jull (2026), *Analysis of textile fragments from the 1988 radiocarbon samples of the Turin Shroud*, npj Heritage Science 14:263: https://doi.org/10.1038/s40494-026-02530-7
+- Riani et al. (2019), *Radiocarbon Dating of the Turin Shroud: New Evidence from Raw Data*: https://doi.org/10.1111/arcm.12467
 
 ## Status
 
