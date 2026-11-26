@@ -193,3 +193,10 @@ Tekst Tan (2026) podaje 43–71% prawdopodobieństwa symulacji w czterech scenar
 Vazza (2025) jest recenzowanym artykułem w *Frontiers in Physics*, a nie tylko preprintem. Jego rachunki ograniczają kilka zdefiniowanych scenariuszy: symulowanie całego obserwowalnego Wszechświata, Ziemi z rozdzielczością Plancka i niższej rozdzielczości Ziemi zgodnej z ograniczeniem neutrin — przy prawach fizyki symulatora podobnych do naszych. Recenzowany komentarz Edge’a i Browna (2026) wskazuje, że taki zakres jest szerszy niż minimalne zobowiązanie argumentu Bostroma: podtrzymywanie spójnego doświadczenia obserwatora nie musi wymagać pełnego renderowania całego świata. Komentarz nie obala rachunków w ich zakresie; ogranicza ich uogólnienie. **Wynik:** brak empirycznego wykrycia symulacji; brak też podstaw, by twierdzić, że te rachunki wykluczają każdą wersję hipotezy.
 
 Szczegóły: [dziennik rundy 28](research-log/2026-11-26-round-28.md).
+
+
+## Aktualizacja z rundy 29 — co nauka o religii rzeczywiście wyjaśnia
+
+Przegląd Van Eyghena (2026) pokazuje, że kognitywistyka religii nie ma jednej, kompletnej teorii: zwykłe mechanizmy poznawcze współdziałają z kulturą i rytuałem, a HADD oraz część badań primingowych mają wyniki mieszane i problemy replikacji. Badanie prerejestrowane w VR z 199 osobami nie potwierdziło konkretnego przewidywania, że oczekiwanie zagrożenia zwiększa fałszywe wykrywanie agentów. Badanie 19 krajów (n=7 771) znalazło małe korelacje stylu rozumowania z wiarą, ale nie efekt primingu; wynik jest korelacyjny, a plan analiz zarejestrowano po zebraniu danych. Te prace dotyczą mechanizmów i korelatów przekonań, nie metafizycznej prawdziwości bóstwa. **Nie ma naukowego rozstrzygnięcia istnienia Boga; nie ma też podstaw, by jeden mechanizm uznać za dowiedzione wyjaśnienie wszystkich religii.**
+
+Szczegóły: [dziennik rundy 29](research-log/2026-11-26-round-29.md).
