@@ -1,6 +1,6 @@
 # Notatnik badań: trzy trudne tematy
 
-Prywatny notatnik Błażeja. Cel: zebrać twierdzenia, dane pierwotne, publikacje, kontrargumenty i otwarte pytania dotyczące (1) życia pozaziemskiego/UAP, (2) budowy piramid, (3) religii i bogów.
+Publiczny notatnik badań Błażeja. Cel: zebrać twierdzenia, dane pierwotne, publikacje, kontrargumenty i otwarte pytania dotyczące (1) życia pozaziemskiego/UAP, (2) budowy piramid, (3) religii i bogów.
 
 ## Zasady pracy
 
@@ -17,6 +17,7 @@ Prywatny notatnik Błażeja. Cel: zebrać twierdzenia, dane pierwotne, publikacj
 - [Piramidy](pyramids/README.md)
 - [Religie i bogowie](religions-gods/README.md)
 - [Rejestr źródeł](sources/README.md)
+- [Dziennik poszukiwań](research-log/)
 
 ## Stan na 2026-11-26
 
