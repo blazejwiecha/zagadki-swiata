@@ -200,3 +200,10 @@ Szczegóły: [dziennik rundy 28](research-log/2026-11-26-round-28.md).
 Przegląd Van Eyghena (2026) pokazuje, że kognitywistyka religii nie ma jednej, kompletnej teorii: zwykłe mechanizmy poznawcze współdziałają z kulturą i rytuałem, a HADD oraz część badań primingowych mają wyniki mieszane i problemy replikacji. Badanie prerejestrowane w VR z 199 osobami nie potwierdziło konkretnego przewidywania, że oczekiwanie zagrożenia zwiększa fałszywe wykrywanie agentów. Badanie 19 krajów (n=7 771) znalazło małe korelacje stylu rozumowania z wiarą, ale nie efekt primingu; wynik jest korelacyjny, a plan analiz zarejestrowano po zebraniu danych. Te prace dotyczą mechanizmów i korelatów przekonań, nie metafizycznej prawdziwości bóstwa. **Nie ma naukowego rozstrzygnięcia istnienia Boga; nie ma też podstaw, by jeden mechanizm uznać za dowiedzione wyjaśnienie wszystkich religii.**
 
 Szczegóły: [dziennik rundy 29](research-log/2026-11-26-round-29.md).
+
+
+## Aktualizacja z rundy 30 — nowy model rampy przy krawędziach
+
+Recenzowany model IER z 2026 r. udostępnia kod, parametry, dane i wyniki symulacji. W jego założeniach równoległe rampy mogą zmieścić logistykę w szacowanym horyzoncie; artykuł jawnie przyznaje brak bezpośrednich śladów rampy i podaje testowalne przewidywania. To jakościowy postęp w sprawdzalności hipotez, nie dowód, że IER rzeczywiście zastosowano. Popularne „blok co trzy minuty” zależy od czasu pracy i od tego, czy liczymy tory pojedynczo czy równoległy plac budowy. Model sam przyjmuje 10-godzinne dni, sześć dni w tygodniu oraz 4-minutowe odstępy na aktywną rampę, a nie pojedynczy tor przez cały projekt.
+
+Szczegóły: [dziennik rundy 30](research-log/2026-11-26-round-30.md).
