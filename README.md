@@ -31,3 +31,6 @@ Po rundzie 25: [dziennik badań](research-log/2026-11-26-round-25.md) porządkuj
 
 
 Po rundzie 26: [dziennik badań](research-log/2026-11-26-round-26.md) rozdziela konkretne skonfiskowane falsyfikaty z Nazca od innych okazów, ocenia próbki radiowęglowe i publiczne sekwencje DNA, a także dodaje świeże źródła o sensorach UAP, mechanizmie przeciwwag, archeologii rytuału oraz granicach modelu symulacji.
+
+
+Po rundzie 27: [dziennik badań](research-log/2026-11-26-round-27.md) weryfikuje raport D25 dla domniemanego UAP 434 kt i oddziela szacunek obserwatora od pomiaru. Ocenia też status i założenia nowego audytu zdolności budowlanych Egiptu.
