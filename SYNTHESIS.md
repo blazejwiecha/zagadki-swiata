@@ -186,3 +186,10 @@ Tekst Tan (2026) podaje 43–71% prawdopodobieństwa symulacji w czterech scenar
 - **DOW-UAP-D25 / PR-028:** raport źródłowy zaznacza, że 434 kt to szacunek obserwatora; dokładność prędkości, wysokości i trajektorii jest „estimated”. Nie przeprowadzono interrogacji sensora; brak dodatkowych obserwatorów, efektów i materiału. Jest raport i nagranie SWIR, ale prędkość nie jest w tym pakiecie potwierdzonym pomiarem.
 - **Audyt Quantifying Antiquity (2026):** raport techniczny jest niezależną publikacją autora, a nie artykułem recenzowanym; strona projektu potwierdza, że nie był publikowany w czasopiśmie. Skoroszyt bazowy jest chroniony i niedostępny, a publiczny model udostępnia tylko wybrane parametry. Raport wprost nazywa 25% limitu mobilizacji założeniem, podaje uproszczenia jednoczesności i pozostawia mieszany model sezonowy otwarty. Wynik należy traktować jako hipotezę obliczeniową do niezależnej weryfikacji, nie rozstrzygnięcie archeologiczne.
 - **Szerszy kontekst Gizy:** osada robotnicza, cmentarz, administracja oraz dziennik Merera potwierdzają egipską organizację i transport. Dokładna metoda pionowego wznoszenia pozostaje nieustalona, ale brak zamkniętego opisu technicznego nie dowodzi innej cywilizacji.
+
+
+## Aktualizacja z rundy 28 — co naprawdę ogranicza argument fizyczny o Matrixie
+
+Vazza (2025) jest recenzowanym artykułem w *Frontiers in Physics*, a nie tylko preprintem. Jego rachunki ograniczają kilka zdefiniowanych scenariuszy: symulowanie całego obserwowalnego Wszechświata, Ziemi z rozdzielczością Plancka i niższej rozdzielczości Ziemi zgodnej z ograniczeniem neutrin — przy prawach fizyki symulatora podobnych do naszych. Recenzowany komentarz Edge’a i Browna (2026) wskazuje, że taki zakres jest szerszy niż minimalne zobowiązanie argumentu Bostroma: podtrzymywanie spójnego doświadczenia obserwatora nie musi wymagać pełnego renderowania całego świata. Komentarz nie obala rachunków w ich zakresie; ogranicza ich uogólnienie. **Wynik:** brak empirycznego wykrycia symulacji; brak też podstaw, by twierdzić, że te rachunki wykluczają każdą wersję hipotezy.
+
+Szczegóły: [dziennik rundy 28](research-log/2026-11-26-round-28.md).
