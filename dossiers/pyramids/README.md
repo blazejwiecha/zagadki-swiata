@@ -17,6 +17,12 @@
 - Korytarz za północnym chevronem Wielkiej Piramidy — wcześniej wykryty muonografią — został w 2025 r. ponownie scharakteryzowany przez połączenie georadaru, ultradźwięków i tomografii oporności elektrycznej. Obecność przestrzeni jest więc potwierdzona wieloma metodami nieniszczącymi. Sama lokalizacja i geometria nie dowodzą, że służył budowie, ukrywa skarb ani zawiera „nieznaną technologię”; funkcja pozostaje niewyjaśniona.
 - Eksperymenty z mokrym i suchym piaskiem wykazały, że odpowiednia ilość wody zmniejsza siłę potrzebną do przesuwania sań. To fizyczne potwierdzenie wykonalności transportu poziomego; malowidło z grobowca Dżhutihotepa pokazuje polewanie piasku przed saniami. Nie rozwiązuje transportu pionowego.
 
+### Nowy wynik terenowy: ślady wykute w podłożu
+
+Mapowanie AERA przy Wielkiej Piramidzie udokumentowało 2 898 otworów po palach, gniazd dźwigni i kanałów kamieniołomów na zbadanych stronach wschodniej, zachodniej i północnej. Infrastruktura muzeum łodzi ograniczyła początkowo pełne badanie strony południowej. To bezpośredni dowód na przygotowanie placu, lokalne wydobycie i wykorzystanie dźwigni do odspajania kamienia z podłoża. Nie pokazuje samo w sobie, jak bloki podnoszono na kolejne poziomy piramidy ani nie rozstrzyga modelu ramp.
+
+Źródła: [AERA, raport roczny 2023–24](https://aeraweb.org/wp-content/uploads/2024/12/AERA-Annual-Report-2023-24.pdf); [AERA, kamieniołom Wielkiej Piramidy](https://aeraweb.org/great-pyramid-quarry/).
+
 ## Co wciąż nie jest rozstrzygnięte
 
 - Nie zachował się kompletny projekt ani opis metody podnoszenia wszystkich bloków Wielkiej Piramidy.
