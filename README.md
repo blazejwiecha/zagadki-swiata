@@ -24,4 +24,4 @@ Publiczny notatnik badań Błażeja. Cel: zebrać twierdzenia, dane pierwotne, p
 
 Wstępny przegląd nie daje jednego wspólnego „sekretnego rozwiązania”. Są trzy odrębne klasy pytań: czy istnieje życie poza Ziemią (empirycznie otwarte), jak dokładnie wykonano niektóre elementy budowy piramid (częściowo otwarte mimo mocnych danych o ludziach i logistyce), oraz czy byty nadnaturalne istnieją (dla ogólnych, nietestowalnych definicji nie jest to pytanie rozstrzygalne metodą nauk empirycznych). Dossiers będą aktualizowane przy kolejnych rundach badań.
 
-Po rundzie 9: zob. [syntetyczny stan dowodów](SYNTHESIS.md).
+Po rundach 10–12: zob. [syntetyczny stan dowodów](SYNTHESIS.md) oraz dzienniki badań z 26 listopada 2026 r.
