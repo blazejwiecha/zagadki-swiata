@@ -1,6 +1,6 @@
 # Syntetyczny stan dowodów
 
-**Stan na:** 2026-11-26, po rundzie 25.
+**Stan na:** 2026-11-26, po rundzie 33.
 **Zakres:** życie pozaziemskie/UAP, budowa piramid, religie i bogowie, hipoteza symulacji („Matrix”).  
 **Zasada:** poniżej rozdzielam brak potwierdzenia, potwierdzoną historię i pytania niedostępne dla obecnego testu. To nie jest dowód, że „przeszukano cały internet”.
 
@@ -221,3 +221,10 @@ Szczegóły: [dziennik rundy 31](research-log/2026-11-26-round-31.md).
 Nowe przeglądy poszerzają parametry SETI: pilotaż ATA z 2026 r. testował Antysolarny Punkt przez trzy noce w wąskim fragmencie nieba i zakresie 1–2,4 GHz; archiwalne ALMA testowało dwa wąskie okna przy 90,642/93,151 GHz wobec 28 gwiazd, z czułością dla najbliższej celu ok. 6,91×10^17 W; artykuł BRaTs z 2026 r. proponuje szukanie zbiorczego szerokopasmowego wycieku i wieloparametrową weryfikację, ale nie raportuje detekcji. Żaden z tych null results nie oznacza „braku obcych”; każdy wyklucza tylko sygnały objęte konkretnym pomiarem. W sprawdzonych materiałach nie ma potwierdzonej technosygnatury.
 
 Szczegóły: [dziennik rundy 32](research-log/2026-11-26-round-32.md).
+
+
+## Aktualizacja z rundy 33 — YHWH i Aszera
+
+Stela Meszy z IX w. p.n.e. potwierdza historyczny kult YHWH poza Biblią. Inskrypcje z Kuntillet Ajrud i Khirbet el-Qom poświadczają formuły łączące YHWH z *ʾšrth*, ale jej identyfikacja pozostaje sporna: bogini Aszera/Aszerata, symbol kultowy lub sanktuarium. Zatem dowód na praktykę religijną jest mocny; jednoznaczny dowód, że Aszera była małżonką YHWH, nie został w tych inskrypcjach ustalony. Ani jeden wariant epigraficznego odczytu nie rozstrzyga metafizycznego istnienia bóstwa.
+
+Szczegóły i źródła: [dziennik rundy 33](research-log/2026-11-26-round-33.md).
