@@ -1,6 +1,6 @@
 # Syntetyczny stan dowodów
 
-**Stan na:** 2026-11-26, po rundzie 17.
+**Stan na:** 2026-11-26, po rundzie 18.
 **Zakres:** życie pozaziemskie/UAP, budowa piramid, religie i bogowie, hipoteza symulacji („Matrix”).  
 **Zasada:** poniżej rozdzielam brak potwierdzenia, potwierdzoną historię i pytania niedostępne dla obecnego testu. To nie jest dowód, że „przeszukano cały internet”.
 
@@ -10,7 +10,7 @@
 | --- | --- | --- |
 | Życie poza Ziemią / obcy | Życie pozaziemskie jest przedmiotem aktywnych poszukiwań. Nie ma publicznie potwierdzonego, niezależnie zweryfikowanego wykrycia obcego życia ani wizyty obcych na Ziemi. | Czy życie istnieje gdzie indziej; czy jakakolwiek cywilizacja odwiedziła Ziemię. Brak detekcji ogranicza tylko zbadane częstotliwości, cele, czas i typy sygnałów. |
 | UAP | Istnieją autentyczne zgłoszenia i nagrania. Część analizowanych przypadków wyjaśniono zwykłymi obiektami lub zjawiskami; niektóre pozostają niezidentyfikowane z powodu niewystarczających danych. | Tożsamość części obiektów i pełna charakterystyka niektórych zdarzeń. „Niezidentyfikowane” nie jest dowodem pozaziemskiego pochodzenia. |
-| Piramida Chufu | Staroegipskie źródła i znaleziska potwierdzają królewski projekt, załogi, dostawy materiałów oraz zorganizowaną logistykę. Dziennik Merera opisuje rzeczny transport kamienia z Tury do Akhet-Khufu. | Pełna sekwencja budowy i dokładny system podnoszenia bloków na wyższe poziomy. Nie zachował się kompletny opis techniczny ani jednoznacznie potwierdzony model całego procesu. |
+| Piramida Chufu | Staroegipskie źródła, ślady kamieniołomów i logistyki oraz skanowane ślady na podłożu potwierdzają zorganizowany egipski projekt. „Big Void” wykryto niezależnie muonami trzema technikami. | Dokładny system podnoszenia bloków nadal nie jest ustalony. Praca radarowa z 2022 r. o rzekomej sieci ukrytych korytarzy została wycofana w 2026 r. z powodu poważnych wad metodologicznych i statystycznych; nie była źródłem odkrycia muonowego. |
 | Religie / bogowie | Istnienie dawnych kultów, nazw bóstw, tekstów i praktyk można badać historycznie. Kult YHWH jest poświadczony w pozabiblijnych źródłach co najmniej w IX w. p.n.e.; wcześniejszy egipski zapis Yhwꜣ jest niejednoznaczny. | Ogólne metafizyczne twierdzenie, że istnieje jakiś bóg, nie ma jednej operacyjnej definicji i empirycznego testu, który obejmowałby wszystkie takie pojęcia. Konkretne, mierzalne twierdzenia religijne można oceniać osobno. |
 | Symulacja / „Matrix” | Bostrom sformułował warunkowy argument trylematu; testy fizyczne i analiza Auger dotyczą konkretnych modeli. Wolpert (2025) formalizuje relację symulowania, ale nie podaje testu empirycznego. | Nie ma empirycznego wykrycia, że żyjemy w symulacji. Wzajemna symulowalność Wolperta zachodzi w ramach jego założeń; wynik Auger wyklucza tylko silny wzór zbadany w małej publicznej próbce. |
 
@@ -46,6 +46,12 @@ Wniosek z aktualizacji: nowy skan poprawia zapis archeologiczny powierzchni i do
 - **Tel ’Eton:** artykuł z 2026 r. opisuje dużą stojącą stelę/massebah w domu Building 101, później ułożoną poziomo i obudowaną kamienną platformą przed końcem VIII w. p.n.e. Autor łączy zmianę z możliwą reformą Ezechiasza, ale uznaje takie datowanie i powiązanie za niepewne. Obiekt nie ma inskrypcji identyfikującej bóstwo; świadczy o zmianie lokalnej praktyki kultowej, nie o metafizycznym istnieniu czczonego bytu.
 
 Wniosek z tej rundy: w nowych materiałach nie znaleziono potwierdzenia wizyty kosmitów, konkretnej historycznej metody ramp ani istnienia bóstwa. Za to pojawiły się nowe ograniczenia obserwacyjne, testowalne przewidywania modelu budowy i lepsze świadectwo przemian kultu.
+
+## Aktualizacja z rundy 18 — korekta statusu „ukrytych struktur” w Chufu
+
+- Czasopismo *Remote Sensing* formalnie wycofało w 2026 r. artykuł z 2022 r., który twierdził, że SAR ujawnił liczne nieznane pomieszczenia i korytarze. Oficjalne zawiadomienie mówi o poważnych wadach metody i błędach statystycznych podważających wnioski; autorzy nie zgadzają się z wycofaniem. Zawiadomienie nie stwierdza fałszerstwa ani misconduct.
+- To wycofanie nie dotyczy ScanPyramids „Big Void”: odrębny artykuł *Nature* z 2017 r. opisuje pustkę o minimalnej długości 30 m nad Wielką Galerią, wykrytą trzema niezależnymi technikami muonowymi. Jej funkcja pozostaje nieznana.
+- AERA/University of Chicago prowadzi bezpośrednie skanowanie podłoża i dokumentuje miliony punktów oraz ślady obróbki, kanały kamieniołomowe i otwory. To rosnący korpus archeologiczny, który potwierdza pracę ludzi na miejscu, ale nie rozstrzyga sposobu podnoszenia bloków.
 
 ## Aktualizacja z rundy 17 — nowe modele, archiwa i ograniczenia korpusów
 
