@@ -1,6 +1,6 @@
 # Syntetyczny stan dowodów
 
-**Stan na:** 2026-11-26, po rundzie 12.
+**Stan na:** 2026-11-26, po rundzie 13.
 **Zakres:** życie pozaziemskie/UAP, budowa piramid, religie i bogowie.  
 **Zasada:** poniżej rozdzielam brak potwierdzenia, potwierdzoną historię i pytania niedostępne dla obecnego testu. To nie jest dowód, że „przeszukano cały internet”.
 
@@ -26,6 +26,14 @@ Inskrypcje z Kuntillet Ajrud nazywają YHWH „z Temanu” i „z Samarii”, a 
 ### Aktualizacja z rundy 12 — Aguadilla
 
 W 2026 r. Doug Buettner przedstawił na konferencji SCU dalszą analizę nagrania Aguadilla, a prezentację udostępnił w repozytorium GitHub jako PDF. Omówienie konferencji przez Society for UAP Studies opisuje analizę surowego nagrania IR i uzupełnianie brakujących danych; jego streszczenie podaje wynik niekonkluzywny. To znaczy, że źródła z 2026 r. nie ustanawiają rozstrzygnięcia na korzyść tezy o obiekcie transmedium ani nie potwierdzają jednoznacznie lampionów. Wniosek AARO o braku wykazanej anomalii pozostaje osobny od mniej pewnej identyfikacji obiektów.
+
+### Aktualizacja z rundy 13 — skan podłoża Gizy i nowy model ramp
+
+Raport ISAC/AERA 2024–2025 potwierdza laserowy skan południowego podłoża piramidy Chufu z 2024 r.; miliony punktów zarejestrowały m.in. gniazda dźwigni, wykute otwory, kanały kamieniołomów i miejsca osadzenia płyt dziedzińca. W lutym 2025 r. zespół wrócił do skanowania stron wschodniej, północnej i zachodniej, aby uzupełnić wcześniejszy zapis z lat 2015–2016; powstał też pierwszy trójwymiarowy zapis tzw. korytarzy próbnych na wschód od piramidy. Raport opisuje dokumentację i cyfrowe odwzorowanie placu. Nie podaje nowego, pełnego zestawienia południowych śladów ani nie identyfikuje zachowanego systemu ramp do podnoszenia bloków.
+
+Preprint Choi i Dubraya z 10 listopada 2026 r. proponuje 35 zewnętrznych tarasów z bloków oraz rampy zygzakowe na ścianach wschodniej i południowej. Autorzy symulują transport i montaż, lecz przyjmują m.in. niezmierzone czasy załadunku sań, zawracania i osadzania bloków, a kamień traktują jako już dostarczony u podnóża ramp. Własne przewidywania modelu obejmują możliwe ślady u podstawy i w blokach wtórnie użytych; autorzy wskazują pomiary terenowe, które mogłyby go obalić. W dniu sprawdzenia tekst był oznaczony jako nie-recenzowany preprint. To nowa, jawnie testowalna propozycja, nie dowód, że tak zbudowano piramidę.
+
+Wniosek z aktualizacji: nowy skan poprawia zapis archeologiczny powierzchni, a preprint formułuje testy dla jednej propozycji. Żaden z tych wyników nie zamyka pytania o dokładną sekwencję transportu pionowego.
 
 ## Dlaczego AI ani większa liczba ludzi nie zamykają tych spraw
 
