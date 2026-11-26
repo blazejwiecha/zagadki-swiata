@@ -90,3 +90,6 @@ Po rundzie 43: [dziennik badań](research-log/2026-11-26-round-43.md) sprawdza s
 
 
 Po rundzie 44: [dziennik badań](research-log/2026-11-26-round-44.md) ponownie ocenia eksperymenty biologiczne Vikinga na Marsie. Reakcje LR są rzeczywiste, ale nieswoiste dla życia; perchloran daje mocną alternatywę chemiczną, a nowe interpretacje nie są odkryciem życia.
+
+
+Po rundzie 45: [dziennik badań](research-log/2026-11-26-round-45.md) omawia nowe obrazowanie ultradźwiękowe w Komorze Króla. Zarejestrowano reflektor wewnątrz bloku NW9, lecz publikacja nie identyfikuje go jako pustej komory ani korytarza.
