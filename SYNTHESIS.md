@@ -21,7 +21,7 @@
 
 ### Uzupełnienie z rundy 11
 
-Inskrypcje z Kuntillet Ajrud nazywają YHWH „z Temanu” i „z Samarii”, a niektóre łączą jego imię z *ʾšrth*. Czy chodzi o boginię czy obiekt kultowy — sporne. Papirusy z Elefantyny potwierdzają świątynię YHW w V w. p.n.e. i petycję o jej odbudowę po zniszczeniu. To wzmacnia historyczny obraz regionalnych i instytucjonalnych form kultu; nie pozwala przypisać wszystkim wspólnotom jednej, niezmiennej doktryny.
+Inskrypcje z Kuntillet Ajrud nazywają YHWH „z Temanu” i „z Samarii”, a niektóre łączą jego imię z *ʾšrth*. Czy chodzi o boginię czy obiekt kultowy — sporne. Papirusy z Elefantyny potwierdzają świątynię YHW w V w. p.n.e. i petycję o jej odbudowę po zniszczeniu. To wzmacnia historyczny obraz regionalnych i instytucjonalnych form kultu; nie pozwala przypisać wszystkim wspólnotom jednej, niezmiennej doktryny. Kontrola katalogu papirusów precyzuje, że dokument z 407 r. p.n.e. oferuje wsparcie dla odbudowy i wymienia kadzidło oraz ofiarę pokarmową, a osobna petycja do Bagohiego relacjonuje zniszczenie świątyni i prosi o jej odbudowę. Są to świadectwa konkretnej wspólnoty i praktyk, nie pełny opis judaizmu ani test istnienia bóstwa.
 
 ### Aktualizacja z rundy 12 — Aguadilla
 
