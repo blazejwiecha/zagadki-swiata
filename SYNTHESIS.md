@@ -228,3 +228,10 @@ Szczegóły: [dziennik rundy 32](research-log/2026-11-26-round-32.md).
 Stela Meszy z IX w. p.n.e. potwierdza pozabiblijne poświadczenie imienia YHWH; tłumaczenie zabranych przedmiotów jako naczyń lub palenisk ołtarzowych pozostaje sporne. Inskrypcje z Kuntillet Ajrud i Khirbet el-Qom poświadczają formuły łączące YHWH z *ʾšrth*, ale jej identyfikacja pozostaje sporna: bogini Aszera/Aszerata, symbol kultowy lub sanktuarium. Zatem dowód na praktykę religijną jest mocny; jednoznaczny dowód, że Aszera była małżonką YHWH, nie został w tych inskrypcjach ustalony. Ani jeden wariant epigraficznego odczytu nie rozstrzyga metafizycznego istnienia bóstwa.
 
 Szczegóły i źródła: [dziennik rundy 33](research-log/2026-11-26-round-33.md).
+
+
+## Aktualizacja z rundy 34 — obrazy Ajrud i Athirat z Ugarit
+
+Pitosy z Kuntillet Ajrud nie są podpisanym portretem: artykuły różnie oceniają, czy postacie i motywy odnoszą się do tekstu o YHWH/*ʾšrth*. Teksty z Ugarit poświadczają Athirat jako małżonkę El w tamtejszej religii, lecz nie ustanawiają związku z YHWH. Te materiały poszerzają kontekst porównawczy, ale nie rozwiązują sporu o małżonkę YHWH.
+
+Szczegóły: [dziennik rundy 34](research-log/2026-11-26-round-34.md).
