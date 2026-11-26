@@ -1,6 +1,6 @@
 # Syntetyczny stan dowodów
 
-**Stan na:** 2026-11-26, po rundzie 10.
+**Stan na:** 2026-11-26, po rundzie 12.
 **Zakres:** życie pozaziemskie/UAP, budowa piramid, religie i bogowie.  
 **Zasada:** poniżej rozdzielam brak potwierdzenia, potwierdzoną historię i pytania niedostępne dla obecnego testu. To nie jest dowód, że „przeszukano cały internet”.
 
@@ -23,6 +23,10 @@
 
 Inskrypcje z Kuntillet Ajrud nazywają YHWH „z Temanu” i „z Samarii”, a niektóre łączą jego imię z *ʾšrth*. Czy chodzi o boginię czy obiekt kultowy — sporne. Papirusy z Elefantyny potwierdzają świątynię YHW w V w. p.n.e. i petycję o jej odbudowę po zniszczeniu. To wzmacnia historyczny obraz regionalnych i instytucjonalnych form kultu; nie pozwala przypisać wszystkim wspólnotom jednej, niezmiennej doktryny.
 
+### Aktualizacja z rundy 12 — Aguadilla
+
+W 2026 r. Doug Buettner przedstawił na konferencji SCU dalszą analizę nagrania Aguadilla, a prezentację udostępnił w repozytorium GitHub jako PDF. Omówienie konferencji przez Society for UAP Studies opisuje analizę surowego nagrania IR i uzupełnianie brakujących danych; jego streszczenie podaje wynik niekonkluzywny. To znaczy, że źródła z 2026 r. nie ustanawiają rozstrzygnięcia na korzyść tezy o obiekcie transmedium ani nie potwierdzają jednoznacznie lampionów. Wniosek AARO o braku wykazanej anomalii pozostaje osobny od mniej pewnej identyfikacji obiektów.
+
 ## Dlaczego AI ani większa liczba ludzi nie zamykają tych spraw
 
 1. **Analiza nie zastępuje obserwacji.** Raport NASA stwierdza, że badanie UAP ogranicza dziś głównie jakość danych, a nie brak technik analitycznych. Sensory często nie były projektowane do naukowego pomiaru UAP, brakuje kalibracji, metadanych i niezależnie dostępnych nagrań źródłowych. AI może sortować i modelować dane, ale nie odtworzy utraconego pliku ani nie odzyska niezmierzonej odległości.
@@ -43,7 +47,7 @@ Inskrypcje z Kuntillet Ajrud nazywają YHWH „z Temanu” i „z Samarii”, a 
 - [BLC1, analiza sygnału](https://doi.org/10.1038/s41550-021-01508-8) — przykład fałszywie obiecującego sygnału wyjaśnionego jako zakłócenie.
 - [IFAO: tłumaczenie dziennika Merera](https://www.ifao.egnet.net/uploads/publications/divers/MIFAO136_ann_01.pdf) — pierwotny zapis logistyki, z wyraźnym brakiem opisu technik budowy.
 - [Cambridge: *Yahweh before Israel*](https://www.cambridge.org/core/books/yahweh-before-israel/9FE491AC13605A4550C2A60F64E953C8) — rozróżnienie wczesnego, niejednoznacznego Yhwꜣ od dziewiątowiecznego świadectwa kultu.
-- [AARO: analiza przypadku Aguadilla](https://www.aaro.mil/Portals/136/PDFs/UAP_Case_Resolution_Reports/AARO_Puerto_Rico_Object_Report.pdf) i [odpowiedź SCU](https://www.explorescu.org/post/response-to-aaro-report-on-puerto-rico-uap-case) — oficjalna analiza oraz wskazane pytania do niezależnej rekonstrukcji.
+- [AARO: analiza przypadku Aguadilla](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf), [komunikat SCU](https://www.explorescu.org/post/scu-announcement-on-the-aaro-investigation-of-the-aguadilla-video) i [ponowna analiza Buettnera z 2026 r.](https://github.com/DrDougB/Presentations/blob/main/Buettner-Revisiting%20the%20Aguadilla%20Transmedium%20UAP.pdf) — konkurujące rekonstrukcje i poziomy pewności.
 - [AERA: raport 2023–24](https://aeraweb.org/wp-content/uploads/2024/12/AERA-Annual-Report-2023-24.pdf) — ślady wykute w podłożu wokół piramidy Chufu.
 - [Luwr: stela Meszy](https://collections.louvre.fr/ark:/53355/cl010120339) — datowanie i opis obiektu.
 - [Posen Library/Yale: inskrypcja z Kuntillet Ajrud](https://www.posenlibrary.com/entry/prayer-kuntillet-ajrud) i [przegląd interpretacji](https://doi.org/10.3390/rel10030211).
