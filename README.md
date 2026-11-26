@@ -70,3 +70,7 @@ Po rundzie 37: [dziennik badań](research-log/2026-11-26-round-37.md) oddziela d
 
 
 Po rundzie 38: [dziennik badań](research-log/2026-11-26-round-38.md) sprawdza znaki ekip w górnych komorach Chufu, późniejsze napisy na pokrywach drugiego dołu łodzi oraz zarzut fałszerstwa. Dowody mocno wspierają przypisanie piramidy Chufu; fałszerstwa nie wykazano.
+
+
+
+Po rundzie 39: [dziennik badań](research-log/2026-11-26-round-39.md) analizuje formułę *yhwꜣ* z Soleb. To możliwy wczesny trop dla historii imienia YHWH, ale nie jednoznaczne wymienienie boga Izraela ani dowód Exodus/południowego pochodzenia kultu.
