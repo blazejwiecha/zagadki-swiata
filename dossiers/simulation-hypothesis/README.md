@@ -72,3 +72,10 @@ Jednocześnie zdanie „żadna forma symulacji nie jest możliwa” wykraczałob
 - Edge, E. & Brown, C. A. (2026), “Commentary: Astrophysical constraints on the simulation hypothesis…”, *Frontiers in Physics* 14. https://doi.org/10.3389/fphy.2026.1808725
 - Prasad, D. & Bainbridge, W. A. (2022), “The Visual Mandela Effect as Evidence for Shared and Specific False Memories Across People”, *Psychological Science* 33(12), 1971–1988. https://doi.org/10.1177/09567976221108944
 - Handley-Miner & Metskas (2024), Transparent Replications, Report #8, replikacja Study 1: https://replications.clearerthinking.org/replication-2022psci33-12/
+
+
+### Aktualizacja — runda 21: ograniczenie fizyczne nie rozstrzyga ogólnego „Matrixa”
+
+Vazza (2025) szacuje koszty zasobów dla konkretnych wariantów symulacji (m.in. pełnego obserwowalnego Wszechświata i Ziemi w wybranej rozdzielczości), przy założeniu praw fizyki podobnych do naszych. Edge i Brown (2026) nie podważają w komentarzu wyliczeń liczbowych; argumentują, że nie obejmują one minimalnej wersji Bostroma, która wymaga przede wszystkim spójnego doświadczenia obserwatora i dopuszcza pomijanie nieobserwowanych szczegółów. Komentarz nie stanowi dowodu prawdziwości takiej wersji. Wniosek pozostaje: ograniczono określone modele, ale brak empirycznego wykrycia symulacji.
+
+Źródła: [Vazza 2025](https://doi.org/10.3389/fphy.2025.1561873); [Edge & Brown 2026](https://doi.org/10.3389/fphy.2026.1808725); [analiza rundy 21](../research-log/2026-11-26-round-21.md).
