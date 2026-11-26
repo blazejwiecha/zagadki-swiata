@@ -33,6 +33,14 @@ Stela Meszy z IX w. p.n.e. jest wczesnym, bezpośrednim pozabiblijnym świadectw
 
 Źródła: [Luwr, karta Steli Meszy](https://collections.louvre.fr/ark:/53355/cl010120339); [Fleming, *Yahweh Before Israel*](https://www.cambridge.org/core/books/yahweh-before-israel/9FE491AC13605A4550C2A60F64E953C8).
 
+### Runda 11: regionalne formy kultu YHWH
+
+Inskrypcje z Kuntillet Ajrud (późny IX–wczesny VIII w. p.n.e.) używają określeń „YHWH z Temanu” i „YHWH z Samarii”. W części błogosławieństw obok imienia YHWH występuje forma *ʾšrth*, tradycyjnie tłumaczona jako „jego aszera”. Nie ma zgody, czy oznacza ona boginię Aszerę, obiekt kultowy (np. słup/drzewo), czy inną kategorię; nie wolno przedstawiać jednej z tych interpretacji jako pewnika. Teksty i kontekst pokazują regionalne określenia oraz zróżnicowane praktyki, nie jedną bezsporną „doktrynę” wszystkich Izraelitów.
+
+Papirusy z Elefantyny dostarczają osobnego, późniejszego świadectwa: wspólnota wojskowa w Egipcie miała świątynię YHW, która została zniszczona w 410 r. p.n.e.; petycja z 407 r. p.n.e. prosi o jej odbudowę. To potwierdza historyczne istnienie lokalnej świątyni i jej instytucji, nie rozstrzyga teologii wspólnoty ani tego, jak jej praktyki odnosiły się do norm rozwijanych w Jerozolimie.
+
+Źródła: [Posen Library/Yale University Press, inskrypcja z Kuntillet Ajrud](https://www.posenlibrary.com/entry/prayer-kuntillet-ajrud); [Berlin-Brandenburgische Akademie der Wissenschaften, papirusy z Elefantyny — prośba o odbudowę świątyni YHW](https://elephantine.smb.museum/objects/object.php?o=308135); [papirus z memorandum o ofiarach](https://elephantine.smb.museum/objects/object.php?o=100735); [Hess 2025, analiza nazwy Aszerata/Aszera](https://doi.org/10.3390/rel16040397); [Frevel 2019, przegląd sporu o zapis z Kuntillet Ajrud](https://doi.org/10.3390/rel10030211).
+
 ## Granica naukowego werdyktu
 
 Nauki empiryczne wymagają obserwacji, przewidywań i możliwości, by dane przemawiały przeciw hipotezie. Jeśli twierdzenie o bogu nie wskazuje żadnego możliwego obserwacyjnego wyniku, nauka nie potrafi wydać rozstrzygnięcia „tak” ani „nie”. To nie jest dowód, że wszystkie odpowiedzi są równie dobre: konkretne twierdzenia historyczne i przyrodnicze mogą być wspierane, osłabiane lub obalane dowodami. Filozofia może analizować argumenty metafizyczne, ale ich ocena nie jest tym samym co empiryczna demonstracja.
