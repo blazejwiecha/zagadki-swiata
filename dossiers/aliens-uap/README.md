@@ -83,4 +83,12 @@ AARO w raporcie z 2025 r. ocenia z wysoką pewnością, że na nagraniu nie wida
 
 ## Status
 
+### Aktualizacja — runda 16: FY2025 i archiwum NARA
+
+AARO FY2025 (okres do 30 maja 2025) odnotowało 319 nowych raportów; 114 z nich rozstrzygnięto, a 256 starszych spraw także zamknięto — razem 370 rozstrzygnięć w okresie raportowym. Raport przypisuje rozstrzygnięte sprawy zwykłym obiektom, w tym 238 obserwacji flarom satelitarnym. 191 nowych raportów trafiło do aktywnego archiwum z powodu zbyt małej ilości danych, a 9 wskazano do dalszej analizy. To pokazuje jednocześnie, że część zgłoszeń da się wyjaśnić, a część nie — samo nierozstrzygnięcie nie przesądza pochodzenia.
+
+Warto rozdzielić trzy szczegóły raportu: (1) opis około 100 UAP powietrznych i dwóch prawdopodobnie bezzałogowych obiektów nawodnych przy wybrzeżu Wirginii to treść jednego raportu, który AARO nadal bada; (2) część narracyjnych relacji przy obiektach krytycznych brzmiała jak przekraczająca znane osiągi, ale nie towarzyszyły im dane techniczne; (3) 50 incydentów z dronami w pobliżu infrastruktury jądrowej nie zostało w raporcie sklasyfikowanych jako UAP. AARO stwierdza również, że nie ma dowodów na przejęcie lub wykorzystanie przez rząd bądź prywatne podmioty materiałów pochodzących z UAP.
+
+NARA udostępnia kolekcję Record Group 615, którą wypełnia partiami z zapisów federalnych. To nowa, użyteczna ścieżka badawcza: dokumenty należy oceniać po treści, proweniencji, dacie i kontekście, a nie po samym fakcie ich odtajnienia lub umieszczenia w kolekcji UAP.
+
 Wstępna ocena: nie ma jawnego dowodu potwierdzającego wizytę obcych na Ziemi. Istnienie życia poza Ziemią pozostaje pytaniem otwartym. Weryfikacja będzie kontynuowana poprzez badanie konkretnych nagrań, zeznań, dokumentacji i granic czułości poszukiwań.
