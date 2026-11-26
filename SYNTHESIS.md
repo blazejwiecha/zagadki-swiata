@@ -19,6 +19,10 @@
 - **Giza:** AERA udokumentowało 2 898 otworów po palach, gniazd dźwigni i kanałów kamieniołomów na trzech zbadanych stronach piramidy. To dodatkowy bezpośredni zapis egipskiego przygotowania placu i wydobywania kamienia, ale nie rozstrzyga podnoszenia bloków na wyższe poziomy.
 - **YHWH:** stela Meszy z IX w. p.n.e. jest bezpośrednim pozabiblijnym świadectwem kultu YHWH. Wcześniejszy egipski zapis Yhwꜣ jest niepewny jako imię bóstwa. Debata o „Domu Dawida” dotyczy innej, 31. linii steli i nie zmienia odczytu wzmianki o YHWH w linii 18.
 
+### Uzupełnienie z rundy 11
+
+Inskrypcje z Kuntillet Ajrud nazywają YHWH „z Temanu” i „z Samarii”, a niektóre łączą jego imię z *ʾšrth*. Czy chodzi o boginię czy obiekt kultowy — sporne. Papirusy z Elefantyny potwierdzają świątynię YHW w V w. p.n.e. i petycję o jej odbudowę po zniszczeniu. To wzmacnia historyczny obraz regionalnych i instytucjonalnych form kultu; nie pozwala przypisać wszystkim wspólnotom jednej, niezmiennej doktryny.
+
 ## Dlaczego AI ani większa liczba ludzi nie zamykają tych spraw
 
 1. **Analiza nie zastępuje obserwacji.** Raport NASA stwierdza, że badanie UAP ogranicza dziś głównie jakość danych, a nie brak technik analitycznych. Sensory często nie były projektowane do naukowego pomiaru UAP, brakuje kalibracji, metadanych i niezależnie dostępnych nagrań źródłowych. AI może sortować i modelować dane, ale nie odtworzy utraconego pliku ani nie odzyska niezmierzonej odległości.
@@ -42,6 +46,8 @@
 - [AARO: analiza przypadku Aguadilla](https://www.aaro.mil/Portals/136/PDFs/UAP_Case_Resolution_Reports/AARO_Puerto_Rico_Object_Report.pdf) i [odpowiedź SCU](https://www.explorescu.org/post/response-to-aaro-report-on-puerto-rico-uap-case) — oficjalna analiza oraz wskazane pytania do niezależnej rekonstrukcji.
 - [AERA: raport 2023–24](https://aeraweb.org/wp-content/uploads/2024/12/AERA-Annual-Report-2023-24.pdf) — ślady wykute w podłożu wokół piramidy Chufu.
 - [Luwr: stela Meszy](https://collections.louvre.fr/ark:/53355/cl010120339) — datowanie i opis obiektu.
+- [Posen Library/Yale: inskrypcja z Kuntillet Ajrud](https://www.posenlibrary.com/entry/prayer-kuntillet-ajrud) i [przegląd interpretacji](https://doi.org/10.3390/rel10030211).
+- [Muzeum Egipskie i Zbiór Papirusów w Berlinie: dokumenty świątyni YHW w Elefantynie](https://elephantine.smb.museum/objects/object.php?o=308135).
 - [Stanford Encyclopedia of Philosophy: Religion and Science](https://plato.stanford.edu/entries/religion-science/) oraz [Miracles](https://plato.stanford.edu/entries/miracles/) — zakres metod empirycznych i rozdzielenie zdarzenia od przypisanej mu nadprzyrodzonej przyczyny.
 
 ## Co mogłoby zmienić te wnioski
