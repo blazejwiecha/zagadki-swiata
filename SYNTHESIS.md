@@ -1,6 +1,6 @@
 # Syntetyczny stan dowodów
 
-**Stan na:** 2026-11-26, po rundzie 22.
+**Stan na:** 2026-11-26, po rundzie 25.
 **Zakres:** życie pozaziemskie/UAP, budowa piramid, religie i bogowie, hipoteza symulacji („Matrix”).  
 **Zasada:** poniżej rozdzielam brak potwierdzenia, potwierdzoną historię i pytania niedostępne dla obecnego testu. To nie jest dowód, że „przeszukano cały internet”.
 
@@ -160,3 +160,12 @@ Archeologia potwierdza aktywność rytualną i symboliczne praktyki społecznoś
 ## Aktualizacja z rundy 24 — liczbowy model hipotezy symulacji
 
 Tekst Tan (2026) podaje 43–71% prawdopodobieństwa symulacji w czterech scenariuszach. Parametry (m.in. odsetek przyszłych cywilizacji posthumanistycznych i ich zainteresowanie symulacjami) autor wybiera jako priory, a sam uznaje za spekulacyjne z powodu braku wiedzy o tych cywilizacjach. Dostępne dane/kod są na prośbę, a niezależnej replikacji nie znaleziono. Otrzymany procent jest wynikiem modelu przy wybranych założeniach, nie pomiarem świata ani rozstrzygającym bayesowskim dowodem; obecność zjawisk zgodnych z obliczeniową interpretacją nie rozróżnia jej sama w sobie od standardowych opisów fizycznych. Po włączeniu tej publikacji nadal brak empirycznego, niezależnie odtworzonego wykrycia symulacji.
+
+
+## Aktualizacja z rundy 25 — pomiary w piramidzie i zapowiedzi
+
+- **Chufu:** rozdzielono korytarz północny ScanPyramids (ok. 9 × 2 × 2 m) od Big Void nad Wielką Galerią (minimum 30 m). To różne lokalizacje i różne wyniki pomiarowe; znane wymiary nie mówią, jaka była funkcja pustek.
+- **Zapowiedź 30 m z drzwiami:** Zahi Hawass zapowiedział ujawnienie takiego przejścia w 2026 r. Źródło dokumentuje wypowiedź, nie pomiar. Do 26 listopada w sprawdzonych źródłach instytucjonalnych i naukowych nie znaleziono odrębnej publikacji potwierdzającej, że jest to nowy korytarz poza znanym Big Void. Nie utożsamiamy tych obiektów; dokładne odniesienie wypowiedzi pozostaje nieustalone.
+- **Wycofany SAR:** *Remote Sensing* formalnie wycofało artykuł z 2022 r. o domniemanych strukturach wykrytych SAR, wskazując poważne błędy metodologiczne i statystyczne. To zawiadomienie nie obejmuje wyników muonowych ScanPyramids i nie stwierdza fałszowania danych.
+- **Metoda budowy:** model IER z 2026 r. ma otwarte dane, symulacje i testowalne przewidywania, ale autor stwierdza brak bezpośrednich śladów archeologicznych i wymienia niepewne założenia. Jest wyliczeniem wykonalności, nie dowodem, że tak budowano Chufu.
+- **Matrix i teizm:** artykuł Donahuego porównuje teizm z czterema alternatywami w analizie bayesowskiej, ale wnioski zależą od założeń o priorach. Autor wyraźnie ogranicza zakres konkluzji. Nie wnosi nowej empirycznej detekcji Boga ani symulacji.
