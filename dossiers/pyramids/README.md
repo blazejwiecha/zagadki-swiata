@@ -115,3 +115,9 @@ Badania muonowe opisują dwa odrębne wyniki, których nie należy mieszać: Big
 Osobno, WAM zrelacjonowała 8.11.2025 wypowiedź Zahi Hawassa o nowym 30-metrowym korytarzu z zamkniętymi drzwiami i zapowiedzią ujawnienia w 2026 r. Do 26.11.2026 nie znaleziono oficjalnej publikacji pomiarów, lokalizacji ani niezależnego potwierdzenia tego odrębnego twierdzenia. Status: publiczna zapowiedź, nie opublikowany wynik. Nie utożsamiać jej ani z Big Void, ani z North Face Corridor.
 
 Źródła: [ScanPyramids Big Void (Nature, 2017)](https://doi.org/10.1038/nature24647); [North Face Corridor (Nature Communications, 2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9981702/); [fuzja GPR/UST/ERT (Scientific Reports, 2025)](https://www.nature.com/articles/s41598-025-91115-8); [zapowiedź WAM (2025)](https://www.wam.ae/en/article/bmm4hcn-new-discovery-inside-egypts-pyramid-khufu-revealed); [pełna analiza rundy 21](../research-log/2026-11-26-round-21.md).
+
+## Dziennik Merera: transport udokumentowany, technika podnoszenia nadal nie (runda 35)
+
+Papirusy z Wadi al-Jarf, wydane przez Pierre’a Talleta (IFAO 2017), dokumentują załogę Merera, załadunek kamienia w Tura Północ/Południe, rejsy do Akhet-Chufu i postoje na trasie. Wpisy są częściowo uszkodzone; przekład oznacza luki. Wydawca wprost stwierdza, że dziennik nie wymienia technik budowy: dotyczy misji załogi i transportu wapienia, prawdopodobnie m.in. na okładzinę. To mocny bezpośredni zapis egipskiej logistyki przy budowie kompleksu Chufu; nie identyfikuje rampy ani sposobu podnoszenia bloków. Dopasowanie rampy do znanej trasy dostaw nie jest samo w sobie potwierdzeniem użycia tej rampy.
+
+Szczegóły: [dziennik rundy 35](../../research-log/2026-11-26-round-35.md). Źródła A54–A55 w [rejestrze](../../sources/README.md).
