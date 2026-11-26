@@ -257,3 +257,11 @@ Szczegóły: [dziennik rundy 36](research-log/2026-11-26-round-36.md).
 Osada Heit el-Ghurab oraz ślady zaopatrzenia poświadczają zorganizowaną egipską infrastrukturę pracy. Jej najlepiej rozpoznana faza przypada na Chefrena i Menkaure; nie każdy pochówek można przypisać załodze Chufu. Próba 204 szkieletów z nekropolii Gizy wykazała 45 złamań w 2 287 kościach długich; większość zrosła się z dobrym ustawieniem. To nie mierzy wyłącznie budowniczych Wielkiej Piramidy ani nie dowodzi powszechnej opieki medycznej. Akademicki przegląd określa dowody na corvée w Starym Państwie jako skąpe i głównie pośrednie. Najściślejszy wniosek: państwowa organizacja i logistyka są mocno poświadczone, lecz prawny status i dobrowolność pracy wszystkich ludzi przy Chufu nie są ustalone. Ani „wszyscy niewolnicy”, ani „wszyscy ochotnicy” nie jest potwierdzone.
 
 Szczegóły: [dziennik rundy 37](research-log/2026-11-26-round-37.md).
+
+
+
+## Aktualizacja z rundy 38 — znaki Chufu i hipoteza fałszerstwa
+
+Znaki w górnych komorach piramidy dokumentuje ekspedycja Vyse’a/Perringa z 1837 r.; późniejsza monografia Roth analizuje nazwy ekip powiązane z imionami Chufu. Warunki wejścia ograniczają współczesną kontrolę kontekstu; nie ustaliłem nowoczesnego badania laboratoryjnego pigmentu. Wykopaliska przy drugim dole łodzi Chufu dostarczyły odrębnych znaków ekip i dostaw na kamieniach przykrywających dół. Całość z papirusami i kontekstem kompleksu mocno wspiera przypisanie piramidy Chufu. W sprawdzonych materiałach nie ma potwierdzonego dowodu fałszerstwa.
+
+Szczegóły: [dziennik rundy 38](research-log/2026-11-26-round-38.md).
