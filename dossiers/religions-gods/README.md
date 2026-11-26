@@ -41,6 +41,12 @@ Papirusy z Elefantyny dostarczają osobnego, późniejszego świadectwa: wspóln
 
 Źródła: [Posen Library/Yale University Press, inskrypcja z Kuntillet Ajrud](https://www.posenlibrary.com/entry/prayer-kuntillet-ajrud); [Berlin-Brandenburgische Akademie der Wissenschaften, papirusy z Elefantyny — prośba o odbudowę świątyni YHW](https://elephantine.smb.museum/objects/object.php?o=308135); [papirus z memorandum o ofiarach](https://elephantine.smb.museum/objects/object.php?o=100735); [Hess 2025, analiza nazwy Aszerata/Aszera](https://doi.org/10.3390/rel16040397); [Frevel 2019, przegląd sporu o zapis z Kuntillet Ajrud](https://doi.org/10.3390/rel10030211).
 
+### Runda 14: zmiana kultu w Tel ’Eton
+
+Artykuł Avrahama Fausta (2026) opisuje dużą stojącą stelę w Building 101 w Tel ’Eton. Jej wielkość, położenie i widoczność skłaniają autora do interpretacji, że pełniła funkcję kultową, prawdopodobnie jako *massebah*; to interpretacja archeologiczna, nie inskrypcja z imieniem bóstwa. Przed zniszczeniem osady pod koniec VIII w. p.n.e. kamień położono i obudowano platformą. Autor rozważa powiązanie z reformą Ezechiasza, ale sam zaznacza, że zbieżność chronologiczna nie wystarcza, by przypisać tę czynność konkretnie królowi lub dacie reformy. Ustalenie wspiera historię zróżnicowanego lokalnego kultu; nie identyfikuje czczonego bytu ani nie dowodzi jego nadprzyrodzonego istnienia.
+
+Źródło: [Faust 2026, *Hezekiah’s Reform? A View from Tel ‘Eton on the Religious Development in Judah*](https://doi.org/10.52486/01.00009.3); [pełny tekst](https://jjar.huji.ac.il/sites/default/files/jjar/files/jjar09_03_eton_faust.pdf).
+
 ## Granica naukowego werdyktu
 
 Nauki empiryczne wymagają obserwacji, przewidywań i możliwości, by dane przemawiały przeciw hipotezie. Jeśli twierdzenie o bogu nie wskazuje żadnego możliwego obserwacyjnego wyniku, nauka nie potrafi wydać rozstrzygnięcia „tak” ani „nie”. To nie jest dowód, że wszystkie odpowiedzi są równie dobre: konkretne twierdzenia historyczne i przyrodnicze mogą być wspierane, osłabiane lub obalane dowodami. Filozofia może analizować argumenty metafizyczne, ale ich ocena nie jest tym samym co empiryczna demonstracja.
@@ -71,6 +77,7 @@ Nauki empiryczne wymagają obserwacji, przewidywań i możliwości, by dane prze
 - Richelle, *Ancient Hebrew Inscriptions* (Cambridge Elements, 2026): https://doi.org/10.1017/9781009560245
 - Ware (2014), *The Resurrection of Jesus in the Pre-Pauline Formula of 1 Cor 15.3–5*: https://doi.org/10.1017/S0028688514000150
 - Stanford Encyclopedia of Philosophy, *Miracles* (argumenty i granice wnioskowania z relacji): https://plato.stanford.edu/entries/miracles/
+- Faust (2026), *Hezekiah’s Reform? A View from Tel ‘Eton on the Religious Development in Judah*, Jerusalem Journal of Archaeology 9:31–60: https://doi.org/10.52486/01.00009.3
 
 ## Status
 
