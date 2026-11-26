@@ -84,4 +84,17 @@ To szczegółowy model inżynieryjny, nie znalezisko archeologiczne. Autorzy zak
 
 Źródło: Choi & Dubray (2026), preprint v2, *Understanding the Construction of the Great Pyramid: Mastabas, Back-and-Forth Ramps and Finishing from the Top*: https://doi.org/10.20944/preprints202610.0852.v2
 
+### Aktualizacja — runda 18: wycofana praca radarowa a potwierdzony Big Void
+
+10 sierpnia 2026 r. czasopismo *Remote Sensing* wycofało artykuł Biondiego i Malangi z 2022 r. o rzekomej tomografii SAR wewnętrznych struktur piramidy. W oficjalnym zawiadomieniu redakcja podaje, że po zgłoszeniu czytelnika zbadała problemy metodologiczne i potwierdziła poważne wady metodologiczne oraz błędy statystyczne podważające wnioski naukowe. Autorzy zostali poinformowani i nie zgadzają się z decyzją. Zawiadomienie nie oskarża ich o fałszowanie danych ani misconduct; nie wylicza też szczegółowo błędów. Wnioski artykułu o sieci korytarzy i pomieszczeń nie powinny być przedstawiane jako ustalony wynik naukowy.
+
+Nie wolno zlewać tego z innym wynikiem: „Big Void” nad Wielką Galerią pozostaje osobnym odkryciem z pracy *Nature* z 2017 r. Zespół ScanPyramids wykrył pustkę muonami z trzech niezależnych technik: emulsji jądrowej, hodoskopów scyntylacyjnych i detektorów gazowych. Artykuł szacuje jej minimalną długość na 30 m, ale nie ustala przeznaczenia ani nie nazywa jej komnatą. Radarowy artykuł Biondiego–Malangi nie jest źródłem tego odkrycia.
+
+Nowy, bezpośredni zapis pracy archeologicznej daje projekt AERA/University of Chicago: skanowanie 3D mierzy miliony punktów na podłożu i dokumentuje gniazda dźwigni, wykute otwory, kanały kamieniołomowe i osadzenia płyt posadzki. Raport podaje, że badanie południowej strony uzupełniło wcześniejszy spis ponad 2 900 znaków i śladów; w 2025 r. zespół skanował pozostałe strony oraz doły łodzi. To fizyczne ślady przygotowania terenu i organizacji budowy, ale nie pełny zapis sposobu podnoszenia bloków.
+
+Źródła:
+- Oficjalne zawiadomienie o wycofaniu: https://doi.org/10.3390/rs18162679
+- Odkrycie muonowe Big Void (odrębna praca): https://doi.org/10.1038/nature24647
+- Raport AERA / University of Chicago 2024–2025: https://isac-assets.s3.amazonaws.com/isac-publications/24-25_Annual_Report.pdf
+
 Wstępna ocena: egipscy ludzie zbudowali piramidy przy użyciu zorganizowanej logistyki i technik dostępnych w epoce. Konkretna konfiguracja metod podnoszenia dla Wielkiej Piramidy nie jest do dziś rozstrzygnięta. To lokalna luka w szczegółach technicznych, nie brak wiedzy o tym, kto zbudował piramidy ani dowód udziału obcych.
