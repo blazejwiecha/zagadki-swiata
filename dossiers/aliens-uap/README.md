@@ -91,4 +91,12 @@ Warto rozdzielić trzy szczegóły raportu: (1) opis około 100 UAP powietrznych
 
 NARA udostępnia kolekcję Record Group 615, którą wypełnia partiami z zapisów federalnych. To nowa, użyteczna ścieżka badawcza: dokumenty należy oceniać po treści, proweniencji, dacie i kontekście, a nie po samym fakcie ich odtajnienia lub umieszczenia w kolekcji UAP.
 
+### Aktualizacja — runda 17: kontekst materiałów AARO z 2026 r.
+
+W oficjalnym katalogu AARO opublikowano m.in. pozycję DOW-UAP-PR117. Towarzyszący jej opis mówi, że 16-sekundowy materiał jest wtórnym nagraniem ekranu sensora podczerwieni wykonanym telefonem; przytacza też raportowe określenie „cold orbs” o średnicy około 4 stóp. Sam katalog zaznacza, że opisy nagrań nie są oceną analityczną ani ustaleniem natury obiektu. To ważny przykład łańcucha źródła: publikacja urzędowa potwierdza istnienie pliku i treść raportu, ale nagranie ekranu nie zastępuje natywnych danych sensora, a etykieta „orb” nie identyfikuje obiektu.
+
+Podobne braki kontekstu widać w części nowych rekordów: PR046–PR049 opisują nagrania z platform wojskowych, przy czym niektóre zgłoszenia nie zawierają żadnego ustnego ani pisemnego opisu obserwacji. Taki materiał można analizować geometrycznie, jeśli udostępniono wystarczające dane, lecz sama publikacja nie potwierdza nadzwyczajnych osiągów ani pozaziemskiego pochodzenia.
+
+Źródła: oficjalny katalog raportów i materiałów AARO: https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/poster/dividLink/ ; AARO, „FBI-UAP-PR007, Slow-moving Objects” (opis archiwalnej kategorii nierozstrzygniętych spraw): https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Presidential-UAP-Transparency-Initiative/videoid/1017801/dvpcc/false/
+
 Wstępna ocena: nie ma jawnego dowodu potwierdzającego wizytę obcych na Ziemi. Istnienie życia poza Ziemią pozostaje pytaniem otwartym. Weryfikacja będzie kontynuowana poprzez badanie konkretnych nagrań, zeznań, dokumentacji i granic czułości poszukiwań.
