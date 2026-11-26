@@ -41,6 +41,14 @@ To wąski wynik zerowy, a nie test całej hipotezy: przy progu ≥32 EeV został
 
 Źródło i plik wynikowy: https://harperz9.github.io/findings/F344-auger-cubic-null.html ; https://harperz9.github.io/findings/results/F344/result.json
 
+### Runda 17: formalne pojęcie symulowania wszechświata
+
+Wolpert (2025) przedstawił w *Journal of Physics: Complexity* matematyczne ramy, w których systemy-universa opisuje się jako komputery i formalizuje, co znaczy, że jeden symuluje drugi. Wyniki zależą od przyjętych definicji i założeń; w tym ujęciu możliwa jest wzajemna symulacja dwóch światów oraz nieskończony łańcuch symulacji. Praca porządkuje pojęcia i podważa kilka intuicyjnych argumentów o hierarchii symulatorów.
+
+Autor nie podaje eksperymentalnego testu ani nowej obserwacyjnej predykcji. To postęp formalny w filozofii fizyki/informatyce, nie dowód, że nasz świat jest symulacją ani sposób rozstrzygnięcia pytania obserwacjami.
+
+Źródło: Wolpert (2025), *What computer science has to say about the simulation hypothesis*: https://doi.org/10.1088/2632-072X/ae1e50; omówienie instytucji autora: https://www.santafe.edu/news-center/news/new-mathematical-framework-reshapes-debate-over-simulation-hypothesis
+
 Jednocześnie zdanie „żadna forma symulacji nie jest możliwa” wykraczałoby poza dane. Klasyczny argument Bostroma nie rozstrzyga sprawy, a ograniczenie zasobów Vuzzy dotyczy zdefiniowanej klasy pełnych symulacji i założeń o fizyce symulatora. Modele bez odróżnialnych przewidywań są empirycznie nierozstrzygalne na podstawie obecnych obserwacji. To jest dokładny status wiedzy, nie sugestia za ani przeciw.
 
 ### Co zmieniłoby status dowodowy
