@@ -118,3 +118,14 @@ DOW-UAP-D101 to meldunek IIR z relacją załogi z nocnego ćwiczenia 8.09.2021, 
 PR117–PR122 to nagrania telefonem obrazu wyświetlacza IR, nie natywne strumienie EO/IR. AARO ostrzega, że wtórne nagranie obniża jakość i że opis klipów nie jest wnioskiem analitycznym. PR121 i PR122 znacznie pokrywają się treścią; nie należy liczyć sześciu plików jako sześciu niezależnych przypadków. Wniosek pozostaje: obserwacja zgłoszona, identyfikacja i parametry ruchu niezweryfikowane z publicznych danych; brak potwierdzenia pochodzenia pozaziemskiego.
 
 Szczegóły: [dziennik rundy 40](../../research-log/2026-11-26-round-40.md). Źródła A61–A63 w [rejestrze](../../sources/README.md).
+
+
+## Enceladus — zamieszkiwalność nie jest detekcją życia (runda 41)
+
+Cassini wykazała globalny ocean pod lodem i pobrała materiał pióropusza oraz pierścienia E. Sygnatury fosforanów sodu w ziarnach, związki organiczne oraz H₂/CH₄ wspierają wniosek o chemii interesującej dla astrobiologii. Wysoka dostępność fosforanów w oceanie jest wywnioskowana z widm, eksperymentów analogowych i modelowania geochemicznego. Analiza INMS HCN i kilku węglowodorów jest nową reanalizą danych Cassini; rozróżnianie składników śladowych pozostaje trudne. Cassini nie była wyposażona do rozstrzygającej identyfikacji wszystkich struktur organicznych i ich pochodzenia.
+
+Najnowszy eksperyment laboratoryjny (2026) pokazał wzrost ziemskiego archeona *Methanothermococcus okinawensis* w symulancie wybranych warunków oceanu Enceladusa przy pH 9–11, z wodorem wytworzonym abiotycznie. To dowód laboratoryjnej wykonalności konkretnego ziemskiego metabolizmu w konkretnym symulancie, a nie próbka biologiczna z księżyca. Eksperymenty organiczne z 2026 r. wykazały też abiotyczne tworzenie prostych aminokwasów w symulowanych warunkach, więc sam aminokwas nie stanowi jednoznacznej biosygnatury.
+
+Analiza bayesowska metanogenezy i późniejsze modele biomasy zależą od założeń o prawdopodobieństwie abiogenezy, udziale abiotycznego metanu i nieznanych ograniczeniach ekosystemu. Nie mierzą organizmów. **Stan dowodów: Enceladus jest potencjalnie zamieszkiwalny; nie wykryto na nim życia.**
+
+Szczegóły: [dziennik rundy 41](../../research-log/2026-11-26-round-41.md). Źródła A64–A70 w [rejestrze](../../sources/README.md).
