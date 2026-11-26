@@ -143,3 +143,10 @@ Napisy z górnych komór po raz pierwszy udokumentowała ekspedycja Vyse’a/Per
 Odrębne napisy na kamieniach przykrywających drugi dół łodzi w kompleksie Chufu, badane przez współczesną misję japońsko-egipską, wskazują na transport i ekipy z imionami Chufu/Dżedefre. Wzmacniają szerszy kontekst, lecz nie uwierzytelniają automatycznie każdego znaku z komór Vyse’a.
 
 Pełny audyt: [dziennik rundy 38](../../research-log/2026-11-26-round-38.md). Źródła P21–P24 w [rejestrze](../../sources/README.md).
+
+
+## Ultrasonografia granitu w Komorze Króla (runda 45)
+
+Badanie ScanPyramids z 2022 r., opublikowane w *Scientific Reports* w czerwcu 2026 r., obejmowało dolne dwa rzędy bloków na czterech ścianach Komory Króla. Zespół sporządził model 3D z 45 dostępnych bloków. W bloku NW9 zarejestrowano reflektor na głębokości około 2 m. Autorzy interpretują go jako prawdopodobną granicę lub nieregularną strukturę wewnętrzną, ale nie wykluczają wielokrotnych odbić i rozpraszania. Nie wykazano pustej przestrzeni ani nowego pomieszczenia. To odrębne, lokalne badanie ultradźwiękowe, niezwiązane z muonowym Big Void ani Korytarzem Północnej Ściany.
+
+Szczegóły: [dziennik rundy 45](../../research-log/2026-11-26-round-45.md). Źródło P25 w [rejestrze](../../sources/README.md).
