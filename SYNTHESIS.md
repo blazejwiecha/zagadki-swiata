@@ -207,3 +207,10 @@ Szczegóły: [dziennik rundy 29](research-log/2026-11-26-round-29.md).
 Recenzowany model IER z 2026 r. udostępnia kod, parametry, dane i wyniki symulacji. W jego założeniach równoległe rampy mogą zmieścić logistykę w szacowanym horyzoncie; artykuł jawnie przyznaje brak bezpośrednich śladów rampy i podaje testowalne przewidywania. To jakościowy postęp w sprawdzalności hipotez, nie dowód, że IER rzeczywiście zastosowano. Popularne „blok co trzy minuty” zależy od czasu pracy i od tego, czy liczymy tory pojedynczo czy równoległy plac budowy. Model sam przyjmuje 10-godzinne dni, sześć dni w tygodniu oraz 4-minutowe odstępy na aktywną rampę, a nie pojedynczy tor przez cały projekt.
 
 Szczegóły: [dziennik rundy 30](research-log/2026-11-26-round-30.md).
+
+
+## Aktualizacja z rundy 31 — Mars: potencjalna biosygnatura bez wykrycia życia
+
+Perseverance wykrył w formacji Bright Angel materię organiczną, minerały żelaza i siarki oraz fronty reakcji zgodne z biologicznym metabolizmem redoks. Recenzowany artykuł z 2025 r. kwalifikuje to jako potencjalną biosygnaturę, nie wynik rozstrzygający; autorzy pozostawiają scenariusze abiotyczne i wskazują na potrzebę analiz próbki w laboratorium ziemskim. Recenzowana praca z 2026 r. potwierdza setki detekcji makromolekularnego węgla organicznego w dwóch mułowcach, ale wyraźnie stwierdza, że pomiar Ramanowski na miejscu nie rozpoznaje pochodzenia biotycznego/abiotycznego. **Organiczny węgiel wykryto; życia nie potwierdzono.** Ankieta astrobiologów z 2026 r. pokazuje większą ocenę wiarygodności przypadku marsjańskiego niż K2-18 b, ale jest pomiarem opinii, a nie dowodem.
+
+Szczegóły: [dziennik rundy 31](research-log/2026-11-26-round-31.md).
