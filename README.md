@@ -93,3 +93,5 @@ Po rundzie 44: [dziennik badań](research-log/2026-11-26-round-44.md) ponownie o
 
 
 Po rundzie 45: [dziennik badań](research-log/2026-11-26-round-45.md) omawia nowe obrazowanie ultradźwiękowe w Komorze Króla. Zarejestrowano reflektor wewnątrz bloku NW9, lecz publikacja nie identyfikuje go jako pustej komory ani korytarza.
+
+Po rundzie 46: [dziennik badań](research-log/2026-11-26-round-46.md) audytuje twierdzenia Khafre Project o strukturach pod piramidą Chefrena. Abstrakt projektu opisuje szyby i komory, ale nie przedstawia niezależnej walidacji; powiązany artykuł SAR o Chufu został wycofany z powodów metodologicznych, a niezależne dane muonowe z Chefrena były jeszcze analizowane.
