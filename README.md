@@ -49,3 +49,7 @@ Po rundzie 31: [dziennik badań](research-log/2026-11-26-round-31.md) aktualizuj
 
 
 Po rundzie 32: [dziennik badań](research-log/2026-11-26-round-32.md) dokumentuje nowe granice badań SETI: pilotaż ATA w Antysolarnym Punkcie, pierwszy przegląd ALMA przy 90 GHz oraz propozycję szukania szerokopasmowego wycieku technologicznego. Żaden nie wykrył technosygnatury; każdy testuje wąski zakres.
+
+
+
+Po rundzie 33: [dziennik badań](research-log/2026-11-26-round-33.md) zestawia pozabiblijne świadectwo YHWH na steli Meszy z debatą o *ʾšrth* z Kuntillet Ajrud i Khirbet el-Qom. Ustala, co źródła mówią o praktyce religijnej; nie podaje spornego przekładu „Aszera, żona Jahwe” jako faktu.
