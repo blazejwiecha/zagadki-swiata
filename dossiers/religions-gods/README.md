@@ -91,4 +91,12 @@ Niezależny nowy trop z Lachish: recenzowany artykuł o inskrypcji na fragmencie
 
 Źródła: Al-Jallad & Sidky (2026), *Late Antique Allāh*: https://doi.org/10.1111/aae.70019; Al-Jallad (2025), *Ancient Allah*: https://doi.org/10.1093/jss/fgaf012; Vainstub et al. (2026), Lachish: https://doi.org/10.52486/01.00009.2
 
+### Aktualizacja — runda 17: zasięg kultu al-Lāt w inskrypcjach
+
+Taşdüvenci (2026) przeanalizował opublikowane inskrypcje safajskie, dadanickie i hismaickie oraz materiał z południowej Arabii. Artykuł podaje, że al-Lāt jest znacznie częściej poświadczana w południowej Jordanii i Syrii oraz w inskrypcjach z Jemenu; w korpusie dadanickim z al-ʿUlā wskazuje jedno wystąpienie, którego odczyt jest sporny. Autor wysuwa ostrożną tezę, że na wczesnym etapie kult nie był szeroko poświadczony w Hejazie, a jego wejście w okolice Mekki i Medyny mogło wiązać się z kontaktami nabatejskimi.
+
+To synteza ograniczonego i nierównomiernego korpusu, a nie dowód nieobecności wierzeń w regionie: sam autor zaznacza, że pojedynczy odczyt jest dyskusyjny oraz że potrzebne są dalsze badania terenowe i wykopaliska. Ustalenia pomagają badać geografię historycznego kultu; nie dotyczą metafizycznego istnienia bogini.
+
+Źródło: Taşdüvenci (2026), *The Goddess al-Lāt in Ancient North Arabian Epigraphy*, EKEV Akademi Dergisi, publikacja online: https://doi.org/10.17753/sosekev.1861470
+
 Wstępna ocena: można badać pochodzenie, przemiany i historyczne składniki religii; można testować konkretne twierdzenia o zdarzeniach. Nie ma naukowego, uniwersalnego dowodu, który potwierdza albo wyklucza każdego możliwego boga. Aby zrobić postęp, trzeba zawężać twierdzenie do konkretnej religii, postaci, tekstu, wydarzenia lub mierzalnej obietnicy.
