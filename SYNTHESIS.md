@@ -40,3 +40,10 @@ To osłabia hipotezę, że **komety krótkookresowe były głównym źródłem s
 W Andromedzie zarejestrowano AT 2025abao: stopniowe pojaśnienie od 2018 r., a następnie erupcję w 2025 r. Wieloletnia fotometria i widma najlepiej pasują do modelu, w którym towarzysz o masie około 0,7 M☉ spiralnie zbliżał się we wspólnej otoczce gwiazdy AGB o masie około 7 M☉. Tarcie orbitalne rozpraszało energię; końcowa faza doprowadziła do erupcji i wyrzutu części otoczki.
 
 To mocny, rzadki przykład procesu wspólnej otoczki ważnego dla powstawania zwartych układów podwójnych. Wnętrza gwiazd nie zobrazowano bezpośrednio, a masy i szczegóły spirali są wnioskowane z danych przy użyciu modeli. Jeden obiekt nie określa częstości ani pełnej różnorodności takich zdarzeń. [Dziennik rundy 73](research-log/2026-11-27-round-73.md).
+
+
+## Aktualizacja — SN 2024vjm i słabe supernowe typu Iax
+
+Głęboki przedwybuchowy obraz Euclida pokazuje, że układ progenitora SN 2024vjm był słabszy niż wcześniejsze kandydatury progenitorów Iax. Zestawienie z widmami i danymi po wybuchu mocno wspiera wybuch białego karła, a przemawia przeciw pochodzeniu z masywnej gwiazdy. Nie wykryto jednak składników układu ani nie ustalono, czy dawcą masy była gwiazda helowa/podkarzeł czy drugi biały karzeł.
+
+SN 2024vjm słabnie wolniej od jaśniejszych Iax. Autorzy wiążą to z wolnymi, gęstymi ejecta, które dłużej przechwytują energię rozpadu niklu. Jest to wyjaśnienie oparte na widmach i modelowaniu, nie prosty bezpośredni pomiar wewnętrznego przepływu energii. Wynik podkreśla, że podklasa Iax może obejmować różne układy progenitorów i nietypowe krzywe blasku. [Dziennik rundy 74](research-log/2026-11-27-round-74.md).
