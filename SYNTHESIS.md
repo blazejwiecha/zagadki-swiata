@@ -358,3 +358,8 @@ W świątyni EB I 4050 znaleziono rytowane przedstawienia z włóczniami oraz wy
 ## Aktualizacja z rundy 53 — szerokopasmowe radio i granice SETI
 
 Nowy preprint Crofta analizuje 2–4 GHz w wieloepokowych danych VLASS dla 210 191 pobliskich gwiazd. Autor nie znajduje wiarygodnego kandydata technosygnatury: trafienia są zgodne z tłem, a prawie wszystkie mocne skojarzenia pozycyjne wskazują na naturalne źródła radiowe. Dla stałych, bardzo jasnych nadajników praca wylicza niskie górne granice ich częstości w określonych próbach. Granice zależą od progów kwalifikacji i nie obejmują wszystkich sygnałów; krótkie migawki, RFI, emisja gwiazdowa i słaba czułość na wąskie linie są istotne. VLASS uzupełnia celowane wyszukiwania narrowband, lecz ich nie zastępuje. To preprint zgłoszony do recenzji, nie odkrycie ani wykluczenie życia pozaziemskiego. Szczegóły: [runda 53](research-log/2026-11-27-round-53.md).
+
+
+## Aktualizacja z rundy 54 — model ramp IER w piramidzie Chefrena
+
+Recenzowana praca z listopada 2026 r. przenosi sprawdzanie modelu ramp zintegrowanych z krawędziami (IER) na inną piramidę w Gizie. Symulacja wskazuje wykonalność logistyczną, a obliczone wysokości skrętów zbliżają się do kilku przybliżonych cech zewnętrznych, w tym wcięcia narożnego. Autor sam zastrzega, że zbieżność nie dowodzi historycznej przyczynowości; brakuje metrycznego pomiaru warstw Chefrena i testu statystycznego tej zgodności. To nowe, sprawdzalne cele dla niezależnych pomiarów TLS/SfM, nie rozstrzygnięcie sposobu budowy. Szczegóły: [runda 54](research-log/2026-11-27-round-54.md).
