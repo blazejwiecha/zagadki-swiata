@@ -6,4 +6,4 @@ W podwójnym układzie kwazarów J1549+1245 przy z = 2,37 autorzy wykryli widmow
 
 To istotny obserwacyjny przykład ogrzewania otoczenia przez aktywne jądra. Całkowita energia zależy od modelu gazu, a porównanie z symulowanym halo i wniosek o zatrzymywaniu formowania gwiazd nie są bezpośrednim pomiarem typowego zachowania wszystkich kwazarów. [Dziennik rundy 69](../../research-log/2026-11-27-round-69.md).
 
-**Źródła:** [artykuł A&A? / Nature Astronomy, arXiv:2611.23487](https://arxiv.org/abs/2611.23487) · [DOI](https://doi.org/10.1038/s41550-026-03025-y)
+**Źródła:** [artykuł Nature Astronomy, arXiv:2611.23487](https://arxiv.org/abs/2611.23487) · [DOI](https://doi.org/10.1038/s41550-026-03025-y)
