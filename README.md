@@ -108,3 +108,6 @@ Po rundzie 50: [dziennik badań](research-log/2026-11-27-round-50.md) analizuje 
 
 
 Po rundzie 51: [dziennik badań](research-log/2026-11-27-round-51.md) analizuje recenzowaną inskrypcję z późnobrązowego Lachisz: imię z elementem Baala i wczesne poświadczenie rdzenia, który bywał uznawany za późny arameizm. Wniosek osłabia jeden wskaźnik późnego datowania językowego, ale nie datuje samodzielnie tekstów biblijnych.
+
+
+Po rundzie 52: [dziennik badań](research-log/2026-11-27-round-52.md) ocenia hipotezę pełnowymiarowego posągu boga-wojownika w świątyni EB I w Megiddo. Grot miedziany i ryty są realnymi znaleziskami; ich połączenie w rekonstrukcję kultowego posągu pozostaje interpretacją.
