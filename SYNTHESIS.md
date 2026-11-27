@@ -47,3 +47,9 @@ To mocny, rzadki przykład procesu wspólnej otoczki ważnego dla powstawania zw
 Głęboki przedwybuchowy obraz Euclida pokazuje, że układ progenitora SN 2024vjm był słabszy niż wcześniejsze kandydatury progenitorów Iax. Zestawienie z widmami i danymi po wybuchu mocno wspiera wybuch białego karła, a przemawia przeciw pochodzeniu z masywnej gwiazdy. Nie wykryto jednak składników układu ani nie ustalono, czy dawcą masy była gwiazda helowa/podkarzeł czy drugi biały karzeł.
 
 SN 2024vjm słabnie wolniej od jaśniejszych Iax. Autorzy wiążą to z wolnymi, gęstymi ejecta, które dłużej przechwytują energię rozpadu niklu. Jest to wyjaśnienie oparte na widmach i modelowaniu, nie prosty bezpośredni pomiar wewnętrznego przepływu energii. Wynik podkreśla, że podklasa Iax może obejmować różne układy progenitorów i nietypowe krzywe blasku. [Dziennik rundy 74](research-log/2026-11-27-round-74.md).
+
+## Aktualizacja z rundy 75 — niższe centralne gęstości ciemnej materii
+
+W 136 pobliskich galaktykach rozkład masy wywnioskowany z ruchów gwiazd i gazu ma niższe medianowe centralne gęstości/udziały ciemnej materii niż kilka porównywanych symulacji hydrodynamicznych. Napięcie obejmuje coraz większe promienie dla masywniejszych galaktyk i utrzymuje się w testach na mockach oraz porównaniach próbek dopasowanych masą i rozmiarem.
+
+To pomiar dynamiki interpretowany przez modele, nie bezpośrednia detekcja cząstek. Wynik sam w sobie nie obala ΛCDM; pozostawia otwarte, czy ważniejsze są sprzężenie zwrotne, modelowanie populacji gwiazd i halo czy własności ciemnej materii. [Dziennik rundy 75](research-log/2026-11-27-round-75.md).
