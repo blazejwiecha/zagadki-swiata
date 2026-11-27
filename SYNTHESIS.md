@@ -368,3 +368,8 @@ Recenzowana praca z listopada 2026 r. przenosi sprawdzanie modelu ramp zintegrow
 ## Aktualizacja z rundy 55 — Buto: radar wskazuje, wykop potwierdza
 
 Recenzowane badanie połączyło scenę Sentinel-1 z 2018 r., ERT, odwierty i wykop w Buto. W wykopanym fragmencie potwierdzono ściany z cegły mułowej oraz przedmioty kultowe; niewykluczona jest funkcja świątynna z okresu saickiego, ale autorzy nie rozstrzygają, czy to świątynia, zaplecze kapłańskie czy budowla o funkcji grobowej. Nagłówek „odkrycie z kosmosu” zawyża rolę radaru: wskazał anomalię do dalszych badań, a szczegóły pochodzą głównie z ERT i wykopalisk. Nie wykazano satelitarnego obrazowania murów na kilku metrach głębokości ani istnienia drugiej świątyni. Szczegóły: [runda 55](research-log/2026-11-27-round-55.md).
+
+
+## Aktualizacja z rundy 56 — rzemiosło kultowe w Kom Ombo
+
+Recenzowane badanie GC–MS siedmiu mumii krokodyli wykazało różne mieszanki wosku pszczelego i produktów sosnowych oraz cedrowych. Wraz z wcześniejszymi analizami wyniki wspierają hipotezę, że w Kom Ombo przez kilka stuleci stosowano lokalny przepis balsamowania. To świadectwo trwałej praktyki materialnej związanej z kultem Sobka; skład balsamu nie identyfikuje dokładnej funkcji każdej mumii ani przekonań konkretnych ludzi. Uogólnienie ogranicza mała próba i zależność od datowania oraz proweniencji muzealnych zabytków. Szczegóły: [runda 56](research-log/2026-11-27-round-56.md).
