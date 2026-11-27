@@ -129,3 +129,6 @@ Nowe dossier [Ewolucja człowieka](dossiers/human-evolution/README.md) zbiera ws
 
 Po rundzie 57: [dziennik badań](research-log/2026-11-27-round-57.md) omawia model jonosferycznego odcięcia jako nowy, testowalny filtr dla szerokopasmowego SETI. To teoretyczna propozycja wymagająca tysięcy godzin obserwacji niskich częstotliwości, nie wykryta technosygnatura.
 
+
+
+Po rundzie 59: [dziennik badań](research-log/2026-11-27-round-59.md) omawia datowanie Taung Child. Nowy pomiar flowstone wspiera wiek co najmniej około 2,96 mln lat; wąski przedział 2,96–3,03 mln lat łączy dolną granicę izotopową z górną granicą paleomagnetyczną i nie jest bezpośrednim datowaniem czaszki.
