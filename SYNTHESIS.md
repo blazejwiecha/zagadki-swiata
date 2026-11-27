@@ -801,3 +801,8 @@ Model Modirrousta-Galiana i Korenagi wskazuje, że po największym zderzeniu ska
 ## M87*: niezależna rekonstrukcja pierścienia (runda 63)
 
 Nowa, recenzowana metoda GenDIReCT analizuje te same archiwalne pomiary EHT z lat 2017, 2018 i 2021, używając niezmienników interferometrycznych niewrażliwych na część błędów kalibracji. Odzyskuje zwartą morfologię pierścieniową o średnicy około 42 mikrosekund łuku. Jest to niezależne potwierdzenie metodologiczne, a nie nowa obserwacja. Algorytm generatywny nadal wnosi założenia; autorzy testowali wrażliwość na zestaw treningowy i opisują różnice w drobnych cechach. Pierścień to zniekształcona grawitacyjnie emisja materii wokół czarnej dziury, nie obraz powierzchni horyzontu. Szczegóły: [runda 63](research-log/2026-11-27-round-63.md).
+
+
+## Asymetria CP w rozpadach mezonów Bs (runda 64)
+
+LHCb podało pierwszy pomiar czasowo zintegrowanej, nieoznaczonej asymetrii CP w rozpadach \(B_s^0 \to D_s^-\pi^+\), z danych o jasności 5,4 fb⁻¹ zebranych w latach 2016–2018. Wynik \((-1{,}4 \pm 5{,}9\,\mathrm{(stat)} \pm 1{,}1\,\mathrm{(syst)})\times10^{-3}\) jest zgodny z Modelem Standardowym. To twardy pomiar i ograniczenie dla jednego kanału, ale nie dowód nowej fizyki ani wyjaśnienie kosmicznej przewagi materii. Szczegóły: [runda 64](research-log/2026-11-27-round-64.md).
