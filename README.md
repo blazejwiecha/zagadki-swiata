@@ -277,3 +277,6 @@ Po rundzie 60: [dziennik badań](research-log/2026-11-27-round-60.md) dokumentuj
 
 
 Po rundzie 61: [dziennik badań](research-log/2026-11-27-round-61.md) zestawia detekcję helu w jednym tranzycie LHS 1140 b z 2024 r. i niedetekcje czterech innych tranzytów JWST. Zmienność wypływu pozostaje realną możliwością, ale żadna z obserwacji nie rozstrzyga o wodzie ani życiu.
+
+
+Po rundzie 62: [dziennik badań](research-log/2026-11-27-round-62.md) omawia model, według którego wielkie zderzenia po rozproszeniu dysku mogą pomagać skalistym planetom zachować pierwotne atmosfery wodorowe: w analizowanym bilansie wzrost grawitacyjnego związania przeważa nad ogrzaniem płaszcza. To mechanizm teoretyczny i możliwe wyjaśnienie podziału superziem i subneptunów, nie bezpośrednia obserwacja historii konkretnej planety.
