@@ -61,3 +61,7 @@ GPM J071507−114153 emituje impulsy co około 7,9 minuty; timing i widma wskazu
 ## Aktualizacja z rundy 77 — ramię Normy a poprzeczka Drogi Mlecznej
 
 Nowa symulacja hydrodynamiczna odtwarza pozycje maserów przypisywanych ramieniu Normy jako ślad frontu uderzeniowego gazu w poprzeczce. Dopasowanie sugeruje długą, wolno obracającą się poprzeczkę i formowanie gwiazd w jej pasie pyłowym. To wynik interpretacji symulacyjnej; zależy od dopasowania i nie rozstrzyga jeszcze sporu o spiralną strukturę Galaktyki. [Dziennik rundy 77](research-log/2026-11-27-round-77.md).
+
+## Aktualizacja z rundy 78 — zintegrowana pamięć fotoniczna
+
+Pamięć w kryształowej wnęce falowodowej osiągnęła 90,2(4)% wydajności zapisu i odczytu dla słabych impulsów na poziomie pojedynczych fotonów oraz 99,3(1)% wierności time-bin. To ważny komponent laboratoryjny, ale nie działający repeater: czas przechowywania, skalowanie i integracja całej sieci nadal wymagają osobnych demonstracji. [Dziennik rundy 78](research-log/2026-11-27-round-78.md).
