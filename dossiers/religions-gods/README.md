@@ -146,3 +146,10 @@ Szczegóły: [dziennik rundy 39](../../research-log/2026-11-26-round-39.md). Źr
 W 2026 r. Vainstub i współautorzy opublikowali recenzowaną analizę sześciu częściowo zachowanych liter na skorupie z poziomu Lachisz zniszczonego w połowie XII w. p.n.e. Autorzy odczytują osobiste imię z elementem Baala i rdzeniem *šlṭ*. Jeśli odczyt się utrzyma, rdzeń był obecny w zachodniosemickim/kananejskim materiale znacznie wcześniej, niż sugerował pogląd, że jego hebrajski użytek był wyłącznie późnym arameizmem. To osłabia rdzeń *šlṭ* jako samodzielny argument za późnym datowaniem fragmentu, nie rozstrzyga jednak daty Księgi Rodzaju, Psalmu 119 ani innych tekstów. Napis jest fragmentaryczny i prawdopodobnie stanowi imię właściciela naczynia, a nie tekst rytualny.
 
 Szczegóły: [dziennik rundy 51](../../research-log/2026-11-27-round-51.md). Źródło R38 w [rejestrze](../../sources/README.md).
+
+
+### Aktualizacja — runda 52: możliwy posąg boga-wojownika w Megiddo
+
+Garfinkel proponuje, że rytowane postacie z włóczniami na posadzce świątyni EB I 4050 oraz wyjątkowy grot miedziany znaleziony w jej dziedzińcu wskazują na pełnowymiarowy posąg bóstwa-wojownika, zapewne z materiałów organicznych. Pewne są znaleziska i ich kontekst; identyfikacja postaci jako boga, znaku jako pioruna i powiązanie grotu z posągiem pozostają rekonstrukcją. Inni badacze interpretowali postacie jako ludzi/władców lub możliwie postać żeńską. Artykuł sam nie uznaje dyskusji za zamkniętą.
+
+Szczegóły: [dziennik rundy 52](../../research-log/2026-11-27-round-52.md). Źródło R39 w [rejestrze](../../sources/README.md).
