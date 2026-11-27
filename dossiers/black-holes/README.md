@@ -1,11 +1,9 @@
 [object Object]
 
-## Dún Aonghasa: czarna dziura już 630 mln lat po Wielkim Wybuchu (runda 68)
+## Sprzężenie zwrotne kwazarów: gorący gaz wokół J1549+1245 (runda 69)
 
-Kwazar J1504+6252, wybrany w danych Euclid i potwierdzony obserwacjami Kecka, HST, LBT i JWST, ma spektroskopowe przesunięcie ku czerwieni z = 8,129 ± 0,005. Widzimy go z epoki, gdy Wszechświat miał około 630 mln lat. Jest to pierwszy potwierdzony kwazar przy z > 8.
+W podwójnym układzie kwazarów J1549+1245 przy z = 2,37 autorzy wykryli widmową sygnaturę termicznego efektu Sunyaeva–Zeldowicza. Dopasowanie widma daje istotność 6–6,7σ, zależnie od modelu pyłu. Z amplitudy ciśnienia elektronów wyliczono energię termiczną około (9,7 ± 1,6) × 10⁶⁰ erg. Dodatkowy, rozległy ujemny sygnał w danych ALMA/ACA jest zgodny z gorącym gazem; dla największej skali ma jednak 2,9σ i autorzy zalecają ostrożność.
 
-Szerokości linii Hβ i Mg II dają oszacowanie masy czarnej dziury rzędu kilkuset milionów mas Słońca: wartość referencyjna wynosi 10^8,56 M☉, z niepewnością ±0,43 dex; zastosowane kalibracje dają wartości centralne 10^8,33–10^8,89 M☉. Szacowany stosunek Eddingtona wynosi 0,12–0,44. Masa nie jest bezpośrednim pomiarem dynamicznym, a obecne tempo nie mówi, jak szybko obiekt rósł wcześniej.
+To istotny obserwacyjny przykład ogrzewania otoczenia przez aktywne jądra. Całkowita energia zależy od modelu gazu, a porównanie z symulowanym halo i wniosek o zatrzymywaniu formowania gwiazd nie są bezpośrednim pomiarem typowego zachowania wszystkich kwazarów. [Dziennik rundy 69](../../research-log/2026-11-27-round-69.md).
 
-Odkrycie dostarcza nowego ograniczenia dla modeli zalążków i wzrostu wczesnych czarnych dziur. Nie wybiera samo między masywnym zalążkiem a długim, efektywnym wzrostem i nie dowodzi, że wszystkie czarne dziury rosły tą samą drogą. Szczegóły oraz rozdzielenie pomiarów od interpretacji: [dziennik rundy 68](../../research-log/2026-11-27-round-68.md).
-
-**Źródła:** [artykuł A&A / arXiv:2611.31385](https://arxiv.org/abs/2611.31385) · [DOI](https://doi.org/10.1051/0004-6361/202662243) · [ESA](https://www.esa.int/articles/about-us/directorates/science/euclid/euclid-breaks-own-quasar-record-by-40-million-years)
+**Źródła:** [artykuł A&A? / Nature Astronomy, arXiv:2611.23487](https://arxiv.org/abs/2611.23487) · [DOI](https://doi.org/10.1038/s41550-026-03025-y)
