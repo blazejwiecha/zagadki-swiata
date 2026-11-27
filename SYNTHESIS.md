@@ -19,3 +19,10 @@ To silny przykład, że kwazar może ogrzewać gaz poza swoją galaktyką. Całk
 LZ znalazł jedno zdarzenie o energii 248 ± 23(stat.) ± 23(syst.) keV w rozszerzonym oknie odrzutów jąder. Ma ono cechy zgodne z odrzutem jądrowym, ale rodzaj interakcji nie został rozstrzygnięty. Dla wielu testowanych modeli lokalna istotność dochodzi do 3,4σ; po poprawce za efekt look-elsewhere wynosi 2,6σ. To poniżej progu odkrycia i nie oznacza prawdopodobieństwa 99,5%, że zdarzenie jest ciemną materią.
 
 Analiza została opisana przez współpracę jako non-blind dla tego zakresu, a mechanizmy tła nie są całkowicie wykluczone; to jedno zdarzenie, bez niezależnego potwierdzenia. Jest to interesujący trop wymagający dalszej ekspozycji i reprodukcji. Nie jest wykryciem cząstki ani dowodem, że ciemna materia została zidentyfikowana. [Dziennik rundy 70](research-log/2026-11-27-round-70.md).
+
+
+## Aktualizacja z rundy 71 — różnorodność archaicznych ludzi w południowych Chinach
+
+Cztery zęby z dwóch jaskiń w Guangxi dostarczają morfologicznego i paleoproteomicznego materiału wskazującego na co najmniej dwa odmienne zestawy cech. Dwa zęby z Longchuandong niosą AMBN 273V i grupują się z Denisova 3; wspierają populację o powinowactwie denisowiańskim na południu Chin. Ząb z Chuanshandong ma kombinację AMBN 253G i AMELY 179M i w analizie białek zajmuje nierozstrzygnięte położenie w rodowodzie Homo.
+
+**Granica pewności:** proteomikę wykonano dla trzech z czterech zębów, odzyskane białka obejmują ograniczoną część danych molekularnych, a DNA nie uzyskano. Wniosek o drugiej, oddzielnej linii jest wstępny; nie oznacza formalnego odkrycia nowego gatunku. Szczegóły i zastrzeżenia stratygraficzno-datownicze: [dziennik rundy 71](research-log/2026-11-27-round-71.md).
