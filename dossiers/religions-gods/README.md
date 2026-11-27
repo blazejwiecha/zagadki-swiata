@@ -162,3 +162,10 @@ Recenzowane badanie z 2026 r. łączyło radar Sentinel-1 (scena z 2018 r.), ERT
 Nagłówek „świątynia odkryta z kosmosu” jest uproszczeniem: Sentinel-1 wskazał dużą anomalię do wyboru obszaru, natomiast mury i ich głębokość określono głównie przez ERT, odwierty i wykop. Artykuł nie pokazuje, że satelita bezpośrednio zobrazował strukturę kilka metrów pod ziemią; sam przytacza penetrację C-band rzędu centymetrów w glinie i dziesiątek centymetrów w suchym piasku. Druga, nieodkryta świątynia pozostaje tylko możliwością do zbadania. Wniosek dotyczy materialnych śladów praktyk religijnych, nie metafizycznego istnienia bóstw.
 
 Szczegóły: [dziennik rundy 55](../../research-log/2026-11-27-round-55.md). Źródło R40 w [rejestrze](../../sources/README.md).
+
+
+### Aktualizacja — runda 56: lokalny przepis na balsamowanie krokodyli
+
+Recenzowana analiza GC–MS siedmiu mumii krokodyli wykazała różne kombinacje wosku pszczelego, materiałów sosnowych i smoły cedrowej. Dopiero po zestawieniu z wcześniejszymi publikacjami autorzy wnioskują, że w Kom Ombo przez kilka stuleci utrzymywał się lokalny przepis. To materialny dowód wiedzy rzemieślniczej powiązanej z praktykami kultowymi, nie bezpośrednia rekonstrukcja przekonań ani metafizycznego istnienia Sobka. Liczba próbek jest mała w stosunku do zróżnicowania geograficznego i chronologicznego mumifikacji krokodyli.
+
+Szczegóły: [dziennik rundy 56](../../research-log/2026-11-27-round-56.md). Źródło R41 w [rejestrze](../../sources/README.md).
