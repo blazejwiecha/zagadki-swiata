@@ -353,3 +353,8 @@ Recenzowany artykuł publikuje sześć częściowo zachowanych liter na naczyniu
 ## Aktualizacja z rundy 52 — możliwy posąg kultowy z Megiddo
 
 W świątyni EB I 4050 znaleziono rytowane przedstawienia z włóczniami oraz wyjątkowy grot miedziany. Recenzowany artykuł proponuje, że elementy te mogły należeć do pełnowymiarowego posągu boga-wojownika; to rekonstrukcja, nie zachowany posąg ani pewna identyfikacja rysunków. Wniosek dotyczy możliwych historycznych praktyk religijnych, nie metafizycznego istnienia bóstwa. Szczegóły: [dziennik rundy 52](research-log/2026-11-27-round-52.md).
+
+
+## Aktualizacja z rundy 53 — szerokopasmowe radio i granice SETI
+
+Nowy preprint Crofta analizuje 2–4 GHz w wieloepokowych danych VLASS dla 210 191 pobliskich gwiazd. Autor nie znajduje wiarygodnego kandydata technosygnatury: trafienia są zgodne z tłem, a prawie wszystkie mocne skojarzenia pozycyjne wskazują na naturalne źródła radiowe. Dla stałych, bardzo jasnych nadajników praca wylicza niskie górne granice ich częstości w określonych próbach. Granice zależą od progów kwalifikacji i nie obejmują wszystkich sygnałów; krótkie migawki, RFI, emisja gwiazdowa i słaba czułość na wąskie linie są istotne. VLASS uzupełnia celowane wyszukiwania narrowband, lecz ich nie zastępuje. To preprint zgłoszony do recenzji, nie odkrycie ani wykluczenie życia pozaziemskiego. Szczegóły: [runda 53](research-log/2026-11-27-round-53.md).
