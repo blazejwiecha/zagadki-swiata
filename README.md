@@ -283,3 +283,6 @@ Po rundzie 62: [dziennik badań](research-log/2026-11-27-round-62.md) omawia mod
 
 
 Po rundzie 63: [dziennik badań](research-log/2026-11-27-round-63.md) opisuje niezależną metodologicznie rekonstrukcję pierścienia M87* z danych EHT z lat 2017–2021. Odmienny algorytm odtworzył pierścieniową strukturę około 42 mikrosekund łuku. To te same dane, nie nowa obserwacja; metoda obrazowania nadal ma założenia, a pierścień jest emisją otoczenia, nie fotografią horyzontu.
+
+
+Po rundzie 64: [dziennik badań](research-log/2026-11-27-round-64.md) omawia pierwszy pomiar asymetrii CP w rozpadzie \(B_s^0 \to D_s^-\pi^+\). Wynik LHCb jest zgodny z Modelem Standardowym i ogranicza możliwe dodatkowe naruszenie CP w tym kanale; nie wyjaśnia kosmicznej przewagi materii nad antymaterią.
