@@ -791,3 +791,8 @@ Recenzowane badanie 136 pobliskich galaktyk łączy kinematykę gwiazd z H I i z
 ## Aktualizacja z rundy 61 — atmosfera LHS 1140 b i zmienny hel
 
 Zespół Cherubima opublikował w *Science* detekcję metastabilnego helu uciekającego z LHS 1140 b w jednym tranzycie WINERED z 2024 r.; obserwacja z 2025 r. nie wykazała sygnału. Cztery archiwalne tranzyty JWST/NIRISS także nie pokazują absorpcji podobnej do tej z 2024 r., ale nie były z nią współbieżne. Wyniki wspierają tezę, że w danym momencie istnieje górna atmosfera zdolna do utraty helu, nie zaś stałą absorpcję lub atmosferę składem przypominającą Ziemię. Nie mówią o wodzie ciekłej ani życiu. Trwa spór, jak duży wkład ma zmienna aktywność gwiazdy; dodatkowe tranzyty mogą oddzielić te efekty. Szczegóły: [runda 61](research-log/2026-11-27-round-61.md).
+
+
+## Pierwotne atmosfery po wielkich zderzeniach — runda 62
+
+Model Modirrousta-Galiana i Korenagi wskazuje, że po największym zderzeniu skalistej planety już po rozproszeniu dysku przyrost grawitacyjnego związania może przewyższać ogrzanie płaszcza: część energii pochłania topnienie, a metaliczne jądro impaktora słabo ogrzewa płaszcz. W takim scenariuszu duże planety częściej zachowują pierwotny wodór i stają się subneptunami, a mniejsze, nieuderzone obiekty mogą go tracić i pozostawać superziemiami. To recenzowany model, nie bezpośrednie odtworzenie historii konkretnego świata. Nie wynika z niego, że każda kolizja zachowuje atmosferę ani że wszystkie planety tych klas powstały tak samo. Szczegóły: [runda 62](research-log/2026-11-27-round-62.md).
