@@ -1,6 +1,6 @@
 # Notatnik badań: trudne tematy bez skrótów
 
-**Aktualizacja:** 27 listopada 2026 · **Najnowszy wpis:** runda 66
+**Aktualizacja:** 27 listopada 2026 · **Najnowszy wpis:** runda 67
 
 Indeks poszukiwań Błażeja: co zmierzono, co wynika z danych i czego nadal nie wiemy. Szczegółowe argumenty oraz bibliografia są w dziennikach rund i dossier.
 
@@ -8,11 +8,11 @@ Indeks poszukiwań Błażeja: co zmierzono, co wynika z danych i czego nadal nie
 
 | Runda | Temat i wynik | Status dowodu | Szczegóły |
 |---:|---|---|---|
+| 67 | Po wycofaniu analizy anizotropii galaktyk, wynik spadł z >3σ do 1,48–2,75σ po korekcie niezgodnych odległości. | Korekta / wynik wycofany | [Dziennik 67](research-log/2026-11-27-round-67.md) |
 | 66 | Nowy rezonans Bₛ⁰*(5700)⁰ w danych LHCb (>7σ); masa i mała szerokość zmierzone, wewnętrzna budowa pozostaje otwarta. | Silna obserwacja; praca LHCb jako preprint | [Dziennik 66](research-log/2026-11-27-round-66.md) |
 | 65 | Rzadki rozpad B⁰ → μ⁺μ⁻: LHCb zgłosiło sygnał 3,2σ po połączeniu Run 1–3; wyniki są zgodne z Modelem Standardowym. | Preprint, poniżej progu odkrycia | [Dziennik 65](research-log/2026-11-27-round-65.md) |
 | 64 | Asymetria CP w Bₛ⁰ → Dₛ⁻π⁺: pierwszy pomiar zgodny z Modelem Standardowym; ogranicza jeden kanał, nie wyjaśnia przewagi materii. | Recenzowany pomiar | [Dziennik 64](research-log/2026-11-27-round-64.md) |
 | 63 | Nowa metoda odtworzyła pierścień M87* z archiwalnych danych EHT. To niezależna analiza, nie nowe obserwacje; pierścień nie jest fotografią horyzontu. | Recenzowany artykuł | [Dziennik 63](research-log/2026-11-27-round-63.md) |
-| 62 | Model wskazuje, że wielkie zderzenia mogą pomagać skalistym planetom zachować pierwotny wodór. | Recenzowany model | [Dziennik 62](research-log/2026-11-27-round-62.md) |
 
 ## Jak szybko znaleźć informacje
 
@@ -28,6 +28,7 @@ Indeks poszukiwań Błażeja: co zmierzono, co wynika z danych i czego nadal nie
 - [Piramidy](pyramids/README.md)
 - [Religie i bogowie](religions-gods/README.md)
 - [Ciemna materia](dossiers/dark-matter/README.md)
+- [Zasada kosmologiczna](dossiers/cosmological-principle/README.md)
 - [Czarne dziury i M87*](dossiers/black-holes/README.md)
 - [Asymetria materia–antymateria](dossiers/matter-antimatter/README.md)
 - [Rzadkie rozpady mezonów](dossiers/rare-decays/README.md)
