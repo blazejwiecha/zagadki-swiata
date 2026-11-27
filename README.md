@@ -123,3 +123,9 @@ Po rundzie 55: [dziennik badań](research-log/2026-11-27-round-55.md) porządkuj
 
 
 Po rundzie 56: [dziennik badań](research-log/2026-11-27-round-56.md) analizuje chemiczne składy balsamów siedmiu mumii krokodyli. Wyniki wspierają istnienie długotrwałej lokalnej tradycji w Kom Ombo, ale nie pozwalają uogólnić jednego przepisu na cały Egipt ani odtworzyć samych wierzeń.
+
+
+Nowe dossier [Ewolucja człowieka](dossiers/human-evolution/README.md) zbiera współczesne badania populacji archaicznego *Homo*. Po rundzie 58: cztery zęby z południowych Chin wspierają pokrewieństwo denisowiańskie jednego zespołu i obecność drugiej, nierozstrzygniętej grupy; brak genomu i mała próba nie pozwalają nazwać nowego gatunku.
+
+Po rundzie 57: [dziennik badań](research-log/2026-11-27-round-57.md) omawia model jonosferycznego odcięcia jako nowy, testowalny filtr dla szerokopasmowego SETI. To teoretyczna propozycja wymagająca tysięcy godzin obserwacji niskich częstotliwości, nie wykryta technosygnatura.
+
