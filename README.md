@@ -99,3 +99,6 @@ Po rundzie 46: [dziennik badań](research-log/2026-11-26-round-46.md) audytuje t
 Po rundzie 47: [dziennik badań](research-log/2026-11-26-round-47.md) ocenia nowy dokument AARO o ośmiu wykryciach radarowych. Wyliczenie 1 650 mph obowiązuje tylko, jeśli punkty należały do jednego obiektu; dokument mówi, że ciągłości tracku nie da się potwierdzić.
 
 Po rundzie 48: [dziennik badań](research-log/2026-11-26-round-48.md) aktualizuje status sygnału Wow!. Reanaliza archiwum przesunęła oszacowania położenia i jasności; proponowany naturalny rozbłysk HI jest hipotezą testowalną, a pochodzenie sygnału pozostaje nierozstrzygnięte.
+
+
+Po rundzie 49: [dziennik badań](research-log/2026-11-27-round-49.md) ocenia nowy preprint o kwantowaniu grawitacji i zestawia jego deklaracje z wczesną krytyką ekspercką. To poboczny trop o statusie nowych wyników naukowych; nie zmienia czterech głównych dossier i nie stanowi dowodu hipotezy Matrixa.
