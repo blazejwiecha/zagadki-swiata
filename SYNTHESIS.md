@@ -796,3 +796,8 @@ Zespół Cherubima opublikował w *Science* detekcję metastabilnego helu ucieka
 ## Pierwotne atmosfery po wielkich zderzeniach — runda 62
 
 Model Modirrousta-Galiana i Korenagi wskazuje, że po największym zderzeniu skalistej planety już po rozproszeniu dysku przyrost grawitacyjnego związania może przewyższać ogrzanie płaszcza: część energii pochłania topnienie, a metaliczne jądro impaktora słabo ogrzewa płaszcz. W takim scenariuszu duże planety częściej zachowują pierwotny wodór i stają się subneptunami, a mniejsze, nieuderzone obiekty mogą go tracić i pozostawać superziemiami. To recenzowany model, nie bezpośrednie odtworzenie historii konkretnego świata. Nie wynika z niego, że każda kolizja zachowuje atmosferę ani że wszystkie planety tych klas powstały tak samo. Szczegóły: [runda 62](research-log/2026-11-27-round-62.md).
+
+
+## M87*: niezależna rekonstrukcja pierścienia (runda 63)
+
+Nowa, recenzowana metoda GenDIReCT analizuje te same archiwalne pomiary EHT z lat 2017, 2018 i 2021, używając niezmienników interferometrycznych niewrażliwych na część błędów kalibracji. Odzyskuje zwartą morfologię pierścieniową o średnicy około 42 mikrosekund łuku. Jest to niezależne potwierdzenie metodologiczne, a nie nowa obserwacja. Algorytm generatywny nadal wnosi założenia; autorzy testowali wrażliwość na zestaw treningowy i opisują różnice w drobnych cechach. Pierścień to zniekształcona grawitacyjnie emisja materii wokół czarnej dziury, nie obraz powierzchni horyzontu. Szczegóły: [runda 63](research-log/2026-11-27-round-63.md).
