@@ -111,3 +111,6 @@ Po rundzie 51: [dziennik badań](research-log/2026-11-27-round-51.md) analizuje 
 
 
 Po rundzie 52: [dziennik badań](research-log/2026-11-27-round-52.md) ocenia hipotezę pełnowymiarowego posągu boga-wojownika w świątyni EB I w Megiddo. Grot miedziany i ryty są realnymi znaleziskami; ich połączenie w rekonstrukcję kultowego posągu pozostaje interpretacją.
+
+
+Po rundzie 53: [dziennik badań](research-log/2026-11-27-round-53.md) analizuje nowy przegląd VLASS: 210 tys. gwiazd, emisja 2–4 GHz i brak nadwyżki kandydujących technosygnatur. Praca ustanawia warunkowe ograniczenia dla jasnych, stałych nadajników; jej czułość na wąskie linie jest dużo słabsza niż w dedykowanych przeglądach SETI.
