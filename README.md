@@ -1,6 +1,6 @@
 # Notatnik badań: trudne tematy bez skrótów
 
-**Aktualizacja:** 27 listopada 2026 · **Najnowszy wpis:** runda 72
+**Aktualizacja:** 27 listopada 2026 · **Najnowszy wpis:** runda 73
 
 Indeks poszukiwań Błażeja: co zmierzono, co wynika z danych i czego nadal nie wiemy. Szczegółowe argumenty oraz bibliografia są w dziennikach rund i dossier.
 
@@ -8,11 +8,11 @@ Indeks poszukiwań Błażeja: co zmierzono, co wynika z danych i czego nadal nie
 
 | Runda | Temat i wynik | Status dowodu | Szczegóły |
 |---:|---|---|---|
+| 73 | AT 2025abao: wieloletnie pojaśnianie i erupcja wspierają model spirali gwiazdy towarzyszącej we wspólnej otoczce olbrzyma. | Recenzowany artykuł; wniosek z fotometrii i spektroskopii | [Dziennik 73](research-log/2026-11-27-round-73.md) |
 | 72 | Modelowanie uderzeń sugeruje, że komety dostarczały za mało nienaruszonego HCN do głównego udziału w prebiotycznej chemii. Nie rozstrzyga, jak powstało życie. | Recenzowany artykuł; wynik modelowy | [Dziennik 72](research-log/2026-11-27-round-72.md) |
 | 71 | Cztery zęby z Guangxi wskazują na populację o powinowactwie denisowiańskim i drugą nierozstrzygniętą grupę archaicznego Homo; analiza obejmuje małą próbkę. | Recenzowany artykuł; ograniczone dane proteomiczne | [Dziennik 71](research-log/2026-11-27-round-71.md) |
 | 70 | LZ zarejestrował jeden odrzut ksenonu zgodny z sygnałem WIMP; globalnie 2,6σ, czyli intrygująca anomalia, nie odkrycie. | Preprint LZ; pojedyncze zdarzenie | [Dziennik 70](research-log/2026-11-27-round-70.md) |
 | 69 | Podwójny kwazar ogrzewa otaczający gaz: sygnał tSZ 6–6,7σ, energia ~9,7×10⁶⁰ erg wyliczona z modelu. | Recenzowany artykuł; pomiar tSZ, energia modelowa | [Dziennik 69](research-log/2026-11-27-round-69.md) |
-| 68 | Kwazar Dún Aonghasa: z = 8,129, epoka 630 mln lat po Wielkim Wybuchu; masa BH oszacowana na ok. 360 mln Słońc, z dużą niepewnością kalibracji. | Recenzowany artykuł; redshift spektroskopowy, masa estymowana | [Dziennik 68](research-log/2026-11-27-round-68.md) |
 
 ## Jak szybko znaleźć informacje
 
@@ -32,6 +32,7 @@ Indeks poszukiwań Błażeja: co zmierzono, co wynika z danych i czego nadal nie
 - [Czarne dziury i M87*](dossiers/black-holes/README.md)
 - [Ewolucja człowieka i Denisowianie](dossiers/human-evolution.md)
 - [Powstanie życia i chemia prebiotyczna](dossiers/origin-of-life.md)
+- [Ewolucja gwiazd i wspólne otoczki](dossiers/stellar-evolution.md)
 - [Asymetria materia–antymateria](dossiers/matter-antimatter/README.md)
 - [Rzadkie rozpady mezonów](dossiers/rare-decays/README.md)
 - [Struktura hadronów ciężkich](dossiers/hadron-structure/README.md)
