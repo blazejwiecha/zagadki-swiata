@@ -114,3 +114,6 @@ Po rundzie 52: [dziennik badań](research-log/2026-11-27-round-52.md) ocenia hip
 
 
 Po rundzie 53: [dziennik badań](research-log/2026-11-27-round-53.md) analizuje nowy przegląd VLASS: 210 tys. gwiazd, emisja 2–4 GHz i brak nadwyżki kandydujących technosygnatur. Praca ustanawia warunkowe ograniczenia dla jasnych, stałych nadajników; jej czułość na wąskie linie jest dużo słabsza niż w dedykowanych przeglądach SETI.
+
+
+Po rundzie 54: [dziennik badań](research-log/2026-11-27-round-54.md) analizuje recenzowany test modelu ramp IER w piramidzie Chefrena. Symulacja jest logistycznie wykonalna, a część przewidywanych wysokości zbliża się do widocznych cech, lecz brak metrycznych pomiarów i bezpośredniego śladu rampy nie pozwala uznać metody za potwierdzoną.
