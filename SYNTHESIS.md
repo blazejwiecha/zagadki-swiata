@@ -348,3 +348,8 @@ Runda 50 opisuje recenzowaną metodę FLIP, która poprawia odejmowanie światł
 ## Aktualizacja z rundy 51 — imię z Baalem i rdzeń *šlṭ* w Lachisz
 
 Recenzowany artykuł publikuje sześć częściowo zachowanych liter na naczyniu z późnobrązowego poziomu Tel Lachisz. Autorzy proponują imię osobowe z elementem Baala i rdzeniem *šlṭ*, co podważa traktowanie tego rdzenia jako wyłącznie późnego arameizmu i osłabia go jako samodzielny wskaźnik późnego datowania hebrajskiego tekstu. Fragment nie rozstrzyga daty żadnej księgi biblijnej, a imię potwierdza praktykę religijną, nie istnienie metafizyczne Baala. Odczyt ma ograniczenia, bo zachowały się tylko części liter. Szczegóły: [dziennik rundy 51](research-log/2026-11-27-round-51.md).
+
+
+## Aktualizacja z rundy 52 — możliwy posąg kultowy z Megiddo
+
+W świątyni EB I 4050 znaleziono rytowane przedstawienia z włóczniami oraz wyjątkowy grot miedziany. Recenzowany artykuł proponuje, że elementy te mogły należeć do pełnowymiarowego posągu boga-wojownika; to rekonstrukcja, nie zachowany posąg ani pewna identyfikacja rysunków. Wniosek dotyczy możliwych historycznych praktyk religijnych, nie metafizycznego istnienia bóstwa. Szczegóły: [dziennik rundy 52](research-log/2026-11-27-round-52.md).
