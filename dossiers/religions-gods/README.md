@@ -1,6 +1,6 @@
 # Dossier: religie i bogowie
 
-**Ostatnia aktualizacja:** 2026-11-26  
+**Ostatnia aktualizacja:** 2026-11-27  
 **Zakres:** pochodzenie religijności i konkretnych tradycji, historyczność opowieści religijnych oraz prawdziwość twierdzeń o bogach.
 
 ## Trzy osobne pytania
@@ -139,3 +139,10 @@ Szczegóły: [dziennik rundy 34](../../research-log/2026-11-26-round-34.md). Źr
 W egipskiej liście z Soleb, w świątyni Amenhotepa III, widnieje formuła odczytywana jako „ziemia Shasu z *yhwꜣ*”; podobny wpis zachował się później w Amara West. To możliwa wczesna paralela imienia YHWH, nie jawne wymienienie „boga Izraela”. Kennedy (2019) argumentuje za identyfikacją z Yahweh, ale zapis pozostaje geografczno-etniczną nazwą w egipskiej liście. Adrom i Müller (2017) wskazują, że nie wiadomo, czy człon oznaczał grupę, terytorium, osadę lub miejsce kultu, ani czy nazwa pochodziła od boga. Shalomi-Hen (2021) również nie uznaje zagadki za rozwiązaną; Fleming (2020) podkreśla, że materiał nie dowodzi samodzielnie południowego pochodzenia kultu. Napis nie wymienia Izraelitów, Exodusu ani nie opisuje praktyki kultowej. Wniosek: ważny, ale nierozstrzygający trop dotyczący historii nazwy.
 
 Szczegóły: [dziennik rundy 39](../../research-log/2026-11-26-round-39.md). Źródła A57–A60 w [rejestrze](../../sources/README.md).
+
+
+### Aktualizacja — runda 51: imię z Baalem w późnobrązowym Lachisz
+
+W 2026 r. Vainstub i współautorzy opublikowali recenzowaną analizę sześciu częściowo zachowanych liter na skorupie z poziomu Lachisz zniszczonego w połowie XII w. p.n.e. Autorzy odczytują osobiste imię z elementem Baala i rdzeniem *šlṭ*. Jeśli odczyt się utrzyma, rdzeń był obecny w zachodniosemickim/kananejskim materiale znacznie wcześniej, niż sugerował pogląd, że jego hebrajski użytek był wyłącznie późnym arameizmem. To osłabia rdzeń *šlṭ* jako samodzielny argument za późnym datowaniem fragmentu, nie rozstrzyga jednak daty Księgi Rodzaju, Psalmu 119 ani innych tekstów. Napis jest fragmentaryczny i prawdopodobnie stanowi imię właściciela naczynia, a nie tekst rytualny.
+
+Szczegóły: [dziennik rundy 51](../../research-log/2026-11-27-round-51.md). Źródło R38 w [rejestrze](../../sources/README.md).
