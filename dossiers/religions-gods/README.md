@@ -153,3 +153,12 @@ Szczegóły: [dziennik rundy 51](../../research-log/2026-11-27-round-51.md). Źr
 Garfinkel proponuje, że rytowane postacie z włóczniami na posadzce świątyni EB I 4050 oraz wyjątkowy grot miedziany znaleziony w jej dziedzińcu wskazują na pełnowymiarowy posąg bóstwa-wojownika, zapewne z materiałów organicznych. Pewne są znaleziska i ich kontekst; identyfikacja postaci jako boga, znaku jako pioruna i powiązanie grotu z posągiem pozostają rekonstrukcją. Inni badacze interpretowali postacie jako ludzi/władców lub możliwie postać żeńską. Artykuł sam nie uznaje dyskusji za zamkniętą.
 
 Szczegóły: [dziennik rundy 52](../../research-log/2026-11-27-round-52.md). Źródło R39 w [rejestrze](../../sources/README.md).
+
+
+### Aktualizacja — runda 55: budowla kultowa możliwa w Buto
+
+Recenzowane badanie z 2026 r. łączyło radar Sentinel-1 (scena z 2018 r.), ERT, wcześniejsze odwierty i wykop w Kom C w Buto. W wykopanym polu 10 × 10 m odsłonięto mury z cegły mułowej oraz amulety i przedmioty kultowe; Wadżet pojawia się wśród przedstawianych bóstw. Zespół może pochodzić z okresu saickiego, a funkcja może być świątynna, kapłańska lub grobowa. Autorzy nie rozstrzygają dokładnej funkcji.
+
+Nagłówek „świątynia odkryta z kosmosu” jest uproszczeniem: Sentinel-1 wskazał dużą anomalię do wyboru obszaru, natomiast mury i ich głębokość określono głównie przez ERT, odwierty i wykop. Artykuł nie pokazuje, że satelita bezpośrednio zobrazował strukturę kilka metrów pod ziemią; sam przytacza penetrację C-band rzędu centymetrów w glinie i dziesiątek centymetrów w suchym piasku. Druga, nieodkryta świątynia pozostaje tylko możliwością do zbadania. Wniosek dotyczy materialnych śladów praktyk religijnych, nie metafizycznego istnienia bóstw.
+
+Szczegóły: [dziennik rundy 55](../../research-log/2026-11-27-round-55.md). Źródło R40 w [rejestrze](../../sources/README.md).
