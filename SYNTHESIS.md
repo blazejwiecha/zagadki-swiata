@@ -57,3 +57,7 @@ To pomiar dynamiki interpretowany przez modele, nie bezpośrednia detekcja cząs
 ## Aktualizacja z rundy 76 — impulsy radiowe z układu białego karła i gwiazdy typu G
 
 GPM J071507−114153 emituje impulsy co około 7,9 minuty; timing i widma wskazują na układ małomasywnego białego karła z gwiazdą typu G na orbicie około 1,3 dnia. Zmiany rotacji Faradaya przy koniunkcji są zgodne z wpływem korony towarzysza. To wzmacnia rolę interakcji w układzie podwójnym, lecz nie ujawnia kompletnego mechanizmu emisji ani nie opisuje całej populacji LPT. [Dziennik rundy 76](research-log/2026-11-27-round-76.md).
+
+## Aktualizacja z rundy 77 — ramię Normy a poprzeczka Drogi Mlecznej
+
+Nowa symulacja hydrodynamiczna odtwarza pozycje maserów przypisywanych ramieniu Normy jako ślad frontu uderzeniowego gazu w poprzeczce. Dopasowanie sugeruje długą, wolno obracającą się poprzeczkę i formowanie gwiazd w jej pasie pyłowym. To wynik interpretacji symulacyjnej; zależy od dopasowania i nie rozstrzyga jeszcze sporu o spiralną strukturę Galaktyki. [Dziennik rundy 77](research-log/2026-11-27-round-77.md).
