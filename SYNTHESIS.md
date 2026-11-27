@@ -33,3 +33,10 @@ Cztery zęby z dwóch jaskiń w Guangxi dostarczają morfologicznego i paleoprot
 Model Anslowa i współautorów łączy ewolucję komet krótkookresowych z ich wejściem w atmosferę i zniszczeniami przy uderzeniu. Dla HCN — związku szczególnie obiecującego w części scenariuszy chemii prebiotycznej — zakres parametrów pozwalających przetrwać całej drodze z kosmosu na powierzchnię okazuje się bardzo wąski. Nawet przy pominięciu późniejszego rozkładu, modelowa globalna dostawa odpowiada najwyżej około 0,75 µM w oceanie, znacznie poniżej stężeń około 10 mM używanych w wielu doświadczeniach laboratoryjnych.
 
 To osłabia hipotezę, że **komety krótkookresowe były głównym źródłem skoncentrowanego HCN**, ale nie mówi, jak życie powstało. Wynik zależy od modelu i nie obejmuje wszystkich dróg: ziemskiej syntezy atmosferycznej/geochemicznej, asteroid ani całej chemii prebiotycznej. [Dziennik rundy 72](research-log/2026-11-27-round-72.md).
+
+
+## Aktualizacja z rundy 73 — inspiracja gwiazdy w otoczce olbrzyma
+
+W Andromedzie zarejestrowano AT 2025abao: stopniowe pojaśnienie od 2018 r., a następnie erupcję w 2025 r. Wieloletnia fotometria i widma najlepiej pasują do modelu, w którym towarzysz o masie około 0,7 M☉ spiralnie zbliżał się we wspólnej otoczce gwiazdy AGB o masie około 7 M☉. Tarcie orbitalne rozpraszało energię; końcowa faza doprowadziła do erupcji i wyrzutu części otoczki.
+
+To mocny, rzadki przykład procesu wspólnej otoczki ważnego dla powstawania zwartych układów podwójnych. Wnętrza gwiazd nie zobrazowano bezpośrednio, a masy i szczegóły spirali są wnioskowane z danych przy użyciu modeli. Jeden obiekt nie określa częstości ani pełnej różnorodności takich zdarzeń. [Dziennik rundy 73](research-log/2026-11-27-round-73.md).
