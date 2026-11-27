@@ -12,3 +12,10 @@ Euclid wraz z obserwacjami Kecka, HST, LBT i JWST potwierdził kwazar J1504+6252
 W podwójnym układzie J1549+1245 (z = 2,37) zmierzono wieloczęstotliwościową sygnaturę termicznego efektu Sunyaeva–Zeldowicza; dopasowanie widma jednej składowej ma istotność 6–6,7σ zależnie od przyjętego modelu pyłu. Z amplitudy zintegrowanego ciśnienia elektronów autorzy wyliczyli energię termiczną (9,7 ± 1,6)×10⁶⁰ erg. Lokalne, około 100-kpc ujemne odchylenie ma zintegrowaną istotność około 5σ; sygnał na największej skali to 2,9σ i wymaga ostrożności.
 
 To silny przykład, że kwazar może ogrzewać gaz poza swoją galaktyką. Całkowita energia oraz porównanie do halo zależą od modelu; jeden system nie ustala częstości takiego zdarzenia ani jego typowego wpływu na wygaszanie galaktyk. [Dziennik rundy 69](research-log/2026-11-27-round-69.md).
+
+
+## Aktualizacja z rundy 70 — wysokoenergetyczne zdarzenie LZ i ciemna materia
+
+LZ znalazł jedno zdarzenie o energii 248 ± 23(stat.) ± 23(syst.) keV w rozszerzonym oknie odrzutów jąder. Ma ono cechy zgodne z odrzutem jądrowym, ale rodzaj interakcji nie został rozstrzygnięty. Dla wielu testowanych modeli lokalna istotność dochodzi do 3,4σ; po poprawce za efekt look-elsewhere wynosi 2,6σ. To poniżej progu odkrycia i nie oznacza prawdopodobieństwa 99,5%, że zdarzenie jest ciemną materią.
+
+Analiza została opisana przez współpracę jako non-blind dla tego zakresu, a mechanizmy tła nie są całkowicie wykluczone; to jedno zdarzenie, bez niezależnego potwierdzenia. Jest to interesujący trop wymagający dalszej ekspozycji i reprodukcji. Nie jest wykryciem cząstki ani dowodem, że ciemna materia została zidentyfikowana. [Dziennik rundy 70](research-log/2026-11-27-round-70.md).
