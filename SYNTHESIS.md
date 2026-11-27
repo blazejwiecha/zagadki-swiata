@@ -816,3 +816,8 @@ LHCb zgłosiło pierwszy pojedynczo-eksperymentalny dowód tego rzadkiego rozpad
 ## Bₛ⁰*(5700)⁰: obserwacja nowego hadronu, skład nadal otwarty (runda 66)
 
 LHCb zgłosiło rezonans w widmie Bₛ⁰π⁰ o globalnej istotności >7σ, masie 5698,9 ± 1,5 ± 0,6 ± 0,1 MeV/c² i szerokości <9,8 MeV przy 90% CL. To mocny wynik obserwacyjny; pomiar nie rozstrzyga, czy stan jest przede wszystkim partnerem chiralnym, mezonem z silnymi efektami kanałów sprzężonych czy konfiguracją z udziałem B K. Te interpretacje są modelami, nie bezpośrednim obrazem składu. Szczegóły: [runda 66](research-log/2026-11-27-round-66.md).
+
+
+## Anizotropia galaktyk na gigaparsekach — retraction po błędzie porównania (runda 67)
+
+Artykuł z *Nature* (24.06.2026) zgłaszał >3σ anizotropię. Autorzy wycofali go 19.11.2026 po stwierdzeniu, że porównali comoving distance obserwowanych galaktyk z luminosity distance w symulowanych mockach. Po poprawce rozbieżność spada do 1,48–2,75σ zależnie od próbki. Mocne pierwotne twierdzenie nie utrzymało się; autorzy nadal mówią o wstępnej wskazówce i przygotowują nową wersję. To nie dowodzi automatycznie izotropii, ale ten wynik nie stanowi już dowodu na jej naruszenie. Szczegóły: [runda 67](research-log/2026-11-27-round-67.md).
