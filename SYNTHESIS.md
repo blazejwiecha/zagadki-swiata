@@ -806,3 +806,8 @@ Nowa, recenzowana metoda GenDIReCT analizuje te same archiwalne pomiary EHT z la
 ## Asymetria CP w rozpadach mezonów Bs (runda 64)
 
 LHCb podało pierwszy pomiar czasowo zintegrowanej, nieoznaczonej asymetrii CP w rozpadach \(B_s^0 \to D_s^-\pi^+\), z danych o jasności 5,4 fb⁻¹ zebranych w latach 2016–2018. Wynik \((-1{,}4 \pm 5{,}9\,\mathrm{(stat)} \pm 1{,}1\,\mathrm{(syst)})\times10^{-3}\) jest zgodny z Modelem Standardowym. To twardy pomiar i ograniczenie dla jednego kanału, ale nie dowód nowej fizyki ani wyjaśnienie kosmicznej przewagi materii. Szczegóły: [runda 64](research-log/2026-11-27-round-64.md).
+
+
+## Rzadki rozpad B⁰ → μ⁺μ⁻ — runda 65
+
+LHCb zgłosiło pierwszy pojedynczo-eksperymentalny dowód tego rzadkiego rozpadu: 3σ w danych Run 3 i 3,2σ po połączeniu z Run 1–2. Analizowano 18 fb⁻¹ z lat 2024–2025; artykuł jest preprintem zgłoszonym do *Physical Review X*. Wyniki są zgodne z Modelem Standardowym. To sygnał rozpadu poniżej standardu odkrycia, nie odkrycie nowej fizyki. Szczegóły: [runda 65](research-log/2026-11-27-round-65.md).
