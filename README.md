@@ -280,3 +280,6 @@ Po rundzie 61: [dziennik badań](research-log/2026-11-27-round-61.md) zestawia d
 
 
 Po rundzie 62: [dziennik badań](research-log/2026-11-27-round-62.md) omawia model, według którego wielkie zderzenia po rozproszeniu dysku mogą pomagać skalistym planetom zachować pierwotne atmosfery wodorowe: w analizowanym bilansie wzrost grawitacyjnego związania przeważa nad ogrzaniem płaszcza. To mechanizm teoretyczny i możliwe wyjaśnienie podziału superziem i subneptunów, nie bezpośrednia obserwacja historii konkretnej planety.
+
+
+Po rundzie 63: [dziennik badań](research-log/2026-11-27-round-63.md) opisuje niezależną metodologicznie rekonstrukcję pierścienia M87* z danych EHT z lat 2017–2021. Odmienny algorytm odtworzył pierścieniową strukturę około 42 mikrosekund łuku. To te same dane, nie nowa obserwacja; metoda obrazowania nadal ma założenia, a pierścień jest emisją otoczenia, nie fotografią horyzontu.
