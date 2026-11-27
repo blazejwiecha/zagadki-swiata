@@ -363,3 +363,8 @@ Nowy preprint Crofta analizuje 2–4 GHz w wieloepokowych danych VLASS dla 210 1
 ## Aktualizacja z rundy 54 — model ramp IER w piramidzie Chefrena
 
 Recenzowana praca z listopada 2026 r. przenosi sprawdzanie modelu ramp zintegrowanych z krawędziami (IER) na inną piramidę w Gizie. Symulacja wskazuje wykonalność logistyczną, a obliczone wysokości skrętów zbliżają się do kilku przybliżonych cech zewnętrznych, w tym wcięcia narożnego. Autor sam zastrzega, że zbieżność nie dowodzi historycznej przyczynowości; brakuje metrycznego pomiaru warstw Chefrena i testu statystycznego tej zgodności. To nowe, sprawdzalne cele dla niezależnych pomiarów TLS/SfM, nie rozstrzygnięcie sposobu budowy. Szczegóły: [runda 54](research-log/2026-11-27-round-54.md).
+
+
+## Aktualizacja z rundy 55 — Buto: radar wskazuje, wykop potwierdza
+
+Recenzowane badanie połączyło scenę Sentinel-1 z 2018 r., ERT, odwierty i wykop w Buto. W wykopanym fragmencie potwierdzono ściany z cegły mułowej oraz przedmioty kultowe; niewykluczona jest funkcja świątynna z okresu saickiego, ale autorzy nie rozstrzygają, czy to świątynia, zaplecze kapłańskie czy budowla o funkcji grobowej. Nagłówek „odkrycie z kosmosu” zawyża rolę radaru: wskazał anomalię do dalszych badań, a szczegóły pochodzą głównie z ERT i wykopalisk. Nie wykazano satelitarnego obrazowania murów na kilku metrach głębokości ani istnienia drugiej świątyni. Szczegóły: [runda 55](research-log/2026-11-27-round-55.md).
