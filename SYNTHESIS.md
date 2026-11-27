@@ -26,3 +26,10 @@ Analiza została opisana przez współpracę jako non-blind dla tego zakresu, a 
 Cztery zęby z dwóch jaskiń w Guangxi dostarczają morfologicznego i paleoproteomicznego materiału wskazującego na co najmniej dwa odmienne zestawy cech. Dwa zęby z Longchuandong niosą AMBN 273V i grupują się z Denisova 3; wspierają populację o powinowactwie denisowiańskim na południu Chin. Ząb z Chuanshandong ma kombinację AMBN 253G i AMELY 179M i w analizie białek zajmuje nierozstrzygnięte położenie w rodowodzie Homo.
 
 **Granica pewności:** proteomikę wykonano dla trzech z czterech zębów, odzyskane białka obejmują ograniczoną część danych molekularnych, a DNA nie uzyskano. Wniosek o drugiej, oddzielnej linii jest wstępny; nie oznacza formalnego odkrycia nowego gatunku. Szczegóły i zastrzeżenia stratygraficzno-datownicze: [dziennik rundy 71](research-log/2026-11-27-round-71.md).
+
+
+## Aktualizacja z rundy 72 — komety jako źródło składników prebiotycznych
+
+Model Anslowa i współautorów łączy ewolucję komet krótkookresowych z ich wejściem w atmosferę i zniszczeniami przy uderzeniu. Dla HCN — związku szczególnie obiecującego w części scenariuszy chemii prebiotycznej — zakres parametrów pozwalających przetrwać całej drodze z kosmosu na powierzchnię okazuje się bardzo wąski. Nawet przy pominięciu późniejszego rozkładu, modelowa globalna dostawa odpowiada najwyżej około 0,75 µM w oceanie, znacznie poniżej stężeń około 10 mM używanych w wielu doświadczeniach laboratoryjnych.
+
+To osłabia hipotezę, że **komety krótkookresowe były głównym źródłem skoncentrowanego HCN**, ale nie mówi, jak życie powstało. Wynik zależy od modelu i nie obejmuje wszystkich dróg: ziemskiej syntezy atmosferycznej/geochemicznej, asteroid ani całej chemii prebiotycznej. [Dziennik rundy 72](research-log/2026-11-27-round-72.md).
