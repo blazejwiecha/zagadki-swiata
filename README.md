@@ -102,3 +102,6 @@ Po rundzie 48: [dziennik badań](research-log/2026-11-26-round-48.md) aktualizuj
 
 
 Po rundzie 49: [dziennik badań](research-log/2026-11-27-round-49.md) ocenia nowy preprint o kwantowaniu grawitacji i zestawia jego deklaracje z wczesną krytyką ekspercką. To poboczny trop o statusie nowych wyników naukowych; nie zmienia czterech głównych dossier i nie stanowi dowodu hipotezy Matrixa.
+
+
+Po rundzie 50: [dziennik badań](research-log/2026-11-27-round-50.md) analizuje metodę FLIP dla obrazowania egzoplanet przez JWST. Lepsza redukcja danych odsłania słabsze sygnały znanych olbrzymów i może wesprzeć przyszłe przeglądy; nie jest detekcją planety ziemskiej ani życia.
