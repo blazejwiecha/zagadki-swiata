@@ -18,3 +18,7 @@ Euclid wykonał głęboki obraz pozycji SN 2024vjm przed wybuchem. W punkcie eks
 Dokładna konfiguracja układu nie jest znana: możliwa jest mała gwiazda-dawca, gwiazda helowa/podkarzeł albo drugi biały karzeł. SN 2024vjm wyróżnia się też wolnym słabnięciem. Autorzy wiążą je z niską prędkością rozszerzania i gęstością ejecta, która dłużej zatrzymuje energię rozpadu niklu. Ten mechanizm jest interpretacją widm i krzywej blasku, a nie bezpośrednim obrazem wnętrza wyrzutu. Szczegóły: [dziennik rundy 74](../research-log/2026-11-27-round-74.md).
 
 **Źródła:** Zimmerman et al. (2026), *Nature Astronomy*, [DOI](https://doi.org/10.1038/s41550-026-03024-z) · [Euclid ERO](https://doi.org/10.57780/esa-qmocze3) · [repozytorium kodu](https://github.com/erezimm/SN2024vjm).
+
+## Długookresowy transient radiowy z gwiazdą typu G (runda 76)
+
+GPM J071507−114153 to źródło impulsów radiowych o okresie 7,9 min, związane z małomasywnym białym karłem i gwiazdą typu G na orbicie około 1,3 dnia. Zmienna rotacja Faradaya w pobliżu koniunkcji wspiera obecność plazmy koronalnej towarzysza. Szczegóły fizycznego mechanizmu emisji pozostają nieustalone; pełniejsze dossier: [długookresowe transienty radiowe](long-period-radio-transients.md). [Dziennik rundy 76](../research-log/2026-11-27-round-76.md).
