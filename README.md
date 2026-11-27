@@ -16,6 +16,7 @@ Publiczny notatnik badań Błażeja. Cel: zebrać twierdzenia, dane pierwotne, p
 - [Życie pozaziemskie i UAP](aliens-uap/README.md)
 - [Piramidy](pyramids/README.md)
 - [Religie i bogowie](religions-gods/README.md)
+- [Ciemna materia](dossiers/dark-matter/README.md)
 - [Hipoteza symulacji („Matrix”)](simulation-hypothesis/README.md)
 - [Rejestr źródeł](sources/README.md)
 - [Dziennik poszukiwań](research-log/)
@@ -132,3 +133,6 @@ Po rundzie 57: [dziennik badań](research-log/2026-11-27-round-57.md) omawia mod
 
 
 Po rundzie 59: [dziennik badań](research-log/2026-11-27-round-59.md) omawia datowanie Taung Child. Nowy pomiar flowstone wspiera wiek co najmniej około 2,96 mln lat; wąski przedział 2,96–3,03 mln lat łączy dolną granicę izotopową z górną granicą paleomagnetyczną i nie jest bezpośrednim datowaniem czaszki.
+
+
+Po rundzie 60: [dziennik badań](research-log/2026-11-27-round-60.md) dokumentuje niższe medianowe gęstości ciemnej materii w centrach masywniejszych galaktyk niż przewidują porównywane symulacje. Wynik wskazuje napięcie w modelach formowania galaktyk; nie obala ciemnej materii ani ΛCDM, a przyczyna pozostaje otwarta.
