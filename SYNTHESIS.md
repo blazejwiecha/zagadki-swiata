@@ -65,3 +65,7 @@ Nowa symulacja hydrodynamiczna odtwarza pozycje maserów przypisywanych ramieniu
 ## Aktualizacja z rundy 78 — zintegrowana pamięć fotoniczna
 
 Pamięć w kryształowej wnęce falowodowej osiągnęła 90,2(4)% wydajności zapisu i odczytu dla słabych impulsów na poziomie pojedynczych fotonów oraz 99,3(1)% wierności time-bin. To ważny komponent laboratoryjny, ale nie działający repeater: czas przechowywania, skalowanie i integracja całej sieci nadal wymagają osobnych demonstracji. [Dziennik rundy 78](research-log/2026-11-27-round-78.md).
+
+## Aktualizacja z rundy 79 — supersolid dipolowych ekscytonów
+
+Dipolowe ekscytony w sieci tworzyły uporządkowane wzory dla kilku ułamkowych obsadzeń, a pomiary interferencyjne wykazały równocześnie koherencję przestrzenną. Zestaw tych sygnałów oraz obliczenia wspierają supersolidne fazy w badanym układzie. To mezoskopowa platforma z krótkotrwałymi wzbudzeniami, nie makroskopowa próbka trwałej, równowagowej materii. [Dziennik rundy 79](research-log/2026-11-27-round-79.md).
