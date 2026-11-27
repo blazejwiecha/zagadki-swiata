@@ -373,3 +373,12 @@ Recenzowane badanie połączyło scenę Sentinel-1 z 2018 r., ERT, odwierty i wy
 ## Aktualizacja z rundy 56 — rzemiosło kultowe w Kom Ombo
 
 Recenzowane badanie GC–MS siedmiu mumii krokodyli wykazało różne mieszanki wosku pszczelego i produktów sosnowych oraz cedrowych. Wraz z wcześniejszymi analizami wyniki wspierają hipotezę, że w Kom Ombo przez kilka stuleci stosowano lokalny przepis balsamowania. To świadectwo trwałej praktyki materialnej związanej z kultem Sobka; skład balsamu nie identyfikuje dokładnej funkcji każdej mumii ani przekonań konkretnych ludzi. Uogólnienie ogranicza mała próba i zależność od datowania oraz proweniencji muzealnych zabytków. Szczegóły: [runda 56](research-log/2026-11-27-round-56.md).
+
+
+## Aktualizacja z rundy 57 — jonosfera jako filtr dla szerokopasmowego SETI
+
+Recenzowany model Garrett’a przewiduje, że jonosfera planety tłumi radiowy wyciek powierzchniowy poniżej zależnej od XUV częstotliwości plazmowej, a próg może zmieniać się wraz z fazą orbitalną. To interesująca predykcja do sprawdzenia, lecz uproszczony model atmosfery i zależność od geometrii, kierunkowości oraz stabilności emisji ograniczają jej zastosowanie. Niskie częstotliwości są trudne do obserwacji z Ziemi, a sam obrót widma nie jest unikalny dla techniki. Praca nie opisuje detekcji. Szczegóły: [runda 57](research-log/2026-11-27-round-57.md).
+
+## Aktualizacja z rundy 58 — archaiczny Homo w południowych Chinach
+
+Recenzowana analiza czterech zębów z Guangxi wspiera istnienie populacji o denisowiańskim pokrewieństwie w południowych, subtropikalnych Chinach. Dwa starsze zęby z innego stanowiska mają odmienny profil proteomiczny i morfologiczny, ale pozostają taksonomicznie nierozstrzygnięte. Rozbieżności między wiekiem zębów i osadów wskazują na transport oraz późniejsze pogrzebanie szczątków. Wynik poszerza zasięg i złożoność archaicznych populacji, lecz nie ustanawia nowego gatunku: próba jest mała, białka częściowe, a DNA nie odzyskano. Szczegóły: [runda 58](research-log/2026-11-27-round-58.md).
