@@ -158,3 +158,12 @@ Abstrakt Khafre Project z marca 2025 r. twierdzi, że przetworzone dane SAR wska
 Powiązany artykuł tych autorów o piramidzie Chufu został wycofany przez *Remote Sensing* w 2026 r. z powodu poważnych wad metodologicznych i błędów statystycznych. Jest to istotny problem dla wiarygodności metody, ale formalnie artykuł dotyczył Chufu i wycofanie samo nie falsyfikuje osobnego twierdzenia o Chefrenie. Niezależny zespół ScIDEP rozwija muografię Chefrena; prezentacja z 2026 r. podawała 70 mln śladów w analizie, bez końcowego wyniku wykrycia nowych struktur. Ten pomiar może kontrolować rozkład gęstości w badanym przekroju piramidy, lecz nie potwierdza automatycznie obiektów setki metrów lub 2 km pod płaskowyżem.
 
 **Ocena na 26.11.2026:** rozległy kompleks nie został wykazany niezależnym, odtwarzalnym pomiarem. Status: **niepotwierdzone**, nie „udowodniono, że nie istnieje”. Pełny audyt: [runda 46](../../research-log/2026-11-26-round-46.md). Źródła P26–P30 w [rejestrze](../../sources/README.md).
+
+
+## IER przeniesiony na piramidę Chefrena: dopasowanie do cech powierzchni, nie potwierdzenie rampy (runda 54)
+
+Recenzowany artykuł Rosella Roiga z listopada 2026 r. ocenia, czy model zintegrowanych ramp przy krawędziach (IER), badany wcześniej dla Chufu, jest geometrycznie i logistycznie zgodny z piramidą Chefrena. Symulacja daje wykonalne scenariusze w horyzoncie ok. 25 lat. Autor zestawia przewidywane wysokości skrętów z cechami zewnętrznymi, m.in. zmianami grubości warstw, pasem odmiennej faktury muru i płaskim wcięciem w północno-zachodnim narożniku.
+
+To są kandydackie zbieżności wskazujące, gdzie mierzyć; autor wyraźnie nie uznaje ich za dowód związku przyczynowego. Dla Chefrena nie ma opublikowanej, metrycznej serii warstw o rozdzielczości potrzebnej do testu statystycznego; obserwacje pochodzą z istniejących modeli i są częściowo przybliżone. Wcięcie narożne wymaga sprawdzenia, a erozja, rabunek lub naprawy pozostają alternatywami. Zgodność symulacji z horyzontem panowania pokazuje wykonalność modelu, nie jego historyczne użycie.
+
+**Ocena:** nowy, recenzowany zestaw falsyfikowalnych celów pomiarowych dla IER, ale brak bezpośredniego dowodu rampy. Potrzebne są niezależne pomiary TLS/SfM z kontrolą terenową i jawnie oszacowaną niepewnością. Pełna analiza: [runda 54](../../research-log/2026-11-27-round-54.md); źródło P22 w [rejestrze](../../sources/README.md).
