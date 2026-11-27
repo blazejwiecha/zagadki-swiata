@@ -336,3 +336,10 @@ Dokument potwierdza publiczną analizę radarową, ale nie identyfikuje źródł
 Arecibo Wow! Project ponownie przeanalizował stare dane Big Ear i w 2025 r. podał dwie możliwe lokalizacje, częstotliwość 1420,726 MHz i strumień powyżej 250 Jy. Strona projektu z września 2026 r. podniosła dolną granicę jasności do >300 Jy i nieco zmieniła oszacowania współrzędnych. Zespół zaznacza, że archiwum nadal kalibruje i waliduje, a dostęp do zbioru jest ograniczony; te parametry są więc bieżącą interpretacją autorów, nie niezależnie powtórzonym wynikiem.
 
 Autorzy zaproponowali naturalny mechanizm: krótkie wzmocnienie emisji linii wodoru w małym, zimnym obłoku HI po pobudzeniu przez silne źródło tła. W danych z Arecibo znaleźli znacznie słabsze sygnały o podobnym profilu, ale nie wykazali, że taki proces wytworzył zdarzenie Wow! z 1977 r.; maser HI na tej linii nie został dotąd zaobserwowany astronomicznie. **Wniosek:** nowe dane zawężają poszukiwania i wspierają testowanie interpretacji astrofizycznej, ale nie identyfikują źródła i nie dowodzą ani życia, ani technosygnatury. Szczegóły: [dziennik rundy 48](research-log/2026-11-26-round-48.md).
+
+
+## Dodatkowe aktualizacje z 27 listopada 2026 — nowe teorie i lepsze instrumenty
+
+Runda 49 jest pobocznym przeglądem preprintu o kwantowaniu próżniowej grawitacji. Jego główne wnioski są deklaracjami autorów i spotkały się z wczesną krytyką specjalistyczną; wpis nie wpływa na empiryczny status hipotezy Matrixa.
+
+Runda 50 opisuje recenzowaną metodę FLIP, która poprawia odejmowanie światła gwiazdy na rzeczywistych danych koronograficznych JWST/NIRCam. Uzyskano lepszą czułość w konkretnych zestawach obserwacji i obraz znanej planety-giganta 51 Eridani b przy 4,3 μm. Metoda może zwiększyć liczbę planet dostępnych do obrazowania, lecz testy nie obejmowały egzoplanety ziemskiej ani poszukiwania biosygnatur. To postęp narzędzia obserwacyjnego, nie nowy dowód życia poza Ziemią. Szczegóły: [runda 50](research-log/2026-11-27-round-50.md).
