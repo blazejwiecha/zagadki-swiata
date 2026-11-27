@@ -382,3 +382,8 @@ Recenzowany model Garrett’a przewiduje, że jonosfera planety tłumi radiowy w
 ## Aktualizacja z rundy 58 — archaiczny Homo w południowych Chinach
 
 Recenzowana analiza czterech zębów z Guangxi wspiera istnienie populacji o denisowiańskim pokrewieństwie w południowych, subtropikalnych Chinach. Dwa starsze zęby z innego stanowiska mają odmienny profil proteomiczny i morfologiczny, ale pozostają taksonomicznie nierozstrzygnięte. Rozbieżności między wiekiem zębów i osadów wskazują na transport oraz późniejsze pogrzebanie szczątków. Wynik poszerza zasięg i złożoność archaicznych populacji, lecz nie ustanawia nowego gatunku: próba jest mała, białka częściowe, a DNA nie odzyskano. Szczegóły: [runda 58](research-log/2026-11-27-round-58.md).
+
+
+## Aktualizacja z rundy 59 — Taung Child i pliocenski wiek
+
+Nowa analiza flowstone nad osadem zawierającym Taung Child uzyskała wiek 2,962 ± 0,059 mln lat metodą ²⁰⁷Pb/²³⁵U. Przy założeniu późniejszego zysku uranu stanowi to minimalny wiek czaszki; 2,96–3,03 mln lat uzyskano dopiero po połączeniu z górną granicą paleomagnetyczną. Nie istnieje radiometryczny górny limit, a drugi system U–Pb daje niepokrywający się wynik. Pierwotna proweniencja czaszki nie jest dokładnie znana, bo została utracona podczas wydobycia. Artykuł dodatkowo pokazuje, jak nieostro zdefiniowany pozostaje *Australopithecus africanus*, i proponuje złożoną dynamikę populacji, lecz nie rozstrzyga pokrewieństwa ani hybrydyzacji. Szczegóły: [runda 59](research-log/2026-11-27-round-59.md).
