@@ -120,3 +120,6 @@ Po rundzie 54: [dziennik badań](research-log/2026-11-27-round-54.md) analizuje 
 
 
 Po rundzie 55: [dziennik badań](research-log/2026-11-27-round-55.md) porządkuje doniesienie o Buto. Radar wskazał obszar do dalszych badań, a mury i przedmioty kultowe potwierdzono przez ERT i wykop. Funkcja świątynna jest prawdopodobna, lecz nie rozstrzygnięta; druga świątynia nie została odkryta.
+
+
+Po rundzie 56: [dziennik badań](research-log/2026-11-27-round-56.md) analizuje chemiczne składy balsamów siedmiu mumii krokodyli. Wyniki wspierają istnienie długotrwałej lokalnej tradycji w Kom Ombo, ale nie pozwalają uogólnić jednego przepisu na cały Egipt ani odtworzyć samych wierzeń.
