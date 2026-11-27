@@ -1,14 +1,11 @@
-# Czarne dziury — co naprawdę pokazują obserwacje
+[object Object]
 
-Ten dossier rozdziela obserwacje czarnych dziur, rekonstrukcje obrazów, wnioski o ich otoczeniu i testy teorii grawitacji. Jasny pierścień radiowy nie jest powierzchnią horyzontu: to emisja gorącej materii zniekształcona przez silną grawitację.
+## Dún Aonghasa: czarna dziura już 630 mln lat po Wielkim Wybuchu (runda 68)
 
-## M87*: niezależna metoda odtwarza pierścień z danych EHT (runda 63)
+Kwazar J1504+6252, wybrany w danych Euclid i potwierdzony obserwacjami Kecka, HST, LBT i JWST, ma spektroskopowe przesunięcie ku czerwieni z = 8,129 ± 0,005. Widzimy go z epoki, gdy Wszechświat miał około 630 mln lat. Jest to pierwszy potwierdzony kwazar przy z > 8.
 
-Recenzowana analiza Lai i współautorów z 2026 r. użyła innego algorytmu oraz niezmienników interferometrycznych, by ponownie zrekonstruować archiwalne dane EHT z lat 2017, 2018 i 2021. Odtworzyła zwarte źródło o pierścieniowej morfologii i średnicy około 42 mikrosekund łuku. Wynik wzmacnia wniosek, że pierścień nie wynika jedynie z jednej procedury obrazowania.
+Szerokości linii Hβ i Mg II dają oszacowanie masy czarnej dziury rzędu kilkuset milionów mas Słońca: wartość referencyjna wynosi 10^8,56 M☉, z niepewnością ±0,43 dex; zastosowane kalibracje dają wartości centralne 10^8,33–10^8,89 M☉. Szacowany stosunek Eddingtona wynosi 0,12–0,44. Masa nie jest bezpośrednim pomiarem dynamicznym, a obecne tempo nie mówi, jak szybko obiekt rósł wcześniej.
 
-Niezależność jest metodologiczna, nie obserwacyjna: wykorzystano te same archiwalne pomiary EHT, a obrazowanie z rzadkich danych pozostaje niedookreślone. GenDIReCT jest algorytmem generatywnym uczonym głównie na przetworzonych obrazach CIFAR-10, choć autorzy testowali wrażliwość na geometryczne obrazy treningowe i uzyskali podobną morfologię bez nich. Pierścień to promieniowanie wokół czarnej dziury, nie bezpośrednia fotografia horyzontu. Pełny audyt: [dziennik rundy 63](../../research-log/2026-11-27-round-63.md).
+Odkrycie dostarcza nowego ograniczenia dla modeli zalążków i wzrostu wczesnych czarnych dziur. Nie wybiera samo między masywnym zalążkiem a długim, efektywnym wzrostem i nie dowodzi, że wszystkie czarne dziury rosły tą samą drogą. Szczegóły oraz rozdzielenie pomiarów od interpretacji: [dziennik rundy 68](../../research-log/2026-11-27-round-68.md).
 
-## Źródła startowe
-
-- Lai et al. (2026), *Nature*: https://doi.org/10.1038/s41586-026-11241-9
-- GenDIReCT, kod i dane: https://doi.org/10.5281/zenodo.22764433
+**Źródła:** [artykuł A&A / arXiv:2611.31385](https://arxiv.org/abs/2611.31385) · [DOI](https://doi.org/10.1051/0004-6361/202662243) · [ESA](https://www.esa.int/articles/about-us/directorates/science/euclid/euclid-breaks-own-quasar-record-by-40-million-years)
