@@ -1,4 +1,4 @@
-[object Object]
+# Synteza wyników i otwartych pytań
 
 ## Aktualizacja z rundy 68 — kwazar Dún Aonghasa i wzrost wczesnych czarnych dziur
 
