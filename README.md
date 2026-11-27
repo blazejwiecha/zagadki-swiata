@@ -117,3 +117,6 @@ Po rundzie 53: [dziennik badań](research-log/2026-11-27-round-53.md) analizuje 
 
 
 Po rundzie 54: [dziennik badań](research-log/2026-11-27-round-54.md) analizuje recenzowany test modelu ramp IER w piramidzie Chefrena. Symulacja jest logistycznie wykonalna, a część przewidywanych wysokości zbliża się do widocznych cech, lecz brak metrycznych pomiarów i bezpośredniego śladu rampy nie pozwala uznać metody za potwierdzoną.
+
+
+Po rundzie 55: [dziennik badań](research-log/2026-11-27-round-55.md) porządkuje doniesienie o Buto. Radar wskazał obszar do dalszych badań, a mury i przedmioty kultowe potwierdzono przez ERT i wykop. Funkcja świątynna jest prawdopodobna, lecz nie rozstrzygnięta; druga świątynia nie została odkryta.
