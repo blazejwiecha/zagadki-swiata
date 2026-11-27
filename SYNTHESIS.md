@@ -811,3 +811,8 @@ LHCb podało pierwszy pomiar czasowo zintegrowanej, nieoznaczonej asymetrii CP w
 ## Rzadki rozpad B⁰ → μ⁺μ⁻ — runda 65
 
 LHCb zgłosiło pierwszy pojedynczo-eksperymentalny dowód tego rzadkiego rozpadu: 3σ w danych Run 3 i 3,2σ po połączeniu z Run 1–2. Analizowano 18 fb⁻¹ z lat 2024–2025; artykuł jest preprintem zgłoszonym do *Physical Review X*. Wyniki są zgodne z Modelem Standardowym. To sygnał rozpadu poniżej standardu odkrycia, nie odkrycie nowej fizyki. Szczegóły: [runda 65](research-log/2026-11-27-round-65.md).
+
+
+## Bₛ⁰*(5700)⁰: obserwacja nowego hadronu, skład nadal otwarty (runda 66)
+
+LHCb zgłosiło rezonans w widmie Bₛ⁰π⁰ o globalnej istotności >7σ, masie 5698,9 ± 1,5 ± 0,6 ± 0,1 MeV/c² i szerokości <9,8 MeV przy 90% CL. To mocny wynik obserwacyjny; pomiar nie rozstrzyga, czy stan jest przede wszystkim partnerem chiralnym, mezonem z silnymi efektami kanałów sprzężonych czy konfiguracją z udziałem B K. Te interpretacje są modelami, nie bezpośrednim obrazem składu. Szczegóły: [runda 66](research-log/2026-11-27-round-66.md).
