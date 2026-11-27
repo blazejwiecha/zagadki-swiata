@@ -53,3 +53,7 @@ SN 2024vjm słabnie wolniej od jaśniejszych Iax. Autorzy wiążą to z wolnymi,
 W 136 pobliskich galaktykach rozkład masy wywnioskowany z ruchów gwiazd i gazu ma niższe medianowe centralne gęstości/udziały ciemnej materii niż kilka porównywanych symulacji hydrodynamicznych. Napięcie obejmuje coraz większe promienie dla masywniejszych galaktyk i utrzymuje się w testach na mockach oraz porównaniach próbek dopasowanych masą i rozmiarem.
 
 To pomiar dynamiki interpretowany przez modele, nie bezpośrednia detekcja cząstek. Wynik sam w sobie nie obala ΛCDM; pozostawia otwarte, czy ważniejsze są sprzężenie zwrotne, modelowanie populacji gwiazd i halo czy własności ciemnej materii. [Dziennik rundy 75](research-log/2026-11-27-round-75.md).
+
+## Aktualizacja z rundy 76 — impulsy radiowe z układu białego karła i gwiazdy typu G
+
+GPM J071507−114153 emituje impulsy co około 7,9 minuty; timing i widma wskazują na układ małomasywnego białego karła z gwiazdą typu G na orbicie około 1,3 dnia. Zmiany rotacji Faradaya przy koniunkcji są zgodne z wpływem korony towarzysza. To wzmacnia rolę interakcji w układzie podwójnym, lecz nie ujawnia kompletnego mechanizmu emisji ani nie opisuje całej populacji LPT. [Dziennik rundy 76](research-log/2026-11-27-round-76.md).
