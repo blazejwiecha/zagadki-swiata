@@ -343,3 +343,8 @@ Autorzy zaproponowali naturalny mechanizm: krótkie wzmocnienie emisji linii wod
 Runda 49 jest pobocznym przeglądem preprintu o kwantowaniu próżniowej grawitacji. Jego główne wnioski są deklaracjami autorów i spotkały się z wczesną krytyką specjalistyczną; wpis nie wpływa na empiryczny status hipotezy Matrixa.
 
 Runda 50 opisuje recenzowaną metodę FLIP, która poprawia odejmowanie światła gwiazdy na rzeczywistych danych koronograficznych JWST/NIRCam. Uzyskano lepszą czułość w konkretnych zestawach obserwacji i obraz znanej planety-giganta 51 Eridani b przy 4,3 μm. Metoda może zwiększyć liczbę planet dostępnych do obrazowania, lecz testy nie obejmowały egzoplanety ziemskiej ani poszukiwania biosygnatur. To postęp narzędzia obserwacyjnego, nie nowy dowód życia poza Ziemią. Szczegóły: [runda 50](research-log/2026-11-27-round-50.md).
+
+
+## Aktualizacja z rundy 51 — imię z Baalem i rdzeń *šlṭ* w Lachisz
+
+Recenzowany artykuł publikuje sześć częściowo zachowanych liter na naczyniu z późnobrązowego poziomu Tel Lachisz. Autorzy proponują imię osobowe z elementem Baala i rdzeniem *šlṭ*, co podważa traktowanie tego rdzenia jako wyłącznie późnego arameizmu i osłabia go jako samodzielny wskaźnik późnego datowania hebrajskiego tekstu. Fragment nie rozstrzyga daty żadnej księgi biblijnej, a imię potwierdza praktykę religijną, nie istnienie metafizyczne Baala. Odczyt ma ograniczenia, bo zachowały się tylko części liter. Szczegóły: [dziennik rundy 51](research-log/2026-11-27-round-51.md).
