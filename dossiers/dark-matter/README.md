@@ -16,3 +16,11 @@ Analiza 2,84 tonoroku LZ w rozszerzonym oknie do około 270 keV znalazła jeden 
 Ważna kontrola: publikacja określa analizę jako non-blind, a w tym przypadku nie dało się zastosować konkretnego tagu radonowego. Potencjalne tła obejmują m.in. zbiegi przypadkowe, neutrina atmosferyczne i MSSI. Potrzeba więcej zdarzeń oraz niezależnego potwierdzenia. [Dziennik rundy 70](../../research-log/2026-11-27-round-70.md).
 
 **Źródła:** [preprint LZ arXiv:2609.02823](https://arxiv.org/abs/2609.02823) · [Berkeley Lab](https://newscenter.lbl.gov/2026/09/01/lz-sees-surprising-result-in-search-for-dark-matter/)
+
+## Runda 75 — mniej ciemnej materii w centrach niż w symulacjach
+
+Analiza 136 pobliskich galaktyk łączy kinematykę gwiazd i neutralnego wodoru, szacując rozkład masy do promieni około 20–50 kpc. Medianowe centralne gęstości/udziały ciemnej materii są niższe niż w porównywanych symulacjach hydrodynamicznych, a obszar rozbieżności rośnie w bardziej masywnych galaktykach. Testy na mockach i próbki symulacyjne dopasowane masą i rozmiarem nie usuwają efektu.
+
+To wniosek o rozkładzie masy z dynamiki, nie bezpośrednia detekcja cząstek. Nie obala ΛCDM ani nie wskazuje jednej przyczyny: sprzężenie zwrotne, założenia modelowania, historia halo i fizyka ciemnej materii pozostają kandydatami. [Dziennik rundy 75](../../research-log/2026-11-27-round-75.md).
+
+**Źródło:** Lei et al. (2026), *Nature Astronomy*, [DOI](https://doi.org/10.1038/s41550-026-03017-y) · [arXiv:2609.16740](https://arxiv.org/abs/2609.16740).
