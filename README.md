@@ -30,6 +30,7 @@ Indeks poszukiwań Błażeja: co zmierzono, co wynika z danych i czego nadal nie
 - [Ciemna materia](dossiers/dark-matter/README.md)
 - [Zasada kosmologiczna](dossiers/cosmological-principle/README.md)
 - [Czarne dziury i M87*](dossiers/black-holes/README.md)
+- [Ewolucja człowieka i Denisowianie](dossiers/human-evolution.md)
 - [Asymetria materia–antymateria](dossiers/matter-antimatter/README.md)
 - [Rzadkie rozpady mezonów](dossiers/rare-decays/README.md)
 - [Struktura hadronów ciężkich](dossiers/hadron-structure/README.md)
