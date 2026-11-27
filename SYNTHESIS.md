@@ -387,3 +387,8 @@ Recenzowana analiza czterech zębów z Guangxi wspiera istnienie populacji o den
 ## Aktualizacja z rundy 59 — Taung Child i pliocenski wiek
 
 Nowa analiza flowstone nad osadem zawierającym Taung Child uzyskała wiek 2,962 ± 0,059 mln lat metodą ²⁰⁷Pb/²³⁵U. Przy założeniu późniejszego zysku uranu stanowi to minimalny wiek czaszki; 2,96–3,03 mln lat uzyskano dopiero po połączeniu z górną granicą paleomagnetyczną. Nie istnieje radiometryczny górny limit, a drugi system U–Pb daje niepokrywający się wynik. Pierwotna proweniencja czaszki nie jest dokładnie znana, bo została utracona podczas wydobycia. Artykuł dodatkowo pokazuje, jak nieostro zdefiniowany pozostaje *Australopithecus africanus*, i proponuje złożoną dynamikę populacji, lecz nie rozstrzyga pokrewieństwa ani hybrydyzacji. Szczegóły: [runda 59](research-log/2026-11-27-round-59.md).
+
+
+## Aktualizacja z rundy 60 — rozkład ciemnej materii w galaktykach
+
+Recenzowane badanie 136 pobliskich galaktyk łączy kinematykę gwiazd z H I i znajduje niższe medianowe gęstości ciemnej materii w centralnych rejonach masywniejszych galaktyk niż w kilku symulacjach hydrodynamicznych. Długość obszaru rozbieżności rośnie z masą; przy najmasywniejszych galaktykach obserwacja dochodzi do ~50 kpc, gdzie nadal pozostaje otwarte, czy chodzi o rozległy rdzeń czy ogólnie mniej masywne halo. Wynik jest benchmarkiem, nie obaleniem ciemnej materii ani całej ΛCDM. Centralne pomiary pojedynczych galaktyk mają dużą niepewność, a różnica może wynikać z fizyki barionowej, sprzężenia AGN lub własności DM. Szczegóły: [runda 60](research-log/2026-11-27-round-60.md).
