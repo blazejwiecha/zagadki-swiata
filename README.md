@@ -105,3 +105,6 @@ Po rundzie 49: [dziennik badań](research-log/2026-11-27-round-49.md) ocenia now
 
 
 Po rundzie 50: [dziennik badań](research-log/2026-11-27-round-50.md) analizuje metodę FLIP dla obrazowania egzoplanet przez JWST. Lepsza redukcja danych odsłania słabsze sygnały znanych olbrzymów i może wesprzeć przyszłe przeglądy; nie jest detekcją planety ziemskiej ani życia.
+
+
+Po rundzie 51: [dziennik badań](research-log/2026-11-27-round-51.md) analizuje recenzowaną inskrypcję z późnobrązowego Lachisz: imię z elementem Baala i wczesne poświadczenie rdzenia, który bywał uznawany za późny arameizm. Wniosek osłabia jeden wskaźnik późnego datowania językowego, ale nie datuje samodzielnie tekstów biblijnych.
