@@ -69,3 +69,7 @@ Pamięć w kryształowej wnęce falowodowej osiągnęła 90,2(4)% wydajności za
 ## Aktualizacja z rundy 79 — supersolid dipolowych ekscytonów
 
 Dipolowe ekscytony w sieci tworzyły uporządkowane wzory dla kilku ułamkowych obsadzeń, a pomiary interferencyjne wykazały równocześnie koherencję przestrzenną. Zestaw tych sygnałów oraz obliczenia wspierają supersolidne fazy w badanym układzie. To mezoskopowa platforma z krótkotrwałymi wzbudzeniami, nie makroskopowa próbka trwałej, równowagowej materii. [Dziennik rundy 79](research-log/2026-11-27-round-79.md).
+
+## Aktualizacja z rundy 80 — ewersja kolonii bakteryjnych
+
+W komorze laboratoryjnej część kolonii gonokoków wywracała się od środka na zewnątrz, a żywe komórki tworzyły nowe skupiska. Eksperymenty z dostępnością tlenu i model uproszczonej mechaniki wspierają rolę różnic w aktywności pili oraz niestabilności kształtu. To wynik in vitro dla jednego gatunku; wpływu na zakażenie u człowieka nie sprawdzono. [Dziennik rundy 80](research-log/2026-11-28-round-80.md).
